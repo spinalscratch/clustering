@@ -3,7 +3,6 @@ import pandas as pd
 from sklearn.cluster import Birch
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
 
 # Caricamento dei dati
 df = pd.read_csv("journal.pone.0148699_S1_Text_Sepsis_SIRS_EDITED.csv")

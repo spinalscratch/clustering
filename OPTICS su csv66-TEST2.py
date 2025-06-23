@@ -4,26 +4,26 @@ from sklearn.cluster import OPTICS
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 
-# Caricamento dei dati
+#caricamento dei dati
 df = pd.read_csv("journal.pone.0148699_S1_Text_Sepsis_SIRS_EDITED.csv")
 
-# Selezionare le features chiave dal paper: CRP, LymC, PLTC
+#selezionare le feature chiave dal paper
 X = df[['CRP', 'LymC', 'PLTC']]
 
-# Scaling dei dati
+#scaling dei dati
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 
-# Applicazione di OPTICS
-optics = OPTICS(min_samples=10, xi=0.05, min_cluster_size=0.05)
+#OPTICS
+optics = OPTICS(min_samples=10, xi=0.05, min_cluster_size=0.01)
 optics.fit(X_scaled)
 labels = optics.labels_
 
-# Analisi dei risultati
+#Analisi dei risultati
 n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
 print(f"Numero di cluster stimati (esclusi outlier): {n_clusters}")
 
-# Mappatura dei cluster ai gruppi clinici
+#mappatura dei cluster ai gruppi clinici
 results = []
 for i in range(n_clusters):
     cluster_data = df[labels == i]
@@ -44,7 +44,7 @@ results_df = pd.DataFrame(results)
 print("\nAnalisi dei cluster:")
 print(results_df.sort_values('Sepsis_Ratio', ascending=False))
 
-# Visualizzazione 3D
+#visualizzazione 3D
 fig = plt.figure(figsize=(12, 8))
 ax = fig.add_subplot(111, projection='3d')
 scatter = ax.scatter(
@@ -67,7 +67,7 @@ plt.legend(*scatter.legend_elements(), title='Cluster')
 plt.tight_layout()
 plt.show()
 
-# Identificazione del cluster "sepsi"
+#Identificazione del cluster "sepsi"
 sepsis_cluster = results_df.loc[results_df['Sepsis_Ratio'].idxmax()]
 print(f"\nCluster sepsi identificato: {sepsis_cluster['Cluster']}")
 print(f"Ratio sepsi: {sepsis_cluster['Sepsis_Ratio']:.2%}")

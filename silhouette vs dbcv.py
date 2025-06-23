@@ -1,30 +1,15 @@
-# Authors: The scikit-learn developers
-# SPDX-License-Identifier: BSD-3-Clause
-
-import time
-import warnings
-from itertools import cycle, islice
-
-import matplotlib.pyplot as plt
-# Authors: The scikit-learn developers
-# SPDX-License-Identifier: BSD-3-Clause
-
 import time
 import warnings
 from itertools import cycle, islice
 
 import matplotlib.pyplot as plt
 import numpy as np
-
-from sklearn import cluster, datasets
-from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import silhouette_score
-# Import corretto secondo la documentazione
 from kDBCV import DBCV_score
+from sklearn import cluster, datasets
+from sklearn.metrics import silhouette_score
+from sklearn.preprocessing import StandardScaler
 
-# ============
-# Generate datasets
-# ============
+#Genera dataset
 n_samples = 500
 seed = 30
 noisy_circles = datasets.make_circles(
@@ -45,9 +30,7 @@ varied = datasets.make_blobs(
     n_samples=n_samples, cluster_std=[1.0, 2.5, 0.5], random_state=random_state
 )
 
-# ============
-# Set up cluster parameters
-# ============
+#Set up parametri
 plt.figure(figsize=(10, 15))
 plt.subplots_adjust(
     left=0.02, right=0.98, bottom=0.05, top=0.95, wspace=0.05, hspace=0.25
@@ -107,9 +90,7 @@ for i_dataset, (dataset, algo_params) in enumerate(datasets):
     X, y = dataset
     X = StandardScaler().fit_transform(X)
 
-    # ============
-    # Create cluster objects
-    # ============
+    #Crea oggetti cluster
     two_means = cluster.MiniBatchKMeans(
         n_clusters=params["n_clusters"],
         random_state=params["random_state"],
@@ -141,7 +122,7 @@ for i_dataset, (dataset, algo_params) in enumerate(datasets):
 
         plt.subplot(len(datasets), len(clustering_algorithms), plot_num)
 
-        # Aggiunge il titolo solo per la prima riga
+        #Aggiunge il titolo solo per la prima riga
         if i_dataset == 0:
             plt.title(name, size=16, pad=20)
 
@@ -157,7 +138,7 @@ for i_dataset, (dataset, algo_params) in enumerate(datasets):
                 )
             )
         )
-        # Aggiunge il nero per i punti di rumore (outliers)
+        #Aggiunge il nero per i punti di rumore (outliers)
         colors = np.append(colors, ["#000000"])
         plt.scatter(X[:, 0], X[:, 1], s=15, color=colors[y_pred], alpha=0.8)
 
@@ -166,8 +147,7 @@ for i_dataset, (dataset, algo_params) in enumerate(datasets):
         plt.xticks([])
         plt.yticks([])
 
-        # --- MODIFICA PER CORREGGERE L'ERRORE ---
-        # Calcola e visualizza i punteggi
+        #Calcola e visualizza i punteggi
         n_clusters_ = len(set(y_pred)) - (1 if -1 in y_pred else 0)
         silhouette = "N/A"
         dbcv = "N/A"
@@ -176,15 +156,15 @@ for i_dataset, (dataset, algo_params) in enumerate(datasets):
             try:
                 silhouette = f"{silhouette_score(X, y_pred):.2f}"
 
-                # kDBCV restituisce una tupla (punteggio, punteggi_individuali)
-                # Estraiamo solo il primo elemento (il punteggio generale)
+                #kDBCV restituisce una coppia (punteggio, punteggi_individuali)
+                #estraggo solo il primo elemento (il punteggio generale)
                 score_result = DBCV_score(X, y_pred)
 
-                # Controlliamo se il risultato è una tupla e prendiamo il primo valore
+                #Controlliamo se il risultato è una coppia e prendiamo il primo valore
                 if isinstance(score_result, tuple):
                     dbcv_val = score_result[0]
                 else:
-                    dbcv_val = score_result  # Per sicurezza, se dovesse restituire un singolo valore
+                    dbcv_val = score_result  #se dovesse restituire un singolo valore
 
                 dbcv = f"{dbcv_val:.2f}"
 
@@ -193,7 +173,7 @@ for i_dataset, (dataset, algo_params) in enumerate(datasets):
                 print(f"Could not calculate scores for {name} on dataset {i_dataset}: {e}")
                 pass
 
-        # Posizione per il testo dei punteggi
+        #Posizione per il testo dei punteggi
         plt.text(
             -2.4,
             -2.4,
@@ -202,7 +182,6 @@ for i_dataset, (dataset, algo_params) in enumerate(datasets):
             verticalalignment="bottom",
             horizontalalignment="left",
         )
-        # --- FINE MODIFICA ---
 
         plt.text(
             0.99,

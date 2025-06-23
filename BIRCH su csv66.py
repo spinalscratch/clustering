@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# --- 1. Caricamento del Dataset ---
+#Caricamento del Dataset
 file_path = 'journal.pone.0148699_S1_Text_Sepsis_SIRS_EDITED.csv'
 try:
     df = pd.read_csv(file_path)
@@ -18,10 +18,10 @@ except FileNotFoundError:
     print(f"Errore: Il file '{file_path}' non è stato trovato. Assicurati che si trovi nella stessa directory dello script o specifica il percorso completo.")
     exit()
 
-# Salva le colonne originali per l'interpretazione dei cluster
+#Salva le colonne originali per l'interpretazione dei cluster
 df_original_copy = df.copy()
 
-# --- 2. Pre-elaborazione dei Dati ---
+#Pre-elaborazione dei Dati
 numerical_features = [
     'Age', 'APACHE II', 'SOFA', 'CRP', 'WBCC', 'NeuC', 'LymC',
     'EOC', 'NLCR', 'PLTC', 'MPV', 'LOS-ICU'
@@ -58,31 +58,19 @@ print("\nDati pre-elaborati (prime 5 righe, scalati e codificati):")
 print(X_scaled_df_info.head())
 print(f"Shape dei dati pre-elaborati per il clustering: {X_scaled.shape}")
 
-# --- 3. Applicazione del Clustering BIRCH ---
+#Applicazione del Clustering BIRCH
 print("\n--- Applicazione dell'algoritmo BIRCH ---")
 
-# Parametri di BIRCH:
-# threshold: raggio massimo dei sottocluster in un nodo foglia
-# n_clusters: numero di cluster finali. Se impostato a None, BIRCH eseguirà
-#             un clustering gerarchico sui sottocluster. Se impostato a un intero,
-#             applicherà un algoritmo di clustering (es. AgglomerativeClustering)
-#             sui sottocluster per raggiungere quel numero finale di cluster.
-#             Per un confronto diretto con Mean Shift, potremmo non impostare n_clusters
-#             inizialmente per vedere quanti sottocluster crea, o provare a impostare
-#             un numero ragionevole (es. 5-10) per esplorare.
-#             Per iniziare, proviamo senza n_clusters per vedere la sua auto-organizzazione.
-#             Oppure, per un confronto più diretto con il numero di cluster "scoperto"
-#             da Mean Shift (16), potremmo provare n_clusters=16.
-#             Visto che Mean Shift ha trovato 16 cluster, proviamo con quel valore.
-birch_model = Birch(n_clusters=16, threshold=0.5) # Potresti voler giocare con threshold
-                                                # per vedere come cambia il numero di sottocluster
+
+birch_model = Birch(n_clusters=16, threshold=0.5)
+
 birch_model.fit(X_scaled)
 df_original_copy['Cluster'] = birch_model.labels_
 
 n_clusters_birch = len(np.unique(df_original_copy['Cluster']))
 print(f"Numero di cluster identificati da BIRCH: {n_clusters_birch}")
 
-# --- 4. Interpretazione dei Cluster ---
+#Interpretazione dei Cluster
 print("\n--- Interpretazione dei Cluster ---")
 
 print("\nConteggio dei punti per cluster:")
@@ -116,7 +104,7 @@ for i in range(n_clusters_birch):
         else:
             print("    Colonna 'Group' non trovata.")
 
-# --- 5. Visualizzazione con PCA e Interpretazione dei Carichi ---
+#Visualizzazione con PCA e Interpretazione dei Carichi
 print("\n--- Visualizzazione dei Cluster con PCA ---")
 
 pca = PCA(n_components=2)
@@ -125,7 +113,7 @@ components = pca.fit_transform(X_scaled)
 pca_df = pd.DataFrame(data=components, columns=['PC1', 'PC2'])
 pca_df['Cluster'] = df_original_copy['Cluster'] # Assicurati di usare i cluster BIRCH
 
-# Aumenta il numero di colori se n_clusters_birch è grande
+#Aumenta il numero di colori se n_clusters_birch è grande
 colors = sns.color_palette("viridis", n_clusters_birch) # O un'altra palette come "tab20" se ci sono molti cluster
 plt.figure(figsize=(12, 10))
 sns.scatterplot(
@@ -147,13 +135,13 @@ print(f"\nVarianza spiegata dalla PC1: {pca.explained_variance_ratio_[0]*100:.2f
 print(f"Varianza spiegata dalla PC2: {pca.explained_variance_ratio_[1]*100:.2f}%")
 print(f"Varianza totale spiegata dalle prime 2 PC: {(pca.explained_variance_ratio_[0] + pca.explained_variance_ratio_[1])*100:.2f}%")
 
-# --- Interpretazione dei Carichi (Loadings) ---
+#Interpretazione dei Carichi (Loadings)
 print("\n--- Interpretazione dei Carichi delle Componenti Principali ---")
 
-# Crea un DataFrame per visualizzare i carichi in modo più leggibile
+#Crea un DataFrame per visualizzare i carichi in modo più leggibile
 loadings_df = pd.DataFrame(pca.components_.T, columns=['PC1_Loadings', 'PC2_Loadings'], index=feature_names_out)
 
-# Ordina per valore assoluto per vedere le variabili più influenti
+#Ordina per valore assoluto per vedere le variabili più influenti
 print("\nVariabili più influenti sulla PC1 (ordinate per valore assoluto):")
 print(loadings_df['PC1_Loadings'].abs().sort_values(ascending=False).head(10))
 
