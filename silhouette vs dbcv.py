@@ -4,7 +4,7 @@ from itertools import cycle, islice
 
 import matplotlib.pyplot as plt
 import numpy as np
-from kDBCV import DBCV_score
+from dbcv import dbcv
 from sklearn import cluster, datasets
 from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import StandardScaler
@@ -158,7 +158,7 @@ for i_dataset, (dataset, algo_params) in enumerate(datasets):
 
                 #kDBCV restituisce una coppia (punteggio, punteggi_individuali)
                 #estraggo solo il primo elemento (il punteggio generale)
-                score_result = DBCV_score(X, y_pred)
+                score_result = dbcv.dbcv(X, y_pred)
 
                 #Controlliamo se il risultato è una coppia e prendiamo il primo valore
                 if isinstance(score_result, tuple):

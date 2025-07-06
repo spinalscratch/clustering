@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 
 def main():
     #genera dati
-    X, y_true = sklearn.datasets.make_moons(n_samples=500, noise=0.05, random_state=17802)
+    X, y_true = sklearn.datasets.make_moons(n_samples=500, noise=0.05, random_state=1782)
 
-    #aggiunge rumore
+    #aggiungi rumore
     rng = np.random.RandomState(1082)
     quantiles = np.quantile(X, (0, 1), axis=0)
     X_noise = rng.uniform(low=quantiles[0], high=quantiles[1], size=(100, 2))
@@ -18,7 +18,7 @@ def main():
     X = np.vstack((X, X_noise))
 
     #applica OPTICS
-    clustering = OPTICS(min_samples=7, xi=0.07, min_cluster_size=0.15).fit(X)
+    clustering = OPTICS(min_samples=10, xi=0.07, min_cluster_size=0.15).fit(X)
     y_pred = clustering.labels_
 
     #calcola DBCV
