@@ -7,7 +7,7 @@ import dbcv
 
 def main():
     # Caricamento e pulizia del dataset
-    df = pd.read_csv('journal.pone.0216416_Takashi2019_diabetes_type1_dataset_preprocessed.csv')
+    df = pd.read_csv('../../data/raw/journal.pone.0216416_Takashi2019_diabetes_type1_dataset_preprocessed.csv')
     df = df.dropna(how='all')
     df = df.dropna(axis=1, how='all')
     df = df.dropna()

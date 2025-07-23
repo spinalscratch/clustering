@@ -1,9 +1,3 @@
-# Authors: The scikit-learn developers
-# SPDX-License-Identifier: BSD-3-Clause
-
-# Authors: The scikit-learn developers
-# SPDX-License-Identifier: BSD-3-Clause
-
 import numpy as np
 
 from sklearn.cluster import MeanShift, estimate_bandwidth

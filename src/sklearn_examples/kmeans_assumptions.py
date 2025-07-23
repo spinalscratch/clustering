@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs
+from sklearn.cluster import KMeans
+import os
 
 n_samples = 1500
 random_state = 170
@@ -15,8 +17,6 @@ X_filtered = np.vstack(
     (X[y == 0][:500], X[y == 1][:100], X[y == 2][:10])
 )  # Unevenly sized blobs
 y_filtered = [0] * 500 + [1] * 100 + [2] * 10
-
-from sklearn.cluster import KMeans
 
 common_params = {
     "n_init": "auto",
@@ -42,5 +42,14 @@ axs[1, 1].scatter(X_filtered[:, 0], X_filtered[:, 1], c=y_pred, s=7)
 axs[1, 1].set_title("Unevenly Sized Blobs")
 
 plt.suptitle("Unexpected KMeans clusters").set_y(0.95)
-plt.show()
+
+output_folder = "../../results/plots/sklearn_plots"
+plot_filename = "unexpected_kmeans_clusters.png"
+
+os.makedirs(output_folder, exist_ok=True)
+
+full_path = os.path.join(output_folder, plot_filename)
+
+plt.savefig(full_path)
+plt.close(fig)
 

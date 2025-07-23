@@ -7,7 +7,7 @@ import dbcv
 
 def main():
     # Caricamento e pulizia del dataset
-    df = pd.read_csv('journal.pone.0148699_S1_Text_Sepsis_SIRS_EDITED.csv')
+    df = pd.read_csv('../../data/raw/journal.pone.0148699_S1_Text_Sepsis_SIRS_EDITED.csv')
     df = df.dropna(how='all')
     df = df.dropna(axis=1, how='all')
     df = df.dropna()

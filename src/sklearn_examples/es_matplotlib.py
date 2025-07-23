@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs
+import os
 
 n_samples = 1500
 random_state = 170
@@ -14,34 +15,47 @@ X_filtered = np.vstack(
     (X[y == 0][:500], X[y == 1][:100], X[y == 2][:10]))  # Unevenly sized blobs
 y_filtered = [0] * 500 + [1] * 100 + [2] * 10
 
-# Grafico dei dati originali con puntini più piccoli
+output_folder = "../../results/plots/other_examples"
+
+# crea la cartella di output se non esiste
+if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
+    print(f"Cartella '{output_folder}' creata.")
+
+# Grafico dei dati originali
 plt.figure(figsize=(8, 6))
 plt.scatter(X[:, 0], X[:, 1], c=y, s=8)
 plt.title("Dati Originali")
 plt.xlabel("Feature 1")
 plt.ylabel("Feature 2")
-plt.show()
+plt.savefig(os.path.join(output_folder, "dati_originali.png"))
+plt.close()
 
-# Grafico dei dati anisotropici con puntini più piccoli
+# Grafico dei dati anisotropici
 plt.figure(figsize=(8, 6))
 plt.scatter(X_aniso[:, 0], X_aniso[:, 1], c=y, s=8)
 plt.title("Dati Anisotropici")
 plt.xlabel("Feature 1")
 plt.ylabel("Feature 2")
-plt.show()
+plt.savefig(os.path.join(output_folder, "dati_anisotropici.png"))
+plt.close()
 
-# Grafico dei dati con varianza disomogenea con puntini più piccoli
+# Grafico dei dati con varianza disomogenea
 plt.figure(figsize=(8, 6))
 plt.scatter(X_varied[:, 0], X_varied[:, 1], c=y_varied, s=8)
 plt.title("Dati con Varianza Disomogenea")
 plt.xlabel("Feature 1")
 plt.ylabel("Feature 2")
-plt.show()
+plt.savefig(os.path.join(output_folder, "dati_varianza_disomogenea.png"))
+plt.close()
 
-# Grafico dei dati con cluster di dimensioni diverse con puntini più piccoli
+# Grafico dei dati con cluster di dimensioni diverse
 plt.figure(figsize=(8, 6))
 plt.scatter(X_filtered[:, 0], X_filtered[:, 1], c=y_filtered, s=8)
 plt.title("Dati con Cluster di Dimensioni Diverse")
 plt.xlabel("Feature 1")
 plt.ylabel("Feature 2")
-plt.show()
+plt.savefig(os.path.join(output_folder, "dati_cluster_diversi.png"))
+plt.close()
+
+print(f"I plot sono stati salvati nella cartella: {output_folder}")

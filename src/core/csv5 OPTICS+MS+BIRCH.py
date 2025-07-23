@@ -7,7 +7,7 @@ import dbcv
 
 def main():
     # Caricamento e pulizia del dataset
-    df = pd.read_csv('10_7717_peerj_5665_dataYM2018_neuroblastoma.csv')
+    df = pd.read_csv('../../data/raw/10_7717_peerj_5665_dataYM2018_neuroblastoma.csv')
     df = df.dropna(how='all')
     df = df.dropna(axis=1, how='all')
     df = df.dropna()
