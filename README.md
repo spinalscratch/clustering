@@ -2,7 +2,7 @@
 
 Clustering Non-Supervisionato con Algoritmi Density-Based
 
-Progetto di stage
+Progetto di stage ->
 Autore: Mario D’Occhio (900002)  
 
 Obiettivo del Progetto
