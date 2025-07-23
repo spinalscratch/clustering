@@ -7,7 +7,7 @@ import dbcv
 
 def main():
     # Caricamento e pulizia del dataset
-    df = pd.read_csv('journal.pone.0216416_Takashi2019_diabetes_type1_dataset_preprocessed.csv')
+    df = pd.read_csv('journal.pone.0175818_S1Dataset_Spain_cardiac_arrest_EDITED..csv')
     df = df.dropna(how='all')
     df = df.dropna(axis=1, how='all')
     df = df.dropna()
@@ -42,7 +42,7 @@ def main():
         print(f"  Totale elementi: {len(labels)}\n")
 
     # Applicazione OPTICS
-    optics = OPTICS(min_samples=5, xi=0.01, min_cluster_size=0.15)
+    optics = OPTICS(min_samples=10, xi=0.05, min_cluster_size=0.15)
     optics_labels = optics.fit_predict(X_scaled)
     optics_clusters = count_clusters(optics_labels)
     optics_score = dbcv.dbcv(X_scaled, optics_labels)
@@ -50,7 +50,7 @@ def main():
     print(f"OPTICS: {optics_clusters} cluster, DBCV score: {optics_score:.4f}")
 
     # Applicazione MeanShift
-    ms = MeanShift(bandwidth=5)
+    ms = MeanShift(bandwidth=3.5)
     ms_labels = ms.fit_predict(X_scaled)
     ms_clusters = count_clusters(ms_labels)
     ms_score = dbcv.dbcv(X_scaled, ms_labels)
@@ -58,7 +58,7 @@ def main():
     print(f"MeanShift: {ms_clusters} cluster, DBCV score: {ms_score:.4f}")
 
     # Applicazione BIRCH
-    birch = Birch(n_clusters=None, threshold=4, branching_factor=50)
+    birch = Birch(n_clusters=None, threshold=3.1, branching_factor=50)
     birch_labels = birch.fit_predict(X_scaled)
     birch_clusters = count_clusters(birch_labels)
     birch_score = dbcv.dbcv(X_scaled, birch_labels)
