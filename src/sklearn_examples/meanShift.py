@@ -1,5 +1,5 @@
 import numpy as np
-
+import os
 from sklearn.cluster import MeanShift, estimate_bandwidth
 from sklearn.datasets import make_blobs
 
@@ -21,7 +21,7 @@ print("number of estimated clusters : %d" % n_clusters_)
 
 import matplotlib.pyplot as plt
 
-plt.figure(1)
+fig = plt.figure(1)
 plt.clf()
 
 colors = ["#dede00", "#377eb8", "#f781bf"]
@@ -40,4 +40,13 @@ for k, col in zip(range(n_clusters_), colors):
         markersize=14,
     )
 plt.title("Estimated number of clusters: %d" % n_clusters_)
-plt.show()
+
+output_folder = "../../results/plots/sklearn_plots"
+plot_filename = "sklearn_meanshift"
+
+os.makedirs(output_folder, exist_ok=True)
+
+full_path = os.path.join(output_folder, plot_filename)
+
+plt.savefig(full_path)
+plt.close(fig)

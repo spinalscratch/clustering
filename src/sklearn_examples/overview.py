@@ -1,5 +1,3 @@
-# Authors: The scikit-learn developers
-# SPDX-License-Identifier: BSD-3-Clause
 
 import time
 import warnings
@@ -11,6 +9,7 @@ import numpy as np
 from sklearn import cluster, datasets, mixture
 from sklearn.neighbors import kneighbors_graph
 from sklearn.preprocessing import StandardScaler
+import os
 
 # ============
 # Generate datasets. We choose the size big enough to see the scalability
@@ -41,7 +40,7 @@ varied = datasets.make_blobs(
 # ============
 # Set up cluster parameters
 # ============
-plt.figure(figsize=(9 * 2 + 3, 13))
+fig = plt.figure(figsize=(9 * 2 + 3, 13))
 plt.subplots_adjust(
     left=0.02, right=0.98, bottom=0.001, top=0.90, wspace=0.05, hspace=0.01
 )
@@ -258,4 +257,12 @@ for i_dataset, (dataset, algo_params) in enumerate(datasets):
         )
         plot_num += 1
 
-plt.show()
+output_folder = "../../results/plots/sklearn_plots"
+plot_filename = "sklearn_overview"
+
+os.makedirs(output_folder, exist_ok=True)
+
+full_path = os.path.join(output_folder, plot_filename)
+
+plt.savefig(full_path)
+plt.close(fig)

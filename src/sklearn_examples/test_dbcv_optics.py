@@ -3,7 +3,7 @@ from sklearn.cluster import OPTICS
 import numpy as np
 import dbcv
 import matplotlib.pyplot as plt
-
+import os
 
 def main():
     #genera dati
@@ -26,7 +26,7 @@ def main():
     print("DBCV score:", score)
 
     #visualizzazione
-    plt.figure(figsize=(12, 6))
+    fig1 = plt.figure(figsize=(12, 6))
 
     unique_labels = np.unique(y_pred)
 
@@ -51,14 +51,18 @@ def main():
     plt.grid(True, alpha=0.3)
 
     #reachability plot
-    plt.figure(figsize=(12, 4))
+    fig2 = plt.figure(figsize=(12, 4))
     plt.plot(clustering.reachability_[clustering.ordering_], 'b-', alpha=0.8)
     plt.title('Reachability plot')
     plt.xlabel('Punti ordinati')
     plt.ylabel('Distanza')
     plt.grid(True, alpha=0.3)
 
-    plt.show()
+    fig1.savefig("../../results/plots/other_examples/clustering_con_optics.png")
+    plt.close(fig1)
+
+    fig2.savefig("../../results/plots/other_examples/reachability_plot.png")
+    plt.close(fig2)
 
 
 if __name__ == '__main__':
