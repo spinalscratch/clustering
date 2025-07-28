@@ -6,6 +6,7 @@ Progetto di stage ->
 Autore: Mario D’Occhio (900002)  
 
 Obiettivo del Progetto
+
 Questo progetto di stage esplora tre algoritmi di clustering non-supervisionato **density-based** meno noti rispetto a DBSCAN:
 
 - **BIRCH** (Balanced Iterative Reducing and Clustering using Hierarchies)
