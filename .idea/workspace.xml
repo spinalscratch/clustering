@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dca933a7-4d4b-4d8f-9312-2965b3ac5532" name="Changes" comment="+">
-      <change afterPath="$PROJECT_DIR$/src/core/parametri_algoritmi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sklearn_examples/demo_sklearn_optics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sklearn_examples/test_reachability_plot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/csv10 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv10 OPTICS+MS+BIRCH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/csv23 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv23 OPTICS+MS+BIRCH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/csv5 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv5 OPTICS+MS+BIRCH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/csv6 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv6 OPTICS+MS+BIRCH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/csv66 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv66 OPTICS+MS+BIRCH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sklearn_examples/meanShift.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sklearn_examples/meanShift.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sklearn_examples/silhouette vs dbcv.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sklearn_examples/es_silhouette_vs_dbcv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sklearn_examples/test dbcv.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sklearn_examples/test_dbcv_optics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sklearn_examples/test reachability plot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sklearn_examples/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sklearn_examples/overview.py" afterDir="false" />
-    </list>
+    <list default="true" id="dca933a7-4d4b-4d8f-9312-2965b3ac5532" name="Changes" comment="+" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -294,7 +279,7 @@
       <workItem from="1753279615123" duration="83000" />
       <workItem from="1753279761503" duration="3550000" />
       <workItem from="1753284492315" duration="16166000" />
-      <workItem from="1753637811432" duration="6643000" />
+      <workItem from="1753637811432" duration="7267000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -400,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753291175066</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="+">
+      <option name="closed" value="true" />
+      <created>1753691681481</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1753691681481</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,7 +409,7 @@
     <SUITE FILE_PATH="coverage/clustering$overview.coverage" NAME="overview Coverage Results" MODIFIED="1753294146900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$test_reachability_plot.coverage" NAME="test reachability plot Coverage Results" MODIFIED="1753352986041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$silhouette_vs_dbcv.coverage" NAME="silhouette vs dbcv Coverage Results" MODIFIED="1753291709284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
-    <SUITE FILE_PATH="coverage/clustering$csv23_OPTICS_MS_BIRCH.coverage" NAME="csv23 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1751876404420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/clustering$csv23_OPTICS_MS_BIRCH.coverage" NAME="csv23 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1753691696312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
     <SUITE FILE_PATH="coverage/clustering$test_optics_dbcv.coverage" NAME="test_optics_dbcv Coverage Results" MODIFIED="1753289984756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$MeanShift_su_csv66_TEST2.coverage" NAME="MeanShift su csv66-TEST2 Coverage Results" MODIFIED="1749678040012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/clustering$example_kmeans_optics.coverage" NAME="example kmeans+optics Coverage Results" MODIFIED="1753288176885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
