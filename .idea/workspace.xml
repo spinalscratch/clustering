@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="dca933a7-4d4b-4d8f-9312-2965b3ac5532" name="Changes" comment="+">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/Diario_scientifico_17072025.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/doc/Diario_scientifico_02092025.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/csv23 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv23 OPTICS+MS+BIRCH.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/csv6 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv6 OPTICS+MS+BIRCH.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/csv66 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv66 OPTICS+MS+BIRCH.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/parametri_algoritmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/parametri_algoritmi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,56 +55,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.BIRCH su csv66-TEST2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BIRCH su csv66.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BIRCH su csv66_TEST2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INDEX TESTING.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MeanShift su csv66-TEST2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MeanShift su csv66.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MeanShift su csv66_TEST2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OPTICS su csv5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OPTICS su csv66-TEST2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OPTICS su csv66.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv10 OPTICS+MS+BIRCH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv23 OPTICS+MS+BIRCH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv5 OPTICS+MS+BIRCH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv6 OPTICS+MS+BIRCH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv66 OPTICS+MS+BIRCH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv66 TEST FEATURE.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo_sklearn_optics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.es_clustering_optics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.es_kmeans_vs_optics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.es_silhouette_vs_dbcv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.esempio grafici.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example kmeans+optics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kmeans-assumptions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.meanShift.executor&quot;: &quot;Run&quot;,
-    &quot;Python.overview.executor&quot;: &quot;Run&quot;,
-    &quot;Python.silhouette vs dbcv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test dbcv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test reachability plot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_optics_dbcv.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mario/PycharmProjects/clustering/results/plots&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BIRCH su csv66-TEST2.executor": "Run",
+    "Python.BIRCH su csv66.executor": "Run",
+    "Python.BIRCH su csv66_TEST2.executor": "Run",
+    "Python.INDEX TESTING.executor": "Run",
+    "Python.MeanShift su csv66-TEST2.executor": "Run",
+    "Python.MeanShift su csv66.executor": "Run",
+    "Python.MeanShift su csv66_TEST2.executor": "Run",
+    "Python.OPTICS su csv5.executor": "Run",
+    "Python.OPTICS su csv66-TEST2.executor": "Run",
+    "Python.OPTICS su csv66.executor": "Run",
+    "Python.csv10 OPTICS+MS+BIRCH.executor": "Run",
+    "Python.csv23 OPTICS+MS+BIRCH.executor": "Run",
+    "Python.csv5 OPTICS+MS+BIRCH.executor": "Run",
+    "Python.csv6 OPTICS+MS+BIRCH.executor": "Run",
+    "Python.csv66 OPTICS+MS+BIRCH.executor": "Run",
+    "Python.csv66 TEST FEATURE.executor": "Run",
+    "Python.demo.executor": "Run",
+    "Python.demo_sklearn_optics.executor": "Run",
+    "Python.es_clustering_optics.executor": "Run",
+    "Python.es_kmeans_vs_optics.executor": "Run",
+    "Python.es_silhouette_vs_dbcv.executor": "Run",
+    "Python.esempio grafici.executor": "Run",
+    "Python.example kmeans+optics.executor": "Run",
+    "Python.example.executor": "Run",
+    "Python.kmeans-assumptions.executor": "Run",
+    "Python.meanShift.executor": "Run",
+    "Python.overview.executor": "Run",
+    "Python.silhouette vs dbcv.executor": "Run",
+    "Python.test dbcv.executor": "Run",
+    "Python.test reachability plot.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_optics_dbcv.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Mario/PycharmProjects/clustering/doc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mario\PycharmProjects\clustering\results\plots" />
@@ -189,7 +191,7 @@
       <workItem from="1756295413305" duration="5137000" />
       <workItem from="1756380360437" duration="6737000" />
       <workItem from="1756459737182" duration="775000" />
-      <workItem from="1756801054317" duration="4293000" />
+      <workItem from="1756801054317" duration="10910000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -327,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756459749481</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="+">
+      <option name="closed" value="true" />
+      <created>1756805833144</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1756805833144</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +359,7 @@
     <SUITE FILE_PATH="coverage/clustering$OPTICS_su_csv66.coverage" NAME="OPTICS su csv66 Coverage Results" MODIFIED="1749583476743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/clustering$es_kmeans_vs_optics.coverage" NAME="es_kmeans_vs_optics Coverage Results" MODIFIED="1753289740646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$meanShift.coverage" NAME="meanShift Coverage Results" MODIFIED="1753291642573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
-    <SUITE FILE_PATH="coverage/clustering$csv5_OPTICS_MS_BIRCH.coverage" NAME="csv5 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1756801072405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
+    <SUITE FILE_PATH="coverage/clustering$csv5_OPTICS_MS_BIRCH.coverage" NAME="csv5 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1756812146591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
     <SUITE FILE_PATH="coverage/clustering$test_optics_dbcv.coverage" NAME="test_optics_dbcv Coverage Results" MODIFIED="1753289984756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$test_reachability_plot.coverage" NAME="test reachability plot Coverage Results" MODIFIED="1753352986041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$OPTICS_su_csv5.coverage" NAME="OPTICS su csv5 Coverage Results" MODIFIED="1750682380326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

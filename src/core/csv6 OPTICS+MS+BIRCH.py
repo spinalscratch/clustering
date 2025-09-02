@@ -31,8 +31,8 @@ def main():
         X_scaled = scaler.fit_transform(X)
 
         # Aggiunta di piccolo rumore per evitare duplicati
-        # rng = np.random.default_rng(seed=42)
-        # X_scaled += rng.normal(0, 1e-8, X_scaled.shape)
+        rng = np.random.default_rng(seed=42)
+        X_scaled += rng.normal(0, 1e-8, X_scaled.shape)
 
         def count_clusters(labels):
             unique = np.unique(labels)
