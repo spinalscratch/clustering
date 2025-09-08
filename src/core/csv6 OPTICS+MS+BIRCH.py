@@ -8,10 +8,10 @@ from datetime import datetime
 from contextlib import redirect_stdout
 
 # Import dei parametri da file esterno
-from parametri_algoritmi import optics_params, meanshift_params, birch_params
+from bin.params_algo_csv6 import optics_params, meanshift_params, birch_params
 
 def main():
-    output_dir = "../../results"
+    output_dir = "../../results/csv6"
     os.makedirs(output_dir, exist_ok=True)
     today_str = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     output_path = os.path.join(output_dir, f"risultati_cluster_csv6_{today_str}.txt")
