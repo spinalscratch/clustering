@@ -5,17 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dca933a7-4d4b-4d8f-9312-2965b3ac5532" name="Changes" comment="+">
-      <change afterPath="$PROJECT_DIR$/bin/params_algo_csv23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/params_algo_csv5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/params_algo_csv6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/params_algo_csv66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/old/params_algo_csv10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/old/params_algo_csv23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/old/params_algo_csv5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/old/params_algo_csv6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/old/params_algo_csv66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/csv10 GRAPHS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/csv23 GRAPHS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/csv5 GRAPHS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/csv6 GRAPHS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/csv66 GRAPHS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/params_algo_csv10.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/params_algo_csv10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/params_algo_csv23.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/params_algo_csv23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/params_algo_csv5.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/params_algo_csv5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/params_algo_csv6.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/params_algo_csv6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/params_algo_csv66.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/params_algo_csv66.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/csv10 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv10 OPTICS+MS+BIRCH.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/csv23 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv23 OPTICS+MS+BIRCH.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/csv5 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv5 OPTICS+MS+BIRCH.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/csv6 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv6 OPTICS+MS+BIRCH.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/csv66 OPTICS+MS+BIRCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/csv66 OPTICS+MS+BIRCH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/parametri_algoritmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/params_algo_csv10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,63 +70,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.BIRCH su csv66-TEST2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BIRCH su csv66.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BIRCH su csv66_TEST2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.INDEX TESTING.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MeanShift su csv66-TEST2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MeanShift su csv66.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MeanShift su csv66_TEST2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OPTICS su csv5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OPTICS su csv66-TEST2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OPTICS su csv66.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv10 OPTICS+MS+BIRCH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv23 OPTICS+MS+BIRCH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv5 OPTICS+MS+BIRCH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv6 OPTICS+MS+BIRCH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv66 OPTICS+MS+BIRCH.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv66 TEST FEATURE.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo_sklearn_optics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.es_clustering_optics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.es_kmeans_vs_optics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.es_silhouette_vs_dbcv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.esempio grafici.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example kmeans+optics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kmeans-assumptions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.meanShift.executor&quot;: &quot;Run&quot;,
-    &quot;Python.overview.executor&quot;: &quot;Run&quot;,
-    &quot;Python.silhouette vs dbcv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test dbcv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test reachability plot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_optics_dbcv.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mario/PycharmProjects/clustering/bin&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BIRCH su csv66-TEST2.executor": "Run",
+    "Python.BIRCH su csv66.executor": "Run",
+    "Python.BIRCH su csv66_TEST2.executor": "Run",
+    "Python.INDEX TESTING.executor": "Run",
+    "Python.MeanShift su csv66-TEST2.executor": "Run",
+    "Python.MeanShift su csv66.executor": "Run",
+    "Python.MeanShift su csv66_TEST2.executor": "Run",
+    "Python.OPTICS su csv5.executor": "Run",
+    "Python.OPTICS su csv66-TEST2.executor": "Run",
+    "Python.OPTICS su csv66.executor": "Run",
+    "Python.csv10 GRAPHS.executor": "Run",
+    "Python.csv10 OPTICS+MS+BIRCH.executor": "Run",
+    "Python.csv23 GRAPHS.executor": "Run",
+    "Python.csv23 OPTICS+MS+BIRCH.executor": "Run",
+    "Python.csv5 GRAPHS.executor": "Run",
+    "Python.csv5 OPTICS+MS+BIRCH.executor": "Run",
+    "Python.csv6 GRAPHS.executor": "Run",
+    "Python.csv6 OPTICS+MS+BIRCH.executor": "Run",
+    "Python.csv66 GRAPHS.executor": "Run",
+    "Python.csv66 OPTICS+MS+BIRCH.executor": "Run",
+    "Python.csv66 TEST FEATURE.executor": "Run",
+    "Python.demo.executor": "Run",
+    "Python.demo_sklearn_optics.executor": "Run",
+    "Python.es_clustering_optics.executor": "Run",
+    "Python.es_kmeans_vs_optics.executor": "Run",
+    "Python.es_silhouette_vs_dbcv.executor": "Run",
+    "Python.esempio grafici.executor": "Run",
+    "Python.example kmeans+optics.executor": "Run",
+    "Python.example.executor": "Run",
+    "Python.kmeans-assumptions.executor": "Run",
+    "Python.meanShift.executor": "Run",
+    "Python.overview.executor": "Run",
+    "Python.params_algo_csv10.executor": "Run",
+    "Python.params_algo_csv23.executor": "Run",
+    "Python.silhouette vs dbcv.executor": "Run",
+    "Python.test dbcv.executor": "Run",
+    "Python.test reachability plot.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_optics_dbcv.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Mario/PycharmProjects/clustering/results/csv66",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mario\PycharmProjects\clustering\bin" />
-      <recent name="C:\Users\Mario\PycharmProjects\clustering\doc" />
-      <recent name="C:\Users\Mario\PycharmProjects\clustering\results\plots" />
-      <recent name="C:\Users\Mario\PycharmProjects\clustering\results" />
-      <recent name="C:\Users\Mario\PycharmProjects\clustering\src\old" />
+      <recent name="C:\Users\Mario\PycharmProjects\clustering\results\csv66" />
+      <recent name="C:\Users\Mario\PycharmProjects\clustering\results\csv23" />
+      <recent name="C:\Users\Mario\PycharmProjects\clustering\results\csv10" />
+      <recent name="C:\Users\Mario\PycharmProjects\clustering\results\csv6" />
+      <recent name="C:\Users\Mario\PycharmProjects\clustering\bin\old" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mario\PycharmProjects\clustering\results\csv66" />
@@ -203,6 +220,13 @@
       <workItem from="1757002914182" duration="5122000" />
       <workItem from="1757010060185" duration="169000" />
       <workItem from="1757074792894" duration="1757000" />
+      <workItem from="1757326074751" duration="1294000" />
+      <workItem from="1757436967776" duration="861000" />
+      <workItem from="1757501446708" duration="5282000" />
+      <workItem from="1757601359612" duration="11258000" />
+      <workItem from="1757697459247" duration="11138000" />
+      <workItem from="1757936788876" duration="17263000" />
+      <workItem from="1758018376718" duration="21432000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -372,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756909094455</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="+">
+      <option name="closed" value="true" />
+      <created>1757326168369</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1757326168369</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,6 +418,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/clustering$overview.coverage" NAME="overview Coverage Results" MODIFIED="1753294146900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$silhouette_vs_dbcv.coverage" NAME="silhouette vs dbcv Coverage Results" MODIFIED="1753291709284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
+    <SUITE FILE_PATH="coverage/clustering$csv10_GRAPHS.coverage" NAME="csv10 GRAPHS Coverage Results" MODIFIED="1758049601570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
     <SUITE FILE_PATH="coverage/clustering$example_kmeans_optics.coverage" NAME="example kmeans+optics Coverage Results" MODIFIED="1753288176885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$es_silhouette_vs_dbcv.coverage" NAME="es_silhouette_vs_dbcv Coverage Results" MODIFIED="1753293872411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$INDEX_TESTING.coverage" NAME="INDEX TESTING Coverage Results" MODIFIED="1753289381591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
@@ -394,24 +427,30 @@
     <SUITE FILE_PATH="coverage/clustering$OPTICS_su_csv66.coverage" NAME="OPTICS su csv66 Coverage Results" MODIFIED="1749583476743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/clustering$es_kmeans_vs_optics.coverage" NAME="es_kmeans_vs_optics Coverage Results" MODIFIED="1753289740646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$meanShift.coverage" NAME="meanShift Coverage Results" MODIFIED="1753291642573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
-    <SUITE FILE_PATH="coverage/clustering$csv5_OPTICS_MS_BIRCH.coverage" NAME="csv5 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1756912879049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
+    <SUITE FILE_PATH="coverage/clustering$csv5_OPTICS_MS_BIRCH.coverage" NAME="csv5 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1757951252202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
+    <SUITE FILE_PATH="coverage/clustering$csv66_GRAPHS.coverage" NAME="csv66 GRAPHS Coverage Results" MODIFIED="1758050004375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
     <SUITE FILE_PATH="coverage/clustering$test_optics_dbcv.coverage" NAME="test_optics_dbcv Coverage Results" MODIFIED="1753289984756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
+    <SUITE FILE_PATH="coverage/clustering$params_algo_csv23.coverage" NAME="params_algo_csv23 Coverage Results" MODIFIED="1757708652411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
     <SUITE FILE_PATH="coverage/clustering$test_reachability_plot.coverage" NAME="test reachability plot Coverage Results" MODIFIED="1753352986041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$OPTICS_su_csv5.coverage" NAME="OPTICS su csv5 Coverage Results" MODIFIED="1750682380326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/clustering$MeanShift_su_csv66.coverage" NAME="MeanShift su csv66 Coverage Results" MODIFIED="1749583742109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/clustering$demo_sklearn_optics.coverage" NAME="demo_sklearn_optics Coverage Results" MODIFIED="1753353286408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
+    <SUITE FILE_PATH="coverage/clustering$csv6_GRAPHS.coverage" NAME="csv6 GRAPHS Coverage Results" MODIFIED="1758049160297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
     <SUITE FILE_PATH="coverage/clustering$BIRCH_su_csv66_TEST2.coverage" NAME="BIRCH su csv66-TEST2 Coverage Results" MODIFIED="1750604326101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/clustering$test.coverage" NAME="test Coverage Results" MODIFIED="1757002483291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
     <SUITE FILE_PATH="coverage/clustering$kmeans_assumptions.coverage" NAME="kmeans-assumptions Coverage Results" MODIFIED="1753291073054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
-    <SUITE FILE_PATH="coverage/clustering$csv66_OPTICS_MS_BIRCH.coverage" NAME="csv66 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1757003245487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
+    <SUITE FILE_PATH="coverage/clustering$csv66_OPTICS_MS_BIRCH.coverage" NAME="csv66 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1757951548232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
+    <SUITE FILE_PATH="coverage/clustering$csv5_GRAPHS.coverage" NAME="csv5 GRAPHS Coverage Results" MODIFIED="1758048641407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
     <SUITE FILE_PATH="coverage/clustering$demo.coverage" NAME="demo Coverage Results" MODIFIED="1749581697209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/clustering$es_clustering_optics.coverage" NAME="es_clustering_optics Coverage Results" MODIFIED="1753287849324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$example.coverage" NAME="example Coverage Results" MODIFIED="1753286581927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
     <SUITE FILE_PATH="coverage/clustering$esempio_grafici.coverage" NAME="esempio grafici Coverage Results" MODIFIED="1753286545195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
-    <SUITE FILE_PATH="coverage/clustering$csv6_OPTICS_MS_BIRCH.coverage" NAME="csv6 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1756916926889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
-    <SUITE FILE_PATH="coverage/clustering$csv23_OPTICS_MS_BIRCH.coverage" NAME="csv23 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1756924512896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
+    <SUITE FILE_PATH="coverage/clustering$csv6_OPTICS_MS_BIRCH.coverage" NAME="csv6 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1757607466278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
+    <SUITE FILE_PATH="coverage/clustering$csv23_OPTICS_MS_BIRCH.coverage" NAME="csv23 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1757959501404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
+    <SUITE FILE_PATH="coverage/clustering$csv23_GRAPHS.coverage" NAME="csv23 GRAPHS Coverage Results" MODIFIED="1758049877938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
+    <SUITE FILE_PATH="coverage/clustering$params_algo_csv10.coverage" NAME="params_algo_csv10 Coverage Results" MODIFIED="1757505383714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
     <SUITE FILE_PATH="coverage/clustering$test_dbcv.coverage" NAME="test dbcv Coverage Results" MODIFIED="1753352819597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/sklearn_examples" />
-    <SUITE FILE_PATH="coverage/clustering$csv10_OPTICS_MS_BIRCH.coverage" NAME="csv10 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1756920475945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
+    <SUITE FILE_PATH="coverage/clustering$csv10_OPTICS_MS_BIRCH.coverage" NAME="csv10 OPTICS+MS+BIRCH Coverage Results" MODIFIED="1757963233794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/core" />
     <SUITE FILE_PATH="coverage/clustering$csv66_TEST_FEATURE.coverage" NAME="csv66 TEST FEATURE Coverage Results" MODIFIED="1751820308291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/clustering$OPTICS_su_csv66_TEST2.coverage" NAME="OPTICS su csv66-TEST2 Coverage Results" MODIFIED="1750675791390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

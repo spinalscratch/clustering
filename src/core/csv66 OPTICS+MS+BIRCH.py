@@ -30,6 +30,7 @@ def main():
         scaler = StandardScaler()
         X_scaled = scaler.fit_transform(X)
 
+
         # Aggiunta di piccolo rumore per evitare duplicati
         rng = np.random.default_rng(seed=42)
         X_scaled += rng.normal(0, 1e-8, X_scaled.shape)
@@ -55,9 +56,11 @@ def main():
             labels = optics.fit_predict(X_scaled)
             clusters = count_clusters(labels)
             score = dbcv.dbcv(X_scaled, labels)
-            print(f"\n[OPTICS #{i}] Parametri: {params}")
-            print_cluster_distribution(labels, f"OPTICS #{i}")
-            print(f"OPTICS #{i}: {clusters} cluster, DBCV score: {score:.4f}")
+
+            if 0.99 > score > 0.01:
+                print(f"\n[OPTICS #{i}] Parametri: {params}")
+                print_cluster_distribution(labels, f"OPTICS #{i}")
+                print(f"OPTICS #{i}: {clusters} cluster, DBCV score: {score:.4f}")
 
         # ---- MeanShift ----
         print("\n### Risultati per MeanShift ###")
@@ -66,9 +69,11 @@ def main():
             labels = ms.fit_predict(X_scaled)
             clusters = count_clusters(labels)
             score = dbcv.dbcv(X_scaled, labels)
-            print(f"\n[MeanShift #{i}] Parametri: {params}")
-            print_cluster_distribution(labels, f"MeanShift #{i}")
-            print(f"MeanShift #{i}: {clusters} cluster, DBCV score: {score:.4f}")
+
+            if 0.99 > score > 0.01:
+                print(f"\n[MeanShift #{i}] Parametri: {params}")
+                print_cluster_distribution(labels, f"MeanShift #{i}")
+                print(f"MeanShift #{i}: {clusters} cluster, DBCV score: {score:.4f}")
 
         # ---- BIRCH ----
         print("\n### Risultati per BIRCH ###")
@@ -77,9 +82,11 @@ def main():
             labels = birch.fit_predict(X_scaled)
             clusters = count_clusters(labels)
             score = dbcv.dbcv(X_scaled, labels)
-            print(f"\n[BIRCH #{i}] Parametri: {params}")
-            print_cluster_distribution(labels, f"BIRCH #{i}")
-            print(f"BIRCH #{i}: {clusters} cluster, DBCV score: {score:.4f}")
+
+            if 0.99 > score > 0.01:
+                print(f"\n[BIRCH #{i}] Parametri: {params}")
+                print_cluster_distribution(labels, f"BIRCH #{i}")
+                print(f"BIRCH #{i}: {clusters} cluster, DBCV score: {score:.4f}")
 
         print(f"\n--- Output salvato in: {output_path} ---")
 

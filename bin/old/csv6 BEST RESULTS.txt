@@ -1,0 +1,344 @@
+[OPTICS #14] Parametri: {'min_samples': 6, 'xi': 0.03, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #14:
+  Noise (outliers): 20 elementi
+  Cluster 0: 32 elementi
+  Cluster 1: 15 elementi
+  Totale elementi: 67
+
+OPTICS #14: 2 cluster, DBCV score: 0.2964
+
+[OPTICS #22] Parametri: {'min_samples': 5, 'xi': 0.03, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #22:
+  Noise (outliers): 4 elementi
+  Cluster 0: 47 elementi
+  Cluster 1: 16 elementi
+  Totale elementi: 67
+
+OPTICS #22: 2 cluster, DBCV score: 0.2336
+
+[OPTICS #50] Parametri: {'min_samples': 6, 'xi': 0.01, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #50:
+  Noise (outliers): 5 elementi
+  Cluster 0: 47 elementi
+  Cluster 1: 15 elementi
+  Totale elementi: 67
+
+OPTICS #50: 2 cluster, DBCV score: 0.2773
+
+[OPTICS #2] Parametri: {'min_samples': 7, 'xi': 0.03, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #2:
+  Noise (outliers): 20 elementi
+  Cluster 0: 32 elementi
+  Cluster 1: 15 elementi
+  Totale elementi: 67
+
+OPTICS #2: 2 cluster, DBCV score: 0.4009
+
+[OPTICS #12] Parametri: {'min_samples': 11, 'xi': 0.02, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #12:
+  Noise (outliers): 11 elementi
+  Cluster 0: 46 elementi
+  Cluster 1: 10 elementi
+  Totale elementi: 67
+
+OPTICS #12: 2 cluster, DBCV score: 0.2589
+
+[OPTICS #14] Parametri: {'min_samples': 5, 'xi': 0.03, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #14:
+  Noise (outliers): 4 elementi
+  Cluster 0: 47 elementi
+  Cluster 1: 16 elementi
+  Totale elementi: 67
+
+OPTICS #14: 2 cluster, DBCV score: 0.2336
+
+[OPTICS #2] Parametri: {'min_samples': 4, 'xi': 0.03, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #2:
+  Noise (outliers): 23 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 16 elementi
+  Totale elementi: 67
+
+OPTICS #2: 2 cluster, DBCV score: 0.3303
+
+[OPTICS #87] Parametri: {'min_samples': 5, 'xi': 0.062, 'min_cluster_size': 0.058}
+
+Distribuzione cluster per OPTICS #87:
+  Noise (outliers): 15 elementi
+  Cluster 0: 47 elementi
+  Cluster 1: 5 elementi
+  Totale elementi: 67
+
+OPTICS #87: 2 cluster, DBCV score: 0.2524
+
+[MeanShift #45] Parametri: {'bandwidth': 3.25}
+
+Distribuzione cluster per MeanShift #45:
+  Cluster 0: 28 elementi
+  Cluster 1: 4 elementi
+  Cluster 2: 2 elementi
+  Cluster 3: 3 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 2 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 2 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 1 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 1 elementi
+  Totale elementi: 67
+
+MeanShift #45: 31 cluster, DBCV score: 0.1381
+
+[MeanShift #49] Parametri: {'bandwidth': 3.45}
+
+Distribuzione cluster per MeanShift #49:
+  Cluster 0: 33 elementi
+  Cluster 1: 4 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 2 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 1 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 2 elementi
+  Cluster 25: 1 elementi
+  Totale elementi: 67
+
+MeanShift #49: 26 cluster, DBCV score: 0.1790
+
+[MeanShift #61] Parametri: {'bandwidth': 4.05}
+
+Distribuzione cluster per MeanShift #61:
+  Cluster 0: 39 elementi
+  Cluster 1: 11 elementi
+  Cluster 2: 5 elementi
+  Cluster 3: 3 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 2 elementi
+  Cluster 11: 1 elementi
+  Totale elementi: 67
+
+MeanShift #61: 12 cluster, DBCV score: 0.1413
+
+[MeanShift #63] Parametri: {'bandwidth': 4.15}
+
+Distribuzione cluster per MeanShift #63:
+  Cluster 0: 47 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 2 elementi
+  Totale elementi: 67
+
+MeanShift #63: 8 cluster, DBCV score: 0.2717
+
+[MeanShift #64] Parametri: {'bandwidth': 4.2}
+
+Distribuzione cluster per MeanShift #64:
+  Cluster 0: 47 elementi
+  Cluster 1: 15 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 2 elementi
+  Totale elementi: 67
+
+MeanShift #64: 6 cluster, DBCV score: 0.2339
+
+[MeanShift #66] Parametri: {'bandwidth': 4.3}
+
+Distribuzione cluster per MeanShift #66:
+  Cluster 0: 47 elementi
+  Cluster 1: 16 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 2 elementi
+  Totale elementi: 67
+
+MeanShift #66: 5 cluster, DBCV score: 0.2336
+
+[MeanShift #68] Parametri: {'bandwidth': 4.4}
+
+Distribuzione cluster per MeanShift #68:
+  Cluster 0: 47 elementi
+  Cluster 1: 17 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Totale elementi: 67
+
+MeanShift #68: 5 cluster, DBCV score: 0.2332
+
+[BIRCH #0] Parametri: {'n_clusters': 2, 'threshold': 3.0, 'branching_factor': 25}
+
+Distribuzione cluster per BIRCH #0:
+  Cluster 0: 17 elementi
+  Cluster 1: 50 elementi
+  Totale elementi: 67
+
+BIRCH #0: 2 cluster, DBCV score: 0.2461
+
+[BIRCH #2] Parametri: {'n_clusters': 3, 'threshold': 1.5, 'branching_factor': 75}
+
+Distribuzione cluster per BIRCH #2:
+  Cluster 0: 44 elementi
+  Cluster 1: 17 elementi
+  Cluster 2: 6 elementi
+  Totale elementi: 67
+
+BIRCH #2: 3 cluster, DBCV score: 0.1014
+
+[BIRCH #4] Parametri: {'n_clusters': 4, 'threshold': 2.5, 'branching_factor': 75}
+
+Distribuzione cluster per BIRCH #4:
+  Cluster 0: 44 elementi
+  Cluster 1: 17 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 5 elementi
+  Totale elementi: 67
+
+BIRCH #4: 4 cluster, DBCV score: 0.1112
+
+[BIRCH #10] Parametri: {'n_clusters': 4, 'threshold': 3.5, 'branching_factor': 50}
+
+Distribuzione cluster per BIRCH #10:
+  Cluster 0: 3 elementi
+  Cluster 1: 15 elementi
+  Cluster 2: 48 elementi
+  Cluster 3: 1 elementi
+  Totale elementi: 67
+
+BIRCH #10: 4 cluster, DBCV score: 0.2299
+
+[BIRCH #16] Parametri: {'n_clusters': 2, 'threshold': 1.0, 'branching_factor': 25}
+
+Distribuzione cluster per BIRCH #16:
+  Cluster 0: 50 elementi
+  Cluster 1: 17 elementi
+  Totale elementi: 67
+
+BIRCH #16: 2 cluster, DBCV score: 0.2461
+
+[BIRCH #25] Parametri: {'n_clusters': 3, 'threshold': 4.0, 'branching_factor': 100}
+
+Distribuzione cluster per BIRCH #25:
+  Cluster 0: 49 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 17 elementi
+  Totale elementi: 67
+
+BIRCH #25: 3 cluster, DBCV score: 0.2418
+
+[BIRCH #27] Parametri: {'n_clusters': 5, 'threshold': 3.5, 'branching_factor': 50}
+
+Distribuzione cluster per BIRCH #27:
+  Cluster 0: 15 elementi
+  Cluster 1: 2 elementi
+  Cluster 2: 48 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Totale elementi: 67
+
+BIRCH #27: 5 cluster, DBCV score: 0.2382
+
+[BIRCH #37] Parametri: {'n_clusters': 3, 'threshold': 3.5, 'branching_factor': 50}
+
+Distribuzione cluster per BIRCH #37:
+  Cluster 0: 18 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 48 elementi
+  Totale elementi: 67
+
+BIRCH #37: 3 cluster, DBCV score: 0.2371
+
+[BIRCH #52] Parametri: {'n_clusters': 2, 'threshold': 2.0, 'branching_factor': 50}
+
+Distribuzione cluster per BIRCH #52:
+  Cluster 0: 18 elementi
+  Cluster 1: 49 elementi
+  Totale elementi: 67
+
+BIRCH #52: 2 cluster, DBCV score: 0.2414
+
+[BIRCH #59] Parametri: {'n_clusters': 3, 'threshold': 3.0, 'branching_factor': 25}
+
+Distribuzione cluster per BIRCH #59:
+  Cluster 0: 50 elementi
+  Cluster 1: 16 elementi
+  Cluster 2: 1 elementi
+  Totale elementi: 67
+
+BIRCH #59: 3 cluster, DBCV score: 0.2465
+
+[BIRCH #98] Parametri: {'n_clusters': 6, 'threshold': 3.5, 'branching_factor': 50}
+
+Distribuzione cluster per BIRCH #98:
+  Cluster 0: 48 elementi
+  Cluster 1: 2 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Totale elementi: 67
+
+BIRCH #98: 6 cluster, DBCV score: 0.2385
+
+[BIRCH #29] Parametri: {'threshold': 4.91, 'branching_factor': 105, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #29:
+  Cluster 0: 51 elementi
+  Cluster 1: 16 elementi
+  Totale elementi: 67
+
+BIRCH #29: 2 cluster, DBCV score: 0.2507

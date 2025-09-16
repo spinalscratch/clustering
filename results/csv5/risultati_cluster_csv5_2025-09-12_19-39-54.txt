@@ -1,0 +1,4679 @@
+
+### Risultati per OPTICS ###
+
+### Risultati per MeanShift ###
+
+[MeanShift #14] Parametri: {'bandwidth': 1}
+
+Distribuzione cluster per MeanShift #14:
+  Cluster 0: 6 elementi
+  Cluster 1: 5 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 3 elementi
+  Cluster 4: 3 elementi
+  Cluster 5: 3 elementi
+  Cluster 6: 3 elementi
+  Cluster 7: 3 elementi
+  Cluster 8: 2 elementi
+  Cluster 9: 2 elementi
+  Cluster 10: 2 elementi
+  Cluster 11: 2 elementi
+  Cluster 12: 2 elementi
+  Cluster 13: 2 elementi
+  Cluster 14: 2 elementi
+  Cluster 15: 2 elementi
+  Cluster 16: 2 elementi
+  Cluster 17: 2 elementi
+  Cluster 18: 2 elementi
+  Cluster 19: 2 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 2 elementi
+  Cluster 22: 2 elementi
+  Cluster 23: 2 elementi
+  Cluster 24: 2 elementi
+  Cluster 25: 2 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 1 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 1 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 1 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 1 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 1 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 1 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 1 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 1 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 1 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 1 elementi
+  Cluster 127: 1 elementi
+  Cluster 128: 1 elementi
+  Totale elementi: 169
+
+MeanShift #14: 129 cluster, DBCV score: 0.3675
+
+[MeanShift #30] Parametri: {'bandwidth': 3.44}
+
+Distribuzione cluster per MeanShift #30:
+  Cluster 0: 114 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 2 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 2 elementi
+  Totale elementi: 169
+
+MeanShift #30: 7 cluster, DBCV score: -0.1203
+
+[MeanShift #34] Parametri: {'bandwidth': 4.4}
+
+Distribuzione cluster per MeanShift #34:
+  Cluster 0: 165 elementi
+  Cluster 1: 4 elementi
+  Totale elementi: 169
+
+MeanShift #34: 2 cluster, DBCV score: -0.4568
+
+[MeanShift #50] Parametri: {'bandwidth': 3.22}
+
+Distribuzione cluster per MeanShift #50:
+  Cluster 0: 115 elementi
+  Cluster 1: 30 elementi
+  Cluster 2: 12 elementi
+  Cluster 3: 2 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 5 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Totale elementi: 169
+
+MeanShift #50: 10 cluster, DBCV score: -0.2655
+
+[MeanShift #57] Parametri: {'bandwidth': 4.24}
+
+Distribuzione cluster per MeanShift #57:
+  Cluster 0: 165 elementi
+  Cluster 1: 4 elementi
+  Totale elementi: 169
+
+MeanShift #57: 2 cluster, DBCV score: -0.4568
+
+[MeanShift #80] Parametri: {'bandwidth': 2}
+
+Distribuzione cluster per MeanShift #80:
+  Cluster 0: 13 elementi
+  Cluster 1: 9 elementi
+  Cluster 2: 8 elementi
+  Cluster 3: 7 elementi
+  Cluster 4: 6 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 4 elementi
+  Cluster 8: 4 elementi
+  Cluster 9: 3 elementi
+  Cluster 10: 3 elementi
+  Cluster 11: 3 elementi
+  Cluster 12: 3 elementi
+  Cluster 13: 3 elementi
+  Cluster 14: 3 elementi
+  Cluster 15: 3 elementi
+  Cluster 16: 2 elementi
+  Cluster 17: 2 elementi
+  Cluster 18: 2 elementi
+  Cluster 19: 2 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 2 elementi
+  Cluster 22: 2 elementi
+  Cluster 23: 2 elementi
+  Cluster 24: 2 elementi
+  Cluster 25: 2 elementi
+  Cluster 26: 2 elementi
+  Cluster 27: 2 elementi
+  Cluster 28: 2 elementi
+  Cluster 29: 2 elementi
+  Cluster 30: 2 elementi
+  Cluster 31: 2 elementi
+  Cluster 32: 2 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 1 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 1 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Totale elementi: 169
+
+MeanShift #80: 86 cluster, DBCV score: 0.3083
+
+### Risultati per BIRCH ###
+
+[BIRCH #0] Parametri: {'threshold': 1.0, 'branching_factor': 100, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #0:
+  Cluster 0: 87 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 50 elementi
+  Totale elementi: 169
+
+BIRCH #0: 3 cluster, DBCV score: -0.5434
+
+[BIRCH #1] Parametri: {'threshold': 2.0, 'branching_factor': 217, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #1:
+  Cluster 0: 120 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 5 elementi
+  Totale elementi: 169
+
+BIRCH #1: 4 cluster, DBCV score: 0.0299
+
+[BIRCH #2] Parametri: {'threshold': 3.0, 'branching_factor': 300, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #2:
+  Cluster 0: 132 elementi
+  Cluster 1: 37 elementi
+  Totale elementi: 169
+
+BIRCH #2: 2 cluster, DBCV score: -0.6475
+
+[BIRCH #3] Parametri: {'threshold': 3.27, 'branching_factor': 369, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #3:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #3: 2 cluster, DBCV score: -0.2800
+
+[BIRCH #4] Parametri: {'threshold': 0.5, 'branching_factor': 100, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #4:
+  Cluster 0: 48 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 48 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 28 elementi
+  Totale elementi: 169
+
+BIRCH #4: 5 cluster, DBCV score: -0.2835
+
+[BIRCH #5] Parametri: {'threshold': 3.0, 'branching_factor': 20, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #5:
+  Cluster 0: 16 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 116 elementi
+  Totale elementi: 169
+
+BIRCH #5: 3 cluster, DBCV score: -0.5024
+
+[BIRCH #8] Parametri: {'threshold': 3.41, 'branching_factor': 358, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #8:
+  Cluster 0: 139 elementi
+  Cluster 1: 30 elementi
+  Totale elementi: 169
+
+BIRCH #8: 2 cluster, DBCV score: -0.4922
+
+[BIRCH #9] Parametri: {'threshold': 2.26, 'branching_factor': 358, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #9:
+  Cluster 0: 115 elementi
+  Cluster 1: 3 elementi
+  Cluster 2: 31 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 7 elementi
+  Cluster 5: 1 elementi
+  Totale elementi: 169
+
+BIRCH #9: 6 cluster, DBCV score: -0.2067
+
+[BIRCH #10] Parametri: {'threshold': 0.5, 'branching_factor': 300, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #10:
+  Cluster 0: 48 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 48 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 28 elementi
+  Totale elementi: 169
+
+BIRCH #10: 5 cluster, DBCV score: -0.2835
+
+[BIRCH #11] Parametri: {'threshold': 2.61, 'branching_factor': 341, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #11:
+  Cluster 0: 138 elementi
+  Cluster 1: 31 elementi
+  Totale elementi: 169
+
+BIRCH #11: 2 cluster, DBCV score: -0.2789
+
+[BIRCH #13] Parametri: {'threshold': 0.5, 'branching_factor': 100, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #13:
+  Cluster 0: 89 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 48 elementi
+  Totale elementi: 169
+
+BIRCH #13: 3 cluster, DBCV score: -0.5429
+
+[BIRCH #14] Parametri: {'threshold': 0.1, 'branching_factor': 20, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #14:
+  Cluster 0: 41 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 63 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 20 elementi
+  Totale elementi: 169
+
+BIRCH #14: 5 cluster, DBCV score: -0.3811
+
+[BIRCH #15] Parametri: {'threshold': 2.0, 'branching_factor': 50, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #15:
+  Cluster 0: 138 elementi
+  Cluster 1: 31 elementi
+  Totale elementi: 169
+
+BIRCH #15: 2 cluster, DBCV score: -0.2789
+
+[BIRCH #16] Parametri: {'threshold': 3.0, 'branching_factor': 200, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #16:
+  Cluster 0: 16 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 116 elementi
+  Totale elementi: 169
+
+BIRCH #16: 3 cluster, DBCV score: -0.5024
+
+[BIRCH #19] Parametri: {'threshold': 3.0, 'branching_factor': 200, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #19:
+  Cluster 0: 132 elementi
+  Cluster 1: 37 elementi
+  Totale elementi: 169
+
+BIRCH #19: 2 cluster, DBCV score: -0.6475
+
+[BIRCH #22] Parametri: {'threshold': 2.29, 'branching_factor': 88, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #22:
+  Cluster 0: 114 elementi
+  Cluster 1: 11 elementi
+  Cluster 2: 12 elementi
+  Cluster 3: 30 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Totale elementi: 169
+
+BIRCH #22: 6 cluster, DBCV score: -0.4999
+
+[BIRCH #24] Parametri: {'threshold': 0.1, 'branching_factor': 200, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #24:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #24: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #25] Parametri: {'threshold': 2.02, 'branching_factor': 229, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #25:
+  Cluster 0: 12 elementi
+  Cluster 1: 14 elementi
+  Cluster 2: 5 elementi
+  Cluster 3: 8 elementi
+  Cluster 4: 22 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 4 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 11 elementi
+  Cluster 11: 3 elementi
+  Cluster 12: 2 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 4 elementi
+  Cluster 15: 4 elementi
+  Cluster 16: 4 elementi
+  Cluster 17: 6 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 6 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 4 elementi
+  Cluster 22: 5 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 4 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 4 elementi
+  Cluster 29: 5 elementi
+  Cluster 30: 2 elementi
+  Cluster 31: 14 elementi
+  Cluster 32: 3 elementi
+  Cluster 33: 2 elementi
+  Cluster 34: 1 elementi
+  Totale elementi: 169
+
+BIRCH #25: 35 cluster, DBCV score: -0.0652
+
+[BIRCH #28] Parametri: {'threshold': 2.0, 'branching_factor': 100, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #28:
+  Cluster 0: 31 elementi
+  Cluster 1: 5 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 70 elementi
+  Cluster 4: 50 elementi
+  Totale elementi: 169
+
+BIRCH #28: 5 cluster, DBCV score: -0.3895
+
+[BIRCH #30] Parametri: {'threshold': 2.84, 'branching_factor': 271, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #30:
+  Cluster 0: 89 elementi
+  Cluster 1: 35 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 23 elementi
+  Cluster 4: 5 elementi
+  Cluster 5: 3 elementi
+  Totale elementi: 169
+
+BIRCH #30: 6 cluster, DBCV score: -0.4600
+
+[BIRCH #32] Parametri: {'threshold': 0.5, 'branching_factor': 300, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #32:
+  Cluster 0: 1 elementi
+  Cluster 1: 2 elementi
+  Cluster 2: 3 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 3 elementi
+  Cluster 10: 2 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 2 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 2 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 4 elementi
+  Cluster 31: 6 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 2 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 1 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 2 elementi
+  Cluster 57: 3 elementi
+  Cluster 58: 3 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 2 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 3 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 2 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 2 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 2 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 2 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 2 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 5 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 2 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 2 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 1 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 2 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 2 elementi
+  Cluster 127: 1 elementi
+  Cluster 128: 1 elementi
+  Totale elementi: 169
+
+BIRCH #32: 129 cluster, DBCV score: 0.3675
+
+[BIRCH #34] Parametri: {'threshold': 3.21, 'branching_factor': 336, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #34:
+  Cluster 0: 130 elementi
+  Cluster 1: 7 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 8 elementi
+  Totale elementi: 169
+
+BIRCH #34: 4 cluster, DBCV score: -0.4049
+
+[BIRCH #36] Parametri: {'threshold': 2.18, 'branching_factor': 163, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #36:
+  Cluster 0: 13 elementi
+  Cluster 1: 112 elementi
+  Cluster 2: 31 elementi
+  Cluster 3: 13 elementi
+  Totale elementi: 169
+
+BIRCH #36: 4 cluster, DBCV score: -0.3666
+
+[BIRCH #37] Parametri: {'threshold': 2.9, 'branching_factor': 246, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #37:
+  Cluster 0: 27 elementi
+  Cluster 1: 128 elementi
+  Cluster 2: 14 elementi
+  Totale elementi: 169
+
+BIRCH #37: 3 cluster, DBCV score: -0.4220
+
+[BIRCH #40] Parametri: {'threshold': 3.19, 'branching_factor': 189, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #40:
+  Cluster 0: 32 elementi
+  Cluster 1: 8 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 7 elementi
+  Cluster 4: 5 elementi
+  Cluster 5: 113 elementi
+  Totale elementi: 169
+
+BIRCH #40: 6 cluster, DBCV score: -0.4871
+
+[BIRCH #41] Parametri: {'threshold': 0.1, 'branching_factor': 100, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #41:
+  Cluster 0: 1 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 1 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 2 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 1 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 1 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 2 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 1 elementi
+  Cluster 65: 2 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 2 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 2 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 2 elementi
+  Cluster 83: 2 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 2 elementi
+  Cluster 89: 2 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 1 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 1 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 1 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 2 elementi
+  Cluster 116: 1 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 1 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 1 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 2 elementi
+  Cluster 127: 2 elementi
+  Cluster 128: 1 elementi
+  Cluster 129: 2 elementi
+  Cluster 130: 1 elementi
+  Cluster 131: 1 elementi
+  Cluster 132: 1 elementi
+  Cluster 133: 1 elementi
+  Cluster 134: 1 elementi
+  Cluster 135: 1 elementi
+  Cluster 136: 1 elementi
+  Cluster 137: 1 elementi
+  Cluster 138: 1 elementi
+  Cluster 139: 1 elementi
+  Cluster 140: 1 elementi
+  Cluster 141: 1 elementi
+  Cluster 142: 1 elementi
+  Cluster 143: 1 elementi
+  Cluster 144: 1 elementi
+  Cluster 145: 1 elementi
+  Cluster 146: 1 elementi
+  Cluster 147: 1 elementi
+  Cluster 148: 1 elementi
+  Cluster 149: 1 elementi
+  Cluster 150: 1 elementi
+  Cluster 151: 1 elementi
+  Cluster 152: 1 elementi
+  Cluster 153: 1 elementi
+  Cluster 154: 1 elementi
+  Cluster 155: 1 elementi
+  Totale elementi: 169
+
+BIRCH #41: 156 cluster, DBCV score: 0.1268
+
+[BIRCH #42] Parametri: {'threshold': 2.49, 'branching_factor': 242, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #42:
+  Cluster 0: 139 elementi
+  Cluster 1: 30 elementi
+  Totale elementi: 169
+
+BIRCH #42: 2 cluster, DBCV score: -0.4891
+
+[BIRCH #43] Parametri: {'threshold': 3.0, 'branching_factor': 50, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #43:
+  Cluster 0: 81 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 15 elementi
+  Cluster 4: 5 elementi
+  Cluster 5: 25 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 10 elementi
+  Cluster 8: 12 elementi
+  Totale elementi: 169
+
+BIRCH #43: 9 cluster, DBCV score: -0.4035
+
+[BIRCH #46] Parametri: {'threshold': 3.53, 'branching_factor': 48, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #46:
+  Cluster 0: 144 elementi
+  Cluster 1: 25 elementi
+  Totale elementi: 169
+
+BIRCH #46: 2 cluster, DBCV score: -0.4765
+
+[BIRCH #49] Parametri: {'threshold': 3.0, 'branching_factor': 200, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #49:
+  Cluster 0: 81 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 15 elementi
+  Cluster 4: 5 elementi
+  Cluster 5: 25 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 10 elementi
+  Cluster 8: 12 elementi
+  Totale elementi: 169
+
+BIRCH #49: 9 cluster, DBCV score: -0.4035
+
+[BIRCH #50] Parametri: {'threshold': 2.98, 'branching_factor': 161, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #50:
+  Cluster 0: 16 elementi
+  Cluster 1: 107 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 23 elementi
+  Cluster 4: 22 elementi
+  Totale elementi: 169
+
+BIRCH #50: 5 cluster, DBCV score: -0.5019
+
+[BIRCH #51] Parametri: {'threshold': 2.56, 'branching_factor': 42, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #51:
+  Cluster 0: 124 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 14 elementi
+  Totale elementi: 169
+
+BIRCH #51: 3 cluster, DBCV score: -0.1814
+
+[BIRCH #53] Parametri: {'threshold': 2.26, 'branching_factor': 253, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #53:
+  Cluster 0: 23 elementi
+  Cluster 1: 11 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 6 elementi
+  Cluster 4: 12 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 13 elementi
+  Cluster 7: 5 elementi
+  Cluster 8: 2 elementi
+  Cluster 9: 7 elementi
+  Cluster 10: 11 elementi
+  Cluster 11: 6 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 6 elementi
+  Cluster 15: 3 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 12 elementi
+  Cluster 22: 11 elementi
+  Cluster 23: 7 elementi
+  Cluster 24: 1 elementi
+  Totale elementi: 169
+
+BIRCH #53: 25 cluster, DBCV score: -0.2444
+
+[BIRCH #54] Parametri: {'threshold': 1.0, 'branching_factor': 200, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #54:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #54: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #55] Parametri: {'threshold': 2.12, 'branching_factor': 187, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #55:
+  Cluster 0: 41 elementi
+  Cluster 1: 128 elementi
+  Totale elementi: 169
+
+BIRCH #55: 2 cluster, DBCV score: -0.5591
+
+[BIRCH #56] Parametri: {'threshold': 2.14, 'branching_factor': 206, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #56:
+  Cluster 0: 46 elementi
+  Cluster 1: 30 elementi
+  Cluster 2: 80 elementi
+  Cluster 3: 13 elementi
+  Totale elementi: 169
+
+BIRCH #56: 4 cluster, DBCV score: -0.4322
+
+[BIRCH #60] Parametri: {'threshold': 3.26, 'branching_factor': 50, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #60:
+  Cluster 0: 33 elementi
+  Cluster 1: 136 elementi
+  Totale elementi: 169
+
+BIRCH #60: 2 cluster, DBCV score: -0.2752
+
+[BIRCH #62] Parametri: {'threshold': 0.5, 'branching_factor': 200, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #62:
+  Cluster 0: 89 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 48 elementi
+  Totale elementi: 169
+
+BIRCH #62: 3 cluster, DBCV score: -0.5429
+
+[BIRCH #63] Parametri: {'threshold': 0.1, 'branching_factor': 50, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #63:
+  Cluster 0: 1 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 2 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 2 elementi
+  Cluster 20: 1 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 1 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 1 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 1 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 2 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 2 elementi
+  Cluster 72: 2 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 2 elementi
+  Cluster 104: 2 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 2 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 1 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 2 elementi
+  Cluster 114: 2 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 1 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 1 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 1 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 1 elementi
+  Cluster 127: 2 elementi
+  Cluster 128: 1 elementi
+  Cluster 129: 1 elementi
+  Cluster 130: 1 elementi
+  Cluster 131: 2 elementi
+  Cluster 132: 1 elementi
+  Cluster 133: 1 elementi
+  Cluster 134: 1 elementi
+  Cluster 135: 1 elementi
+  Cluster 136: 1 elementi
+  Cluster 137: 1 elementi
+  Cluster 138: 2 elementi
+  Cluster 139: 1 elementi
+  Cluster 140: 1 elementi
+  Cluster 141: 1 elementi
+  Cluster 142: 1 elementi
+  Cluster 143: 1 elementi
+  Cluster 144: 1 elementi
+  Cluster 145: 1 elementi
+  Cluster 146: 1 elementi
+  Cluster 147: 1 elementi
+  Cluster 148: 1 elementi
+  Cluster 149: 1 elementi
+  Cluster 150: 1 elementi
+  Cluster 151: 1 elementi
+  Cluster 152: 1 elementi
+  Cluster 153: 1 elementi
+  Cluster 154: 1 elementi
+  Cluster 155: 1 elementi
+  Totale elementi: 169
+
+BIRCH #63: 156 cluster, DBCV score: 0.1268
+
+[BIRCH #65] Parametri: {'threshold': 1.0, 'branching_factor': 100, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #65:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #65: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #67] Parametri: {'threshold': 3.37, 'branching_factor': 26, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #67:
+  Cluster 0: 139 elementi
+  Cluster 1: 30 elementi
+  Totale elementi: 169
+
+BIRCH #67: 2 cluster, DBCV score: -0.4922
+
+[BIRCH #68] Parametri: {'threshold': 1.0, 'branching_factor': 100, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #68:
+  Cluster 0: 11 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 74 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 39 elementi
+  Totale elementi: 169
+
+BIRCH #68: 5 cluster, DBCV score: -0.1476
+
+[BIRCH #69] Parametri: {'threshold': 2.06, 'branching_factor': 153, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #69:
+  Cluster 0: 17 elementi
+  Cluster 1: 5 elementi
+  Cluster 2: 8 elementi
+  Cluster 3: 20 elementi
+  Cluster 4: 3 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 7 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 9 elementi
+  Cluster 9: 3 elementi
+  Cluster 10: 5 elementi
+  Cluster 11: 14 elementi
+  Cluster 12: 8 elementi
+  Cluster 13: 4 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 2 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 9 elementi
+  Cluster 19: 3 elementi
+  Cluster 20: 5 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 2 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 2 elementi
+  Cluster 26: 9 elementi
+  Cluster 27: 5 elementi
+  Cluster 28: 2 elementi
+  Cluster 29: 9 elementi
+  Cluster 30: 3 elementi
+  Cluster 31: 2 elementi
+  Cluster 32: 1 elementi
+  Totale elementi: 169
+
+BIRCH #69: 33 cluster, DBCV score: -0.1001
+
+[BIRCH #70] Parametri: {'threshold': 2.93, 'branching_factor': 271, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #70:
+  Cluster 0: 69 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 26 elementi
+  Cluster 4: 3 elementi
+  Cluster 5: 21 elementi
+  Cluster 6: 8 elementi
+  Cluster 7: 2 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 10 elementi
+  Cluster 10: 12 elementi
+  Totale elementi: 169
+
+BIRCH #70: 11 cluster, DBCV score: -0.5419
+
+[BIRCH #71] Parametri: {'threshold': 2.41, 'branching_factor': 122, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #71:
+  Cluster 0: 4 elementi
+  Cluster 1: 51 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 29 elementi
+  Cluster 4: 2 elementi
+  Cluster 5: 70 elementi
+  Totale elementi: 169
+
+BIRCH #71: 6 cluster, DBCV score: -0.4938
+
+[BIRCH #72] Parametri: {'threshold': 0.1, 'branching_factor': 100, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #72:
+  Cluster 0: 41 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 63 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 20 elementi
+  Totale elementi: 169
+
+BIRCH #72: 5 cluster, DBCV score: -0.3811
+
+[BIRCH #73] Parametri: {'threshold': 2.75, 'branching_factor': 54, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #73:
+  Cluster 0: 141 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 27 elementi
+  Totale elementi: 169
+
+BIRCH #73: 3 cluster, DBCV score: -0.4758
+
+[BIRCH #74] Parametri: {'threshold': 0.5, 'branching_factor': 20, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #74:
+  Cluster 0: 1 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 2 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 2 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 2 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 1 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 2 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 4 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 2 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 6 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 2 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 2 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 5 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 2 elementi
+  Cluster 65: 2 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 2 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 2 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 2 elementi
+  Cluster 79: 2 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 3 elementi
+  Cluster 89: 3 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 2 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 2 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 1 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 2 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 1 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 1 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 1 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 3 elementi
+  Cluster 120: 2 elementi
+  Cluster 121: 1 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 1 elementi
+  Cluster 127: 1 elementi
+  Cluster 128: 1 elementi
+  Cluster 129: 1 elementi
+  Cluster 130: 1 elementi
+  Cluster 131: 1 elementi
+  Cluster 132: 1 elementi
+  Cluster 133: 1 elementi
+  Totale elementi: 169
+
+BIRCH #74: 134 cluster, DBCV score: 0.3272
+
+[BIRCH #75] Parametri: {'threshold': 2.0, 'branching_factor': 200, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #75:
+  Cluster 0: 138 elementi
+  Cluster 1: 31 elementi
+  Totale elementi: 169
+
+BIRCH #75: 2 cluster, DBCV score: -0.2789
+
+[BIRCH #76] Parametri: {'threshold': 0.5, 'branching_factor': 20, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #76:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #76: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #78] Parametri: {'threshold': 3.39, 'branching_factor': 91, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #78:
+  Cluster 0: 139 elementi
+  Cluster 1: 30 elementi
+  Totale elementi: 169
+
+BIRCH #78: 2 cluster, DBCV score: -0.4922
+
+[BIRCH #80] Parametri: {'threshold': 0.1, 'branching_factor': 20, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #80:
+  Cluster 0: 1 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 2 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 2 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 1 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 2 elementi
+  Cluster 30: 1 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 2 elementi
+  Cluster 44: 1 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 2 elementi
+  Cluster 62: 2 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 1 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 2 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 2 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 2 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 2 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 1 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 1 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 1 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 1 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 2 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 1 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 1 elementi
+  Cluster 127: 1 elementi
+  Cluster 128: 1 elementi
+  Cluster 129: 1 elementi
+  Cluster 130: 1 elementi
+  Cluster 131: 1 elementi
+  Cluster 132: 1 elementi
+  Cluster 133: 1 elementi
+  Cluster 134: 1 elementi
+  Cluster 135: 1 elementi
+  Cluster 136: 1 elementi
+  Cluster 137: 1 elementi
+  Cluster 138: 1 elementi
+  Cluster 139: 1 elementi
+  Cluster 140: 1 elementi
+  Cluster 141: 1 elementi
+  Cluster 142: 1 elementi
+  Cluster 143: 1 elementi
+  Cluster 144: 1 elementi
+  Cluster 145: 1 elementi
+  Cluster 146: 1 elementi
+  Cluster 147: 1 elementi
+  Cluster 148: 1 elementi
+  Cluster 149: 1 elementi
+  Cluster 150: 1 elementi
+  Cluster 151: 1 elementi
+  Cluster 152: 1 elementi
+  Cluster 153: 1 elementi
+  Cluster 154: 1 elementi
+  Cluster 155: 1 elementi
+  Cluster 156: 1 elementi
+  Cluster 157: 1 elementi
+  Totale elementi: 169
+
+BIRCH #80: 158 cluster, DBCV score: 0.1045
+
+[BIRCH #81] Parametri: {'threshold': 2.16, 'branching_factor': 189, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #81:
+  Cluster 0: 139 elementi
+  Cluster 1: 30 elementi
+  Totale elementi: 169
+
+BIRCH #81: 2 cluster, DBCV score: -0.2574
+
+[BIRCH #82] Parametri: {'threshold': 2.73, 'branching_factor': 208, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #82:
+  Cluster 0: 126 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 26 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 3 elementi
+  Totale elementi: 169
+
+BIRCH #82: 5 cluster, DBCV score: -0.1981
+
+[BIRCH #83] Parametri: {'threshold': 3.32, 'branching_factor': 154, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #83:
+  Cluster 0: 32 elementi
+  Cluster 1: 137 elementi
+  Totale elementi: 169
+
+BIRCH #83: 2 cluster, DBCV score: -0.2800
+
+[BIRCH #85] Parametri: {'threshold': 3.0, 'branching_factor': 20, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #85:
+  Cluster 0: 81 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 15 elementi
+  Cluster 4: 5 elementi
+  Cluster 5: 25 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 10 elementi
+  Cluster 8: 12 elementi
+  Totale elementi: 169
+
+BIRCH #85: 9 cluster, DBCV score: -0.4035
+
+[BIRCH #87] Parametri: {'threshold': 2.0, 'branching_factor': 20, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #87:
+  Cluster 0: 122 elementi
+  Cluster 1: 33 elementi
+  Cluster 2: 14 elementi
+  Totale elementi: 169
+
+BIRCH #87: 3 cluster, DBCV score: -0.2427
+
+[BIRCH #88] Parametri: {'threshold': 0.1, 'branching_factor': 100, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #88:
+  Cluster 0: 76 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 61 elementi
+  Totale elementi: 169
+
+BIRCH #88: 3 cluster, DBCV score: -0.5609
+
+[BIRCH #90] Parametri: {'threshold': 1.0, 'branching_factor': 20, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #90:
+  Cluster 0: 3 elementi
+  Cluster 1: 2 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 2 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 4 elementi
+  Cluster 17: 3 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 2 elementi
+  Cluster 20: 1 elementi
+  Cluster 21: 2 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 4 elementi
+  Cluster 25: 2 elementi
+  Cluster 26: 3 elementi
+  Cluster 27: 2 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 3 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 2 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 2 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 2 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 2 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 5 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 1 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 2 elementi
+  Cluster 48: 3 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 7 elementi
+  Cluster 55: 2 elementi
+  Cluster 56: 2 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 2 elementi
+  Cluster 60: 3 elementi
+  Cluster 61: 3 elementi
+  Cluster 62: 2 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 2 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 6 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 2 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 2 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 2 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 3 elementi
+  Cluster 87: 2 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 2 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 2 elementi
+  Cluster 95: 3 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 3 elementi
+  Cluster 98: 2 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Totale elementi: 169
+
+BIRCH #90: 105 cluster, DBCV score: 0.4013
+
+[BIRCH #91] Parametri: {'threshold': 0.1, 'branching_factor': 300, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #91:
+  Cluster 0: 76 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 61 elementi
+  Totale elementi: 169
+
+BIRCH #91: 3 cluster, DBCV score: -0.5609
+
+[BIRCH #92] Parametri: {'threshold': 1.0, 'branching_factor': 300, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #92:
+  Cluster 0: 87 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 50 elementi
+  Totale elementi: 169
+
+BIRCH #92: 3 cluster, DBCV score: -0.5434
+
+[BIRCH #97] Parametri: {'threshold': 0.1, 'branching_factor': 300, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #97:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #97: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #98] Parametri: {'threshold': 0.1, 'branching_factor': 300, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #98:
+  Cluster 0: 41 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 63 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 20 elementi
+  Totale elementi: 169
+
+BIRCH #98: 5 cluster, DBCV score: -0.3811
+
+[BIRCH #99] Parametri: {'threshold': 2.74, 'branching_factor': 388, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #99:
+  Cluster 0: 137 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 31 elementi
+  Totale elementi: 169
+
+BIRCH #99: 3 cluster, DBCV score: -0.4987
+
+[BIRCH #101] Parametri: {'threshold': 2.09, 'branching_factor': 369, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #101:
+  Cluster 0: 119 elementi
+  Cluster 1: 29 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 8 elementi
+  Totale elementi: 169
+
+BIRCH #101: 4 cluster, DBCV score: -0.3989
+
+[BIRCH #102] Parametri: {'threshold': 2.0, 'branching_factor': 50, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #102:
+  Cluster 0: 31 elementi
+  Cluster 1: 5 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 70 elementi
+  Cluster 4: 50 elementi
+  Totale elementi: 169
+
+BIRCH #102: 5 cluster, DBCV score: -0.3895
+
+[BIRCH #103] Parametri: {'threshold': 2.92, 'branching_factor': 155, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #103:
+  Cluster 0: 42 elementi
+  Cluster 1: 47 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 8 elementi
+  Cluster 4: 22 elementi
+  Cluster 5: 2 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 9 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 23 elementi
+  Totale elementi: 169
+
+BIRCH #103: 10 cluster, DBCV score: -0.3422
+
+[BIRCH #104] Parametri: {'threshold': 2.47, 'branching_factor': 104, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #104:
+  Cluster 0: 5 elementi
+  Cluster 1: 120 elementi
+  Cluster 2: 31 elementi
+  Cluster 3: 13 elementi
+  Totale elementi: 169
+
+BIRCH #104: 4 cluster, DBCV score: 0.0285
+
+[BIRCH #105] Parametri: {'threshold': 2.66, 'branching_factor': 289, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #105:
+  Cluster 0: 102 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 29 elementi
+  Totale elementi: 169
+
+BIRCH #105: 4 cluster, DBCV score: -0.6202
+
+[BIRCH #106] Parametri: {'threshold': 2.27, 'branching_factor': 139, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #106:
+  Cluster 0: 13 elementi
+  Cluster 1: 115 elementi
+  Cluster 2: 31 elementi
+  Cluster 3: 3 elementi
+  Cluster 4: 7 elementi
+  Totale elementi: 169
+
+BIRCH #106: 5 cluster, DBCV score: -0.2056
+
+[BIRCH #108] Parametri: {'threshold': 2.81, 'branching_factor': 59, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #108:
+  Cluster 0: 121 elementi
+  Cluster 1: 30 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 4 elementi
+  Totale elementi: 169
+
+BIRCH #108: 5 cluster, DBCV score: -0.3928
+
+[BIRCH #109] Parametri: {'threshold': 2.96, 'branching_factor': 132, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #109:
+  Cluster 0: 75 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 3 elementi
+  Cluster 4: 15 elementi
+  Cluster 5: 4 elementi
+  Cluster 6: 17 elementi
+  Cluster 7: 5 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 9 elementi
+  Cluster 10: 10 elementi
+  Cluster 11: 11 elementi
+  Cluster 12: 3 elementi
+  Totale elementi: 169
+
+BIRCH #109: 13 cluster, DBCV score: -0.3565
+
+[BIRCH #110] Parametri: {'threshold': 2.0, 'branching_factor': 300, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #110:
+  Cluster 0: 31 elementi
+  Cluster 1: 5 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 70 elementi
+  Cluster 4: 50 elementi
+  Totale elementi: 169
+
+BIRCH #110: 5 cluster, DBCV score: -0.3895
+
+[BIRCH #112] Parametri: {'threshold': 2.95, 'branching_factor': 159, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #112:
+  Cluster 0: 120 elementi
+  Cluster 1: 49 elementi
+  Totale elementi: 169
+
+BIRCH #112: 2 cluster, DBCV score: -0.6859
+
+[BIRCH #113] Parametri: {'threshold': 2.04, 'branching_factor': 133, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #113:
+  Cluster 0: 138 elementi
+  Cluster 1: 31 elementi
+  Totale elementi: 169
+
+BIRCH #113: 2 cluster, DBCV score: -0.2789
+
+[BIRCH #115] Parametri: {'threshold': 2.71, 'branching_factor': 182, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #115:
+  Cluster 0: 89 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 37 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 3 elementi
+  Cluster 5: 26 elementi
+  Totale elementi: 169
+
+BIRCH #115: 6 cluster, DBCV score: -0.4692
+
+[BIRCH #116] Parametri: {'threshold': 2.0, 'branching_factor': 20, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #116:
+  Cluster 0: 5 elementi
+  Cluster 1: 8 elementi
+  Cluster 2: 20 elementi
+  Cluster 3: 5 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 3 elementi
+  Cluster 7: 2 elementi
+  Cluster 8: 6 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 4 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 12 elementi
+  Cluster 13: 8 elementi
+  Cluster 14: 4 elementi
+  Cluster 15: 8 elementi
+  Cluster 16: 3 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 14 elementi
+  Cluster 19: 6 elementi
+  Cluster 20: 8 elementi
+  Cluster 21: 4 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 2 elementi
+  Cluster 24: 2 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 2 elementi
+  Cluster 27: 2 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 5 elementi
+  Cluster 30: 2 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 4 elementi
+  Cluster 33: 11 elementi
+  Cluster 34: 3 elementi
+  Cluster 35: 2 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 4 elementi
+  Totale elementi: 169
+
+BIRCH #116: 38 cluster, DBCV score: 0.0026
+
+[BIRCH #119] Parametri: {'threshold': 1.0, 'branching_factor': 300, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #119:
+  Cluster 0: 11 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 74 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 39 elementi
+  Totale elementi: 169
+
+BIRCH #119: 5 cluster, DBCV score: -0.1476
+
+[BIRCH #120] Parametri: {'threshold': 0.5, 'branching_factor': 300, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #120:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #120: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #121] Parametri: {'threshold': 2.0, 'branching_factor': 200, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #121:
+  Cluster 0: 125 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 13 elementi
+  Totale elementi: 169
+
+BIRCH #121: 3 cluster, DBCV score: -0.1838
+
+[BIRCH #123] Parametri: {'threshold': 1.0, 'branching_factor': 50, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #123:
+  Cluster 0: 11 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 74 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 39 elementi
+  Totale elementi: 169
+
+BIRCH #123: 5 cluster, DBCV score: -0.1476
+
+[BIRCH #124] Parametri: {'threshold': 1.0, 'branching_factor': 20, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #124:
+  Cluster 0: 91 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 46 elementi
+  Totale elementi: 169
+
+BIRCH #124: 3 cluster, DBCV score: -0.5425
+
+[BIRCH #127] Parametri: {'threshold': 3.51, 'branching_factor': 284, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #127:
+  Cluster 0: 144 elementi
+  Cluster 1: 25 elementi
+  Totale elementi: 169
+
+BIRCH #127: 2 cluster, DBCV score: -0.4765
+
+[BIRCH #130] Parametri: {'threshold': 2.68, 'branching_factor': 51, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #130:
+  Cluster 0: 134 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 3 elementi
+  Totale elementi: 169
+
+BIRCH #130: 4 cluster, DBCV score: -0.2765
+
+[BIRCH #132] Parametri: {'threshold': 0.5, 'branching_factor': 20, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #132:
+  Cluster 0: 95 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 42 elementi
+  Totale elementi: 169
+
+BIRCH #132: 3 cluster, DBCV score: -0.6036
+
+[BIRCH #133] Parametri: {'threshold': 3.0, 'branching_factor': 50, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #133:
+  Cluster 0: 132 elementi
+  Cluster 1: 37 elementi
+  Totale elementi: 169
+
+BIRCH #133: 2 cluster, DBCV score: -0.6475
+
+[BIRCH #135] Parametri: {'threshold': 3.19, 'branching_factor': 45, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #135:
+  Cluster 0: 32 elementi
+  Cluster 1: 8 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 7 elementi
+  Cluster 4: 5 elementi
+  Cluster 5: 113 elementi
+  Totale elementi: 169
+
+BIRCH #135: 6 cluster, DBCV score: -0.4871
+
+[BIRCH #136] Parametri: {'threshold': 0.5, 'branching_factor': 200, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #136:
+  Cluster 0: 1 elementi
+  Cluster 1: 2 elementi
+  Cluster 2: 3 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 3 elementi
+  Cluster 10: 2 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 2 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 2 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 4 elementi
+  Cluster 31: 6 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 2 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 1 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 2 elementi
+  Cluster 57: 3 elementi
+  Cluster 58: 3 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 2 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 3 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 2 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 2 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 2 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 2 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 2 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 5 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 2 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 2 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 1 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 2 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 2 elementi
+  Cluster 127: 1 elementi
+  Cluster 128: 1 elementi
+  Totale elementi: 169
+
+BIRCH #136: 129 cluster, DBCV score: 0.3675
+
+[BIRCH #137] Parametri: {'threshold': 2.21, 'branching_factor': 258, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #137:
+  Cluster 0: 122 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 16 elementi
+  Totale elementi: 169
+
+BIRCH #137: 3 cluster, DBCV score: -0.1852
+
+[BIRCH #138] Parametri: {'threshold': 0.5, 'branching_factor': 50, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #138:
+  Cluster 0: 1 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 2 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 3 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 1 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 2 elementi
+  Cluster 30: 1 elementi
+  Cluster 31: 2 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 2 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 4 elementi
+  Cluster 41: 6 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 2 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 2 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 2 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 2 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 2 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 2 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 5 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 2 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 2 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 2 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 2 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 3 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 2 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 3 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 3 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 2 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 2 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 1 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 1 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 1 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 1 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 1 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 1 elementi
+  Cluster 127: 1 elementi
+  Cluster 128: 1 elementi
+  Cluster 129: 1 elementi
+  Cluster 130: 1 elementi
+  Totale elementi: 169
+
+BIRCH #138: 131 cluster, DBCV score: 0.3518
+
+[BIRCH #139] Parametri: {'threshold': 2.9, 'branching_factor': 109, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #139:
+  Cluster 0: 74 elementi
+  Cluster 1: 14 elementi
+  Cluster 2: 15 elementi
+  Cluster 3: 21 elementi
+  Cluster 4: 13 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 7 elementi
+  Cluster 7: 17 elementi
+  Cluster 8: 3 elementi
+  Totale elementi: 169
+
+BIRCH #139: 9 cluster, DBCV score: -0.5887
+
+[BIRCH #140] Parametri: {'threshold': 1.0, 'branching_factor': 50, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #140:
+  Cluster 0: 87 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 50 elementi
+  Totale elementi: 169
+
+BIRCH #140: 3 cluster, DBCV score: -0.5434
+
+[BIRCH #141] Parametri: {'threshold': 1.0, 'branching_factor': 20, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #141:
+  Cluster 0: 11 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 78 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 35 elementi
+  Totale elementi: 169
+
+BIRCH #141: 5 cluster, DBCV score: -0.2438
+
+[BIRCH #143] Parametri: {'threshold': 2.7, 'branching_factor': 197, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #143:
+  Cluster 0: 93 elementi
+  Cluster 1: 23 elementi
+  Cluster 2: 36 elementi
+  Cluster 3: 3 elementi
+  Cluster 4: 13 elementi
+  Cluster 5: 1 elementi
+  Totale elementi: 169
+
+BIRCH #143: 6 cluster, DBCV score: -0.5237
+
+[BIRCH #144] Parametri: {'threshold': 3.0, 'branching_factor': 100, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #144:
+  Cluster 0: 20 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 96 elementi
+  Totale elementi: 169
+
+BIRCH #144: 5 cluster, DBCV score: -0.4696
+
+[BIRCH #148] Parametri: {'threshold': 3.0, 'branching_factor': 50, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #148:
+  Cluster 0: 20 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 96 elementi
+  Totale elementi: 169
+
+BIRCH #148: 5 cluster, DBCV score: -0.4696
+
+[BIRCH #149] Parametri: {'threshold': 2.13, 'branching_factor': 256, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #149:
+  Cluster 0: 17 elementi
+  Cluster 1: 8 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 23 elementi
+  Cluster 4: 4 elementi
+  Cluster 5: 8 elementi
+  Cluster 6: 7 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 5 elementi
+  Cluster 9: 2 elementi
+  Cluster 10: 13 elementi
+  Cluster 11: 3 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 2 elementi
+  Cluster 15: 7 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 3 elementi
+  Cluster 18: 2 elementi
+  Cluster 19: 5 elementi
+  Cluster 20: 4 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 4 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 9 elementi
+  Cluster 26: 6 elementi
+  Cluster 27: 5 elementi
+  Cluster 28: 8 elementi
+  Cluster 29: 3 elementi
+  Totale elementi: 169
+
+BIRCH #149: 30 cluster, DBCV score: -0.0882
+
+[BIRCH #150] Parametri: {'threshold': 2.48, 'branching_factor': 58, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #150:
+  Cluster 0: 2 elementi
+  Cluster 1: 116 elementi
+  Cluster 2: 31 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 7 elementi
+  Totale elementi: 169
+
+BIRCH #150: 5 cluster, DBCV score: -0.2444
+
+[BIRCH #152] Parametri: {'threshold': 0.1, 'branching_factor': 100, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #152:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #152: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #153] Parametri: {'threshold': 3.0, 'branching_factor': 300, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #153:
+  Cluster 0: 20 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 96 elementi
+  Totale elementi: 169
+
+BIRCH #153: 5 cluster, DBCV score: -0.4696
+
+[BIRCH #154] Parametri: {'threshold': 2.59, 'branching_factor': 225, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #154:
+  Cluster 0: 14 elementi
+  Cluster 1: 124 elementi
+  Cluster 2: 31 elementi
+  Totale elementi: 169
+
+BIRCH #154: 3 cluster, DBCV score: -0.1814
+
+[BIRCH #155] Parametri: {'threshold': 2.47, 'branching_factor': 72, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #155:
+  Cluster 0: 120 elementi
+  Cluster 1: 3 elementi
+  Cluster 2: 31 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 2 elementi
+  Totale elementi: 169
+
+BIRCH #155: 5 cluster, DBCV score: 0.0339
+
+[BIRCH #156] Parametri: {'threshold': 2.52, 'branching_factor': 129, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #156:
+  Cluster 0: 131 elementi
+  Cluster 1: 38 elementi
+  Totale elementi: 169
+
+BIRCH #156: 2 cluster, DBCV score: -0.5459
+
+[BIRCH #157] Parametri: {'threshold': 2.0, 'branching_factor': 200, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #157:
+  Cluster 0: 31 elementi
+  Cluster 1: 5 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 70 elementi
+  Cluster 4: 50 elementi
+  Totale elementi: 169
+
+BIRCH #157: 5 cluster, DBCV score: -0.3895
+
+[BIRCH #159] Parametri: {'threshold': 0.1, 'branching_factor': 50, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #159:
+  Cluster 0: 76 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 61 elementi
+  Totale elementi: 169
+
+BIRCH #159: 3 cluster, DBCV score: -0.5609
+
+[BIRCH #160] Parametri: {'threshold': 0.5, 'branching_factor': 200, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #160:
+  Cluster 0: 48 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 48 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 28 elementi
+  Totale elementi: 169
+
+BIRCH #160: 5 cluster, DBCV score: -0.2835
+
+[BIRCH #162] Parametri: {'threshold': 2.19, 'branching_factor': 384, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #162:
+  Cluster 0: 13 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 110 elementi
+  Cluster 3: 31 elementi
+  Cluster 4: 3 elementi
+  Totale elementi: 169
+
+BIRCH #162: 5 cluster, DBCV score: -0.3482
+
+[BIRCH #163] Parametri: {'threshold': 2.92, 'branching_factor': 372, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #163:
+  Cluster 0: 136 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 32 elementi
+  Totale elementi: 169
+
+BIRCH #163: 3 cluster, DBCV score: -0.4987
+
+[BIRCH #164] Parametri: {'threshold': 3.16, 'branching_factor': 223, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #164:
+  Cluster 0: 126 elementi
+  Cluster 1: 7 elementi
+  Cluster 2: 32 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 3 elementi
+  Totale elementi: 169
+
+BIRCH #164: 5 cluster, DBCV score: -0.3624
+
+[BIRCH #165] Parametri: {'threshold': 2.0, 'branching_factor': 20, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #165:
+  Cluster 0: 136 elementi
+  Cluster 1: 33 elementi
+  Totale elementi: 169
+
+BIRCH #165: 2 cluster, DBCV score: -0.3394
+
+[BIRCH #167] Parametri: {'threshold': 0.5, 'branching_factor': 300, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #167:
+  Cluster 0: 89 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 48 elementi
+  Totale elementi: 169
+
+BIRCH #167: 3 cluster, DBCV score: -0.5429
+
+[BIRCH #168] Parametri: {'threshold': 1.0, 'branching_factor': 100, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #168:
+  Cluster 0: 1 elementi
+  Cluster 1: 4 elementi
+  Cluster 2: 6 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 2 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 3 elementi
+  Cluster 9: 2 elementi
+  Cluster 10: 7 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 2 elementi
+  Cluster 13: 2 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 2 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 2 elementi
+  Cluster 18: 5 elementi
+  Cluster 19: 2 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 5 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 2 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 1 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 2 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 2 elementi
+  Cluster 41: 4 elementi
+  Cluster 42: 3 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 2 elementi
+  Cluster 45: 2 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 3 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 2 elementi
+  Cluster 51: 3 elementi
+  Cluster 52: 2 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 2 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 2 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 3 elementi
+  Cluster 70: 3 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 2 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 2 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 2 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 6 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 2 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 2 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 3 elementi
+  Cluster 96: 2 elementi
+  Cluster 97: 2 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Totale elementi: 169
+
+BIRCH #168: 100 cluster, DBCV score: 0.3704
+
+[BIRCH #170] Parametri: {'threshold': 2.77, 'branching_factor': 75, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #170:
+  Cluster 0: 40 elementi
+  Cluster 1: 88 elementi
+  Cluster 2: 26 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 13 elementi
+  Cluster 5: 1 elementi
+  Totale elementi: 169
+
+BIRCH #170: 6 cluster, DBCV score: -0.5085
+
+[BIRCH #171] Parametri: {'threshold': 2.28, 'branching_factor': 189, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #171:
+  Cluster 0: 23 elementi
+  Cluster 1: 11 elementi
+  Cluster 2: 26 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 12 elementi
+  Cluster 7: 3 elementi
+  Cluster 8: 9 elementi
+  Cluster 9: 12 elementi
+  Cluster 10: 7 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 6 elementi
+  Cluster 14: 3 elementi
+  Cluster 15: 2 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 12 elementi
+  Cluster 20: 11 elementi
+  Cluster 21: 7 elementi
+  Cluster 22: 1 elementi
+  Totale elementi: 169
+
+BIRCH #171: 23 cluster, DBCV score: -0.2560
+
+[BIRCH #172] Parametri: {'threshold': 2.16, 'branching_factor': 21, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #172:
+  Cluster 0: 120 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 5 elementi
+  Cluster 3: 13 elementi
+  Totale elementi: 169
+
+BIRCH #172: 4 cluster, DBCV score: 0.0299
+
+[BIRCH #174] Parametri: {'threshold': 3.0, 'branching_factor': 20, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #174:
+  Cluster 0: 20 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 96 elementi
+  Totale elementi: 169
+
+BIRCH #174: 5 cluster, DBCV score: -0.4696
+
+[BIRCH #176] Parametri: {'threshold': 2.97, 'branching_factor': 100, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #176:
+  Cluster 0: 108 elementi
+  Cluster 1: 23 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 3 elementi
+  Cluster 4: 21 elementi
+  Cluster 5: 13 elementi
+  Totale elementi: 169
+
+BIRCH #176: 6 cluster, DBCV score: -0.4419
+
+[BIRCH #177] Parametri: {'threshold': 3.0, 'branching_factor': 50, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #177:
+  Cluster 0: 16 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 116 elementi
+  Totale elementi: 169
+
+BIRCH #177: 3 cluster, DBCV score: -0.5024
+
+[BIRCH #180] Parametri: {'threshold': 0.5, 'branching_factor': 50, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #180:
+  Cluster 0: 43 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 49 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 32 elementi
+  Totale elementi: 169
+
+BIRCH #180: 5 cluster, DBCV score: -0.4336
+
+[BIRCH #181] Parametri: {'threshold': 2.74, 'branching_factor': 171, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #181:
+  Cluster 0: 45 elementi
+  Cluster 1: 92 elementi
+  Cluster 2: 31 elementi
+  Cluster 3: 1 elementi
+  Totale elementi: 169
+
+BIRCH #181: 4 cluster, DBCV score: -0.5971
+
+[BIRCH #182] Parametri: {'threshold': 2.0, 'branching_factor': 300, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #182:
+  Cluster 0: 12 elementi
+  Cluster 1: 8 elementi
+  Cluster 2: 5 elementi
+  Cluster 3: 8 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 4 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 8 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 3 elementi
+  Cluster 12: 2 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 14 elementi
+  Cluster 15: 6 elementi
+  Cluster 16: 8 elementi
+  Cluster 17: 4 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 2 elementi
+  Cluster 23: 5 elementi
+  Cluster 24: 8 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 2 elementi
+  Cluster 29: 4 elementi
+  Cluster 30: 4 elementi
+  Cluster 31: 2 elementi
+  Cluster 32: 11 elementi
+  Cluster 33: 3 elementi
+  Cluster 34: 2 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 4 elementi
+  Totale elementi: 169
+
+BIRCH #182: 37 cluster, DBCV score: 0.0287
+
+[BIRCH #184] Parametri: {'threshold': 2.71, 'branching_factor': 45, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #184:
+  Cluster 0: 129 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 26 elementi
+  Cluster 3: 13 elementi
+  Totale elementi: 169
+
+BIRCH #184: 4 cluster, DBCV score: -0.2083
+
+[BIRCH #185] Parametri: {'threshold': 2.27, 'branching_factor': 371, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #185:
+  Cluster 0: 128 elementi
+  Cluster 1: 10 elementi
+  Cluster 2: 31 elementi
+  Totale elementi: 169
+
+BIRCH #185: 3 cluster, DBCV score: -0.4715
+
+[BIRCH #187] Parametri: {'threshold': 2.78, 'branching_factor': 181, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #187:
+  Cluster 0: 132 elementi
+  Cluster 1: 23 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 13 elementi
+  Totale elementi: 169
+
+BIRCH #187: 4 cluster, DBCV score: -0.4156
+
+[BIRCH #188] Parametri: {'threshold': 3.0, 'branching_factor': 200, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #188:
+  Cluster 0: 20 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 96 elementi
+  Totale elementi: 169
+
+BIRCH #188: 5 cluster, DBCV score: -0.4696
+
+[BIRCH #189] Parametri: {'threshold': 2.5, 'branching_factor': 313, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #189:
+  Cluster 0: 5 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 120 elementi
+  Cluster 3: 13 elementi
+  Totale elementi: 169
+
+BIRCH #189: 4 cluster, DBCV score: 0.0285
+
+[BIRCH #191] Parametri: {'threshold': 0.1, 'branching_factor': 20, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #191:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #191: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #192] Parametri: {'threshold': 0.5, 'branching_factor': 50, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #192:
+  Cluster 0: 94 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 43 elementi
+  Totale elementi: 169
+
+BIRCH #192: 3 cluster, DBCV score: -0.5418
+
+[BIRCH #193] Parametri: {'threshold': 3.4, 'branching_factor': 228, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #193:
+  Cluster 0: 139 elementi
+  Cluster 1: 30 elementi
+  Totale elementi: 169
+
+BIRCH #193: 2 cluster, DBCV score: -0.4922
+
+[BIRCH #194] Parametri: {'threshold': 2.24, 'branching_factor': 385, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #194:
+  Cluster 0: 22 elementi
+  Cluster 1: 10 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 6 elementi
+  Cluster 4: 12 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 4 elementi
+  Cluster 7: 12 elementi
+  Cluster 8: 8 elementi
+  Cluster 9: 2 elementi
+  Cluster 10: 11 elementi
+  Cluster 11: 6 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 2 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 6 elementi
+  Cluster 17: 3 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 3 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 11 elementi
+  Cluster 23: 7 elementi
+  Cluster 24: 7 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 5 elementi
+  Totale elementi: 169
+
+BIRCH #194: 27 cluster, DBCV score: -0.1889
+
+[BIRCH #196] Parametri: {'threshold': 2.31, 'branching_factor': 291, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #196:
+  Cluster 0: 155 elementi
+  Cluster 1: 14 elementi
+  Totale elementi: 169
+
+BIRCH #196: 2 cluster, DBCV score: 0.0352
+
+[BIRCH #197] Parametri: {'threshold': 2.36, 'branching_factor': 249, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #197:
+  Cluster 0: 130 elementi
+  Cluster 1: 39 elementi
+  Totale elementi: 169
+
+BIRCH #197: 2 cluster, DBCV score: -0.5570
+
+[BIRCH #198] Parametri: {'threshold': 2.0, 'branching_factor': 300, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #198:
+  Cluster 0: 138 elementi
+  Cluster 1: 31 elementi
+  Totale elementi: 169
+
+BIRCH #198: 2 cluster, DBCV score: -0.2789
+
+[BIRCH #200] Parametri: {'threshold': 1.0, 'branching_factor': 200, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #200:
+  Cluster 0: 11 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 74 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 39 elementi
+  Totale elementi: 169
+
+BIRCH #200: 5 cluster, DBCV score: -0.1476
+
+[BIRCH #202] Parametri: {'threshold': 3.12, 'branching_factor': 277, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #202:
+  Cluster 0: 32 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 9 elementi
+  Cluster 3: 10 elementi
+  Cluster 4: 101 elementi
+  Cluster 5: 4 elementi
+  Totale elementi: 169
+
+BIRCH #202: 6 cluster, DBCV score: -0.5945
+
+[BIRCH #203] Parametri: {'threshold': 3.0, 'branching_factor': 100, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #203:
+  Cluster 0: 132 elementi
+  Cluster 1: 37 elementi
+  Totale elementi: 169
+
+BIRCH #203: 2 cluster, DBCV score: -0.6475
+
+[BIRCH #205] Parametri: {'threshold': 2.71, 'branching_factor': 263, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #205:
+  Cluster 0: 14 elementi
+  Cluster 1: 129 elementi
+  Cluster 2: 26 elementi
+  Totale elementi: 169
+
+BIRCH #205: 3 cluster, DBCV score: -0.2072
+
+[BIRCH #206] Parametri: {'threshold': 2.0, 'branching_factor': 100, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #206:
+  Cluster 0: 125 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 13 elementi
+  Totale elementi: 169
+
+BIRCH #206: 3 cluster, DBCV score: -0.1838
+
+[BIRCH #209] Parametri: {'threshold': 3.44, 'branching_factor': 268, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #209:
+  Cluster 0: 7 elementi
+  Cluster 1: 137 elementi
+  Cluster 2: 25 elementi
+  Totale elementi: 169
+
+BIRCH #209: 3 cluster, DBCV score: -0.3043
+
+[BIRCH #210] Parametri: {'threshold': 2.0, 'branching_factor': 300, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #210:
+  Cluster 0: 125 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 13 elementi
+  Totale elementi: 169
+
+BIRCH #210: 3 cluster, DBCV score: -0.1838
+
+[BIRCH #212] Parametri: {'threshold': 2.27, 'branching_factor': 147, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #212:
+  Cluster 0: 128 elementi
+  Cluster 1: 10 elementi
+  Cluster 2: 31 elementi
+  Totale elementi: 169
+
+BIRCH #212: 3 cluster, DBCV score: -0.4715
+
+[BIRCH #213] Parametri: {'threshold': 2.0, 'branching_factor': 50, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #213:
+  Cluster 0: 12 elementi
+  Cluster 1: 8 elementi
+  Cluster 2: 5 elementi
+  Cluster 3: 8 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 4 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 8 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 3 elementi
+  Cluster 12: 2 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 14 elementi
+  Cluster 15: 6 elementi
+  Cluster 16: 8 elementi
+  Cluster 17: 4 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 2 elementi
+  Cluster 23: 5 elementi
+  Cluster 24: 8 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 2 elementi
+  Cluster 29: 4 elementi
+  Cluster 30: 4 elementi
+  Cluster 31: 2 elementi
+  Cluster 32: 11 elementi
+  Cluster 33: 3 elementi
+  Cluster 34: 2 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 4 elementi
+  Totale elementi: 169
+
+BIRCH #213: 37 cluster, DBCV score: 0.0287
+
+[BIRCH #215] Parametri: {'threshold': 2.66, 'branching_factor': 309, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #215:
+  Cluster 0: 62 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 7 elementi
+  Cluster 3: 29 elementi
+  Cluster 4: 3 elementi
+  Cluster 5: 4 elementi
+  Cluster 6: 16 elementi
+  Cluster 7: 4 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 13 elementi
+  Cluster 11: 11 elementi
+  Cluster 12: 5 elementi
+  Totale elementi: 169
+
+BIRCH #215: 13 cluster, DBCV score: -0.3160
+
+[BIRCH #216] Parametri: {'threshold': 2.53, 'branching_factor': 185, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #216:
+  Cluster 0: 46 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 6 elementi
+  Cluster 4: 17 elementi
+  Cluster 5: 15 elementi
+  Cluster 6: 13 elementi
+  Cluster 7: 5 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 4 elementi
+  Cluster 12: 16 elementi
+  Cluster 13: 11 elementi
+  Totale elementi: 169
+
+BIRCH #216: 14 cluster, DBCV score: -0.3056
+
+[BIRCH #218] Parametri: {'threshold': 1.0, 'branching_factor': 50, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #218:
+  Cluster 0: 1 elementi
+  Cluster 1: 4 elementi
+  Cluster 2: 2 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 2 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 2 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 2 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 2 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 2 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 2 elementi
+  Cluster 28: 7 elementi
+  Cluster 29: 2 elementi
+  Cluster 30: 5 elementi
+  Cluster 31: 2 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 5 elementi
+  Cluster 35: 2 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 2 elementi
+  Cluster 44: 3 elementi
+  Cluster 45: 3 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 2 elementi
+  Cluster 48: 2 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 6 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 2 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 2 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 3 elementi
+  Cluster 62: 2 elementi
+  Cluster 63: 2 elementi
+  Cluster 64: 1 elementi
+  Cluster 65: 6 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 3 elementi
+  Cluster 68: 2 elementi
+  Cluster 69: 2 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 4 elementi
+  Cluster 76: 4 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 3 elementi
+  Cluster 81: 2 elementi
+  Cluster 82: 2 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 2 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 2 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Totale elementi: 169
+
+BIRCH #218: 102 cluster, DBCV score: 0.3630
+
+[BIRCH #222] Parametri: {'threshold': 0.1, 'branching_factor': 20, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #222:
+  Cluster 0: 76 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 61 elementi
+  Totale elementi: 169
+
+BIRCH #222: 3 cluster, DBCV score: -0.5609
+
+[BIRCH #223] Parametri: {'threshold': 2.1, 'branching_factor': 337, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #223:
+  Cluster 0: 13 elementi
+  Cluster 1: 113 elementi
+  Cluster 2: 5 elementi
+  Cluster 3: 31 elementi
+  Cluster 4: 7 elementi
+  Totale elementi: 169
+
+BIRCH #223: 5 cluster, DBCV score: -0.2001
+
+[BIRCH #225] Parametri: {'threshold': 2.22, 'branching_factor': 107, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #225:
+  Cluster 0: 14 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 120 elementi
+  Cluster 3: 3 elementi
+  Totale elementi: 169
+
+BIRCH #225: 4 cluster, DBCV score: -0.1709
+
+[BIRCH #226] Parametri: {'threshold': 2.55, 'branching_factor': 182, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #226:
+  Cluster 0: 39 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 3 elementi
+  Cluster 3: 83 elementi
+  Cluster 4: 13 elementi
+  Totale elementi: 169
+
+BIRCH #226: 5 cluster, DBCV score: -0.3209
+
+[BIRCH #227] Parametri: {'threshold': 0.1, 'branching_factor': 50, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #227:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #227: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #228] Parametri: {'threshold': 2.0, 'branching_factor': 356, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #228:
+  Cluster 0: 120 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 5 elementi
+  Totale elementi: 169
+
+BIRCH #228: 4 cluster, DBCV score: 0.0299
+
+[BIRCH #231] Parametri: {'threshold': 2.0, 'branching_factor': 100, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #231:
+  Cluster 0: 12 elementi
+  Cluster 1: 8 elementi
+  Cluster 2: 5 elementi
+  Cluster 3: 8 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 4 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 8 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 3 elementi
+  Cluster 12: 2 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 14 elementi
+  Cluster 15: 6 elementi
+  Cluster 16: 8 elementi
+  Cluster 17: 4 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 2 elementi
+  Cluster 23: 5 elementi
+  Cluster 24: 8 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 2 elementi
+  Cluster 29: 4 elementi
+  Cluster 30: 4 elementi
+  Cluster 31: 2 elementi
+  Cluster 32: 11 elementi
+  Cluster 33: 3 elementi
+  Cluster 34: 2 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 4 elementi
+  Totale elementi: 169
+
+BIRCH #231: 37 cluster, DBCV score: 0.0287
+
+[BIRCH #232] Parametri: {'threshold': 1.0, 'branching_factor': 200, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #232:
+  Cluster 0: 1 elementi
+  Cluster 1: 4 elementi
+  Cluster 2: 6 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 2 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 3 elementi
+  Cluster 9: 2 elementi
+  Cluster 10: 7 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 2 elementi
+  Cluster 13: 2 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 2 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 2 elementi
+  Cluster 18: 5 elementi
+  Cluster 19: 2 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 5 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 2 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 1 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 2 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 2 elementi
+  Cluster 41: 4 elementi
+  Cluster 42: 3 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 2 elementi
+  Cluster 45: 2 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 3 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 2 elementi
+  Cluster 51: 3 elementi
+  Cluster 52: 2 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 2 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 2 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 3 elementi
+  Cluster 70: 3 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 2 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 2 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 2 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 6 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 2 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 2 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 3 elementi
+  Cluster 96: 2 elementi
+  Cluster 97: 2 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Totale elementi: 169
+
+BIRCH #232: 100 cluster, DBCV score: 0.3704
+
+[BIRCH #233] Parametri: {'threshold': 2.82, 'branching_factor': 248, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #233:
+  Cluster 0: 121 elementi
+  Cluster 1: 48 elementi
+  Totale elementi: 169
+
+BIRCH #233: 2 cluster, DBCV score: -0.8929
+
+[BIRCH #234] Parametri: {'threshold': 1.0, 'branching_factor': 300, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #234:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #234: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #235] Parametri: {'threshold': 2.07, 'branching_factor': 53, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #235:
+  Cluster 0: 138 elementi
+  Cluster 1: 31 elementi
+  Totale elementi: 169
+
+BIRCH #235: 2 cluster, DBCV score: -0.2801
+
+[BIRCH #236] Parametri: {'threshold': 1.0, 'branching_factor': 300, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #236:
+  Cluster 0: 1 elementi
+  Cluster 1: 4 elementi
+  Cluster 2: 6 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 2 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 3 elementi
+  Cluster 9: 2 elementi
+  Cluster 10: 7 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 2 elementi
+  Cluster 13: 2 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 2 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 2 elementi
+  Cluster 18: 5 elementi
+  Cluster 19: 2 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 5 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 2 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 1 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 2 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 2 elementi
+  Cluster 41: 4 elementi
+  Cluster 42: 3 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 2 elementi
+  Cluster 45: 2 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 3 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 2 elementi
+  Cluster 51: 3 elementi
+  Cluster 52: 2 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 2 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 2 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 3 elementi
+  Cluster 70: 3 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 2 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 2 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 2 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 6 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 2 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 2 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 3 elementi
+  Cluster 96: 2 elementi
+  Cluster 97: 2 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Totale elementi: 169
+
+BIRCH #236: 100 cluster, DBCV score: 0.3704
+
+[BIRCH #238] Parametri: {'threshold': 1.0, 'branching_factor': 200, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #238:
+  Cluster 0: 87 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 50 elementi
+  Totale elementi: 169
+
+BIRCH #238: 3 cluster, DBCV score: -0.5434
+
+[BIRCH #240] Parametri: {'threshold': 2.22, 'branching_factor': 123, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #240:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #240: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #241] Parametri: {'threshold': 2.38, 'branching_factor': 393, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #241:
+  Cluster 0: 39 elementi
+  Cluster 1: 11 elementi
+  Cluster 2: 17 elementi
+  Cluster 3: 7 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 8 elementi
+  Cluster 7: 2 elementi
+  Cluster 8: 13 elementi
+  Cluster 9: 11 elementi
+  Cluster 10: 8 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 12 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 13 elementi
+  Cluster 17: 6 elementi
+  Cluster 18: 2 elementi
+  Cluster 19: 3 elementi
+  Cluster 20: 7 elementi
+  Totale elementi: 169
+
+BIRCH #241: 21 cluster, DBCV score: -0.1598
+
+[BIRCH #242] Parametri: {'threshold': 2.08, 'branching_factor': 107, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #242:
+  Cluster 0: 113 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 8 elementi
+  Cluster 5: 1 elementi
+  Totale elementi: 169
+
+BIRCH #242: 6 cluster, DBCV score: -0.2069
+
+[BIRCH #243] Parametri: {'threshold': 0.1, 'branching_factor': 200, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #243:
+  Cluster 0: 1 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 2 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 2 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 2 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 1 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 1 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 2 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 1 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 2 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 2 elementi
+  Cluster 83: 2 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 2 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 1 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 1 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 1 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 1 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 1 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 1 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 1 elementi
+  Cluster 127: 1 elementi
+  Cluster 128: 1 elementi
+  Cluster 129: 1 elementi
+  Cluster 130: 1 elementi
+  Cluster 131: 1 elementi
+  Cluster 132: 1 elementi
+  Cluster 133: 1 elementi
+  Cluster 134: 1 elementi
+  Cluster 135: 1 elementi
+  Cluster 136: 1 elementi
+  Cluster 137: 1 elementi
+  Cluster 138: 2 elementi
+  Cluster 139: 1 elementi
+  Cluster 140: 1 elementi
+  Cluster 141: 1 elementi
+  Cluster 142: 1 elementi
+  Cluster 143: 1 elementi
+  Cluster 144: 2 elementi
+  Cluster 145: 1 elementi
+  Cluster 146: 1 elementi
+  Cluster 147: 1 elementi
+  Cluster 148: 1 elementi
+  Cluster 149: 1 elementi
+  Cluster 150: 1 elementi
+  Cluster 151: 1 elementi
+  Cluster 152: 2 elementi
+  Cluster 153: 1 elementi
+  Cluster 154: 1 elementi
+  Cluster 155: 1 elementi
+  Totale elementi: 169
+
+BIRCH #243: 156 cluster, DBCV score: 0.1268
+
+[BIRCH #245] Parametri: {'threshold': 0.1, 'branching_factor': 50, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #245:
+  Cluster 0: 41 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 63 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 20 elementi
+  Totale elementi: 169
+
+BIRCH #245: 5 cluster, DBCV score: -0.3811
+
+[BIRCH #246] Parametri: {'threshold': 2.0, 'branching_factor': 200, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #246:
+  Cluster 0: 12 elementi
+  Cluster 1: 8 elementi
+  Cluster 2: 5 elementi
+  Cluster 3: 8 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 5 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 4 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 8 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 3 elementi
+  Cluster 12: 2 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 14 elementi
+  Cluster 15: 6 elementi
+  Cluster 16: 8 elementi
+  Cluster 17: 4 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 2 elementi
+  Cluster 23: 5 elementi
+  Cluster 24: 8 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 2 elementi
+  Cluster 29: 4 elementi
+  Cluster 30: 4 elementi
+  Cluster 31: 2 elementi
+  Cluster 32: 11 elementi
+  Cluster 33: 3 elementi
+  Cluster 34: 2 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 4 elementi
+  Totale elementi: 169
+
+BIRCH #246: 37 cluster, DBCV score: 0.0287
+
+[BIRCH #247] Parametri: {'threshold': 0.5, 'branching_factor': 20, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #247:
+  Cluster 0: 42 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 53 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 29 elementi
+  Totale elementi: 169
+
+BIRCH #247: 5 cluster, DBCV score: -0.3994
+
+[BIRCH #248] Parametri: {'threshold': 2.88, 'branching_factor': 61, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #248:
+  Cluster 0: 123 elementi
+  Cluster 1: 29 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 3 elementi
+  Totale elementi: 169
+
+BIRCH #248: 4 cluster, DBCV score: -0.3801
+
+[BIRCH #250] Parametri: {'threshold': 3.42, 'branching_factor': 108, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #250:
+  Cluster 0: 139 elementi
+  Cluster 1: 30 elementi
+  Totale elementi: 169
+
+BIRCH #250: 2 cluster, DBCV score: -0.4922
+
+[BIRCH #251] Parametri: {'threshold': 2.0, 'branching_factor': 50, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #251:
+  Cluster 0: 125 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 13 elementi
+  Totale elementi: 169
+
+BIRCH #251: 3 cluster, DBCV score: -0.1838
+
+[BIRCH #252] Parametri: {'threshold': 2.34, 'branching_factor': 96, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #252:
+  Cluster 0: 140 elementi
+  Cluster 1: 29 elementi
+  Totale elementi: 169
+
+BIRCH #252: 2 cluster, DBCV score: -0.4923
+
+[BIRCH #254] Parametri: {'threshold': 1.0, 'branching_factor': 20, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #254:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #254: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #255] Parametri: {'threshold': 3.24, 'branching_factor': 301, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #255:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #255: 2 cluster, DBCV score: -0.2800
+
+[BIRCH #258] Parametri: {'threshold': 3.0, 'branching_factor': 100, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #258:
+  Cluster 0: 16 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 116 elementi
+  Totale elementi: 169
+
+BIRCH #258: 3 cluster, DBCV score: -0.5024
+
+[BIRCH #259] Parametri: {'threshold': 3.34, 'branching_factor': 155, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #259:
+  Cluster 0: 30 elementi
+  Cluster 1: 139 elementi
+  Totale elementi: 169
+
+BIRCH #259: 2 cluster, DBCV score: -0.4922
+
+[BIRCH #262] Parametri: {'threshold': 3.11, 'branching_factor': 169, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #262:
+  Cluster 0: 15 elementi
+  Cluster 1: 108 elementi
+  Cluster 2: 11 elementi
+  Cluster 3: 32 elementi
+  Cluster 4: 3 elementi
+  Totale elementi: 169
+
+BIRCH #262: 5 cluster, DBCV score: -0.5897
+
+[BIRCH #263] Parametri: {'threshold': 0.1, 'branching_factor': 200, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #263:
+  Cluster 0: 41 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 63 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 20 elementi
+  Totale elementi: 169
+
+BIRCH #263: 5 cluster, DBCV score: -0.3811
+
+[BIRCH #264] Parametri: {'threshold': 2.0, 'branching_factor': 20, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #264:
+  Cluster 0: 33 elementi
+  Cluster 1: 69 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 50 elementi
+  Cluster 4: 3 elementi
+  Totale elementi: 169
+
+BIRCH #264: 5 cluster, DBCV score: -0.4461
+
+[BIRCH #265] Parametri: {'threshold': 2.0, 'branching_factor': 334, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #265:
+  Cluster 0: 138 elementi
+  Cluster 1: 31 elementi
+  Totale elementi: 169
+
+BIRCH #265: 2 cluster, DBCV score: -0.2789
+
+[BIRCH #266] Parametri: {'threshold': 2.27, 'branching_factor': 298, 'n_clusters': 4}
+
+Distribuzione cluster per BIRCH #266:
+  Cluster 0: 10 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 31 elementi
+  Cluster 3: 115 elementi
+  Totale elementi: 169
+
+BIRCH #266: 4 cluster, DBCV score: -0.2323
+
+[BIRCH #267] Parametri: {'threshold': 3.35, 'branching_factor': 37, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #267:
+  Cluster 0: 139 elementi
+  Cluster 1: 30 elementi
+  Totale elementi: 169
+
+BIRCH #267: 2 cluster, DBCV score: -0.4922
+
+[BIRCH #268] Parametri: {'threshold': 3.07, 'branching_factor': 319, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #268:
+  Cluster 0: 129 elementi
+  Cluster 1: 40 elementi
+  Totale elementi: 169
+
+BIRCH #268: 2 cluster, DBCV score: -0.6476
+
+[BIRCH #271] Parametri: {'threshold': 3.17, 'branching_factor': 112, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #271:
+  Cluster 0: 115 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 7 elementi
+  Cluster 3: 6 elementi
+  Cluster 4: 8 elementi
+  Cluster 5: 24 elementi
+  Cluster 6: 8 elementi
+  Totale elementi: 169
+
+BIRCH #271: 7 cluster, DBCV score: -0.5275
+
+[BIRCH #272] Parametri: {'threshold': 0.5, 'branching_factor': 50, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #272:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #272: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #273] Parametri: {'threshold': 3.48, 'branching_factor': 213, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #273:
+  Cluster 0: 143 elementi
+  Cluster 1: 26 elementi
+  Totale elementi: 169
+
+BIRCH #273: 2 cluster, DBCV score: -0.4749
+
+[BIRCH #274] Parametri: {'threshold': 0.1, 'branching_factor': 300, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #274:
+  Cluster 0: 1 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 2 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 2 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 2 elementi
+  Cluster 10: 1 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 1 elementi
+  Cluster 16: 1 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 2 elementi
+  Cluster 21: 2 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 1 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 1 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 1 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 1 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 1 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 1 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 1 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 1 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 2 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 1 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 1 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 2 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 2 elementi
+  Cluster 83: 2 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 2 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 1 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 1 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 1 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 1 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 1 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 1 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 1 elementi
+  Cluster 127: 1 elementi
+  Cluster 128: 1 elementi
+  Cluster 129: 1 elementi
+  Cluster 130: 1 elementi
+  Cluster 131: 1 elementi
+  Cluster 132: 1 elementi
+  Cluster 133: 1 elementi
+  Cluster 134: 1 elementi
+  Cluster 135: 1 elementi
+  Cluster 136: 1 elementi
+  Cluster 137: 1 elementi
+  Cluster 138: 2 elementi
+  Cluster 139: 1 elementi
+  Cluster 140: 1 elementi
+  Cluster 141: 1 elementi
+  Cluster 142: 1 elementi
+  Cluster 143: 1 elementi
+  Cluster 144: 2 elementi
+  Cluster 145: 1 elementi
+  Cluster 146: 1 elementi
+  Cluster 147: 1 elementi
+  Cluster 148: 1 elementi
+  Cluster 149: 1 elementi
+  Cluster 150: 1 elementi
+  Cluster 151: 1 elementi
+  Cluster 152: 2 elementi
+  Cluster 153: 1 elementi
+  Cluster 154: 1 elementi
+  Cluster 155: 1 elementi
+  Totale elementi: 169
+
+BIRCH #274: 156 cluster, DBCV score: 0.1268
+
+[BIRCH #276] Parametri: {'threshold': 0.5, 'branching_factor': 100, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #276:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #276: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #278] Parametri: {'threshold': 3.0, 'branching_factor': 300, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #278:
+  Cluster 0: 16 elementi
+  Cluster 1: 37 elementi
+  Cluster 2: 116 elementi
+  Totale elementi: 169
+
+BIRCH #278: 3 cluster, DBCV score: -0.5024
+
+[BIRCH #279] Parametri: {'threshold': 3.0, 'branching_factor': 100, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #279:
+  Cluster 0: 81 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 15 elementi
+  Cluster 4: 5 elementi
+  Cluster 5: 25 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 10 elementi
+  Cluster 8: 12 elementi
+  Totale elementi: 169
+
+BIRCH #279: 9 cluster, DBCV score: -0.4035
+
+[BIRCH #280] Parametri: {'threshold': 0.1, 'branching_factor': 200, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #280:
+  Cluster 0: 76 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 61 elementi
+  Totale elementi: 169
+
+BIRCH #280: 3 cluster, DBCV score: -0.5609
+
+[BIRCH #282] Parametri: {'threshold': 2.0, 'branching_factor': 100, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #282:
+  Cluster 0: 138 elementi
+  Cluster 1: 31 elementi
+  Totale elementi: 169
+
+BIRCH #282: 2 cluster, DBCV score: -0.2789
+
+[BIRCH #283] Parametri: {'threshold': 2.07, 'branching_factor': 320, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #283:
+  Cluster 0: 13 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 49 elementi
+  Cluster 3: 2 elementi
+  Cluster 4: 73 elementi
+  Cluster 5: 1 elementi
+  Totale elementi: 169
+
+BIRCH #283: 6 cluster, DBCV score: -0.5082
+
+[BIRCH #284] Parametri: {'threshold': 2.55, 'branching_factor': 215, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #284:
+  Cluster 0: 135 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 3 elementi
+  Totale elementi: 169
+
+BIRCH #284: 3 cluster, DBCV score: -0.2771
+
+[BIRCH #286] Parametri: {'threshold': 0.5, 'branching_factor': 200, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #286:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #286: 2 cluster, DBCV score: -0.2754
+
+[BIRCH #287] Parametri: {'threshold': 3.0, 'branching_factor': 20, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #287:
+  Cluster 0: 132 elementi
+  Cluster 1: 37 elementi
+  Totale elementi: 169
+
+BIRCH #287: 2 cluster, DBCV score: -0.6475
+
+[BIRCH #288] Parametri: {'threshold': 2.45, 'branching_factor': 376, 'n_clusters': 6}
+
+Distribuzione cluster per BIRCH #288:
+  Cluster 0: 45 elementi
+  Cluster 1: 7 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 29 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 74 elementi
+  Totale elementi: 169
+
+BIRCH #288: 6 cluster, DBCV score: -0.4360
+
+[BIRCH #289] Parametri: {'threshold': 0.5, 'branching_factor': 100, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #289:
+  Cluster 0: 1 elementi
+  Cluster 1: 1 elementi
+  Cluster 2: 1 elementi
+  Cluster 3: 1 elementi
+  Cluster 4: 1 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 1 elementi
+  Cluster 8: 1 elementi
+  Cluster 9: 1 elementi
+  Cluster 10: 2 elementi
+  Cluster 11: 1 elementi
+  Cluster 12: 1 elementi
+  Cluster 13: 1 elementi
+  Cluster 14: 1 elementi
+  Cluster 15: 4 elementi
+  Cluster 16: 6 elementi
+  Cluster 17: 1 elementi
+  Cluster 18: 1 elementi
+  Cluster 19: 1 elementi
+  Cluster 20: 1 elementi
+  Cluster 21: 1 elementi
+  Cluster 22: 1 elementi
+  Cluster 23: 1 elementi
+  Cluster 24: 1 elementi
+  Cluster 25: 1 elementi
+  Cluster 26: 1 elementi
+  Cluster 27: 1 elementi
+  Cluster 28: 2 elementi
+  Cluster 29: 1 elementi
+  Cluster 30: 2 elementi
+  Cluster 31: 1 elementi
+  Cluster 32: 1 elementi
+  Cluster 33: 2 elementi
+  Cluster 34: 1 elementi
+  Cluster 35: 1 elementi
+  Cluster 36: 2 elementi
+  Cluster 37: 1 elementi
+  Cluster 38: 1 elementi
+  Cluster 39: 5 elementi
+  Cluster 40: 1 elementi
+  Cluster 41: 2 elementi
+  Cluster 42: 1 elementi
+  Cluster 43: 1 elementi
+  Cluster 44: 2 elementi
+  Cluster 45: 1 elementi
+  Cluster 46: 1 elementi
+  Cluster 47: 1 elementi
+  Cluster 48: 1 elementi
+  Cluster 49: 2 elementi
+  Cluster 50: 1 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 2 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 2 elementi
+  Cluster 59: 3 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 2 elementi
+  Cluster 63: 3 elementi
+  Cluster 64: 2 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 2 elementi
+  Cluster 68: 2 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 2 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 2 elementi
+  Cluster 89: 3 elementi
+  Cluster 90: 3 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 2 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 3 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 2 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 1 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 1 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 1 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 1 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 1 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 1 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 1 elementi
+  Cluster 127: 1 elementi
+  Cluster 128: 1 elementi
+  Totale elementi: 169
+
+BIRCH #289: 129 cluster, DBCV score: 0.3675
+
+[BIRCH #291] Parametri: {'threshold': 2.29, 'branching_factor': 362, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #291:
+  Cluster 0: 41 elementi
+  Cluster 1: 14 elementi
+  Cluster 2: 114 elementi
+  Totale elementi: 169
+
+BIRCH #291: 3 cluster, DBCV score: -0.5267
+
+[BIRCH #292] Parametri: {'threshold': 2.8, 'branching_factor': 164, 'n_clusters': 3}
+
+Distribuzione cluster per BIRCH #292:
+  Cluster 0: 134 elementi
+  Cluster 1: 34 elementi
+  Cluster 2: 1 elementi
+  Totale elementi: 169
+
+BIRCH #292: 3 cluster, DBCV score: -0.5366
+
+[BIRCH #296] Parametri: {'threshold': 3.0, 'branching_factor': 300, 'n_clusters': None}
+
+Distribuzione cluster per BIRCH #296:
+  Cluster 0: 81 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 4 elementi
+  Cluster 3: 15 elementi
+  Cluster 4: 5 elementi
+  Cluster 5: 25 elementi
+  Cluster 6: 5 elementi
+  Cluster 7: 10 elementi
+  Cluster 8: 12 elementi
+  Totale elementi: 169
+
+BIRCH #296: 9 cluster, DBCV score: -0.4035
+
+[BIRCH #297] Parametri: {'threshold': 1.0, 'branching_factor': 50, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #297:
+  Cluster 0: 137 elementi
+  Cluster 1: 32 elementi
+  Totale elementi: 169
+
+BIRCH #297: 2 cluster, DBCV score: -0.2754
+
+--- Output salvato in: ../../results/csv5\risultati_cluster_csv5_2025-09-12_19-39-54.txt ---

@@ -1,0 +1,2531 @@
+
+### Risultati per OPTICS ###
+
+[OPTICS #2] Parametri: {'min_samples': 5, 'xi': 0.002, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #2:
+  Noise (outliers): 165 elementi
+  Cluster 0: 18 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 10 elementi
+  Cluster 6: 8 elementi
+  Cluster 7: 13 elementi
+  Cluster 8: 14 elementi
+  Cluster 9: 10 elementi
+  Cluster 10: 9 elementi
+  Cluster 11: 12 elementi
+  Cluster 12: 9 elementi
+  Cluster 13: 11 elementi
+  Cluster 14: 17 elementi
+  Cluster 15: 8 elementi
+  Cluster 16: 9 elementi
+  Cluster 17: 9 elementi
+  Cluster 18: 11 elementi
+  Cluster 19: 8 elementi
+  Cluster 20: 9 elementi
+  Cluster 21: 9 elementi
+  Totale elementi: 416
+
+OPTICS #2: 22 cluster, DBCV score: 0.3420
+
+[OPTICS #4] Parametri: {'min_samples': 20, 'xi': 0.005, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #4:
+  Noise (outliers): 327 elementi
+  Cluster 0: 48 elementi
+  Cluster 1: 41 elementi
+  Totale elementi: 416
+
+OPTICS #4: 2 cluster, DBCV score: 0.0489
+
+[OPTICS #6] Parametri: {'min_samples': 37, 'xi': 0.01, 'min_cluster_size': 0.027}
+
+Distribuzione cluster per OPTICS #6:
+  Noise (outliers): 382 elementi
+  Cluster 0: 34 elementi
+  Totale elementi: 416
+
+OPTICS #6: 1 cluster, DBCV score: 0.0817
+
+[OPTICS #12] Parametri: {'min_samples': 30, 'xi': 0.005, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #12:
+  Noise (outliers): 258 elementi
+  Cluster 0: 158 elementi
+  Totale elementi: 416
+
+OPTICS #12: 1 cluster, DBCV score: 0.3798
+
+[OPTICS #16] Parametri: {'min_samples': 13, 'xi': 0.01, 'min_cluster_size': 0.086}
+
+Distribuzione cluster per OPTICS #16:
+  Noise (outliers): 130 elementi
+  Cluster 0: 35 elementi
+  Cluster 1: 48 elementi
+  Cluster 2: 50 elementi
+  Cluster 3: 48 elementi
+  Cluster 4: 45 elementi
+  Cluster 5: 60 elementi
+  Totale elementi: 416
+
+OPTICS #16: 6 cluster, DBCV score: 0.0478
+
+[OPTICS #31] Parametri: {'min_samples': 5, 'xi': 0.05, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #31:
+  Noise (outliers): 215 elementi
+  Cluster 0: 18 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 10 elementi
+  Cluster 6: 8 elementi
+  Cluster 7: 13 elementi
+  Cluster 8: 13 elementi
+  Cluster 9: 10 elementi
+  Cluster 10: 12 elementi
+  Cluster 11: 9 elementi
+  Cluster 12: 9 elementi
+  Cluster 13: 16 elementi
+  Cluster 14: 8 elementi
+  Cluster 15: 10 elementi
+  Cluster 16: 8 elementi
+  Totale elementi: 416
+
+OPTICS #31: 17 cluster, DBCV score: 0.3263
+
+[OPTICS #32] Parametri: {'min_samples': 10, 'xi': 0.005, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #32:
+  Noise (outliers): 169 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 26 elementi
+  Cluster 4: 28 elementi
+  Cluster 5: 52 elementi
+  Cluster 6: 23 elementi
+  Cluster 7: 21 elementi
+  Cluster 8: 25 elementi
+  Totale elementi: 416
+
+OPTICS #32: 9 cluster, DBCV score: 0.1337
+
+[OPTICS #35] Parametri: {'min_samples': 30, 'xi': 0.005, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #35:
+  Noise (outliers): 389 elementi
+  Cluster 0: 27 elementi
+  Totale elementi: 416
+
+OPTICS #35: 1 cluster, DBCV score: 0.0649
+
+[OPTICS #36] Parametri: {'min_samples': 20, 'xi': 0.1, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #36:
+  Noise (outliers): 396 elementi
+  Cluster 0: 20 elementi
+  Totale elementi: 416
+
+OPTICS #36: 1 cluster, DBCV score: 0.0481
+
+[OPTICS #37] Parametri: {'min_samples': 27, 'xi': 0.003, 'min_cluster_size': 0.177}
+
+Distribuzione cluster per OPTICS #37:
+  Noise (outliers): 337 elementi
+  Cluster 0: 79 elementi
+  Totale elementi: 416
+
+OPTICS #37: 1 cluster, DBCV score: 0.1899
+
+[OPTICS #38] Parametri: {'min_samples': 10, 'xi': 0.02, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #38:
+  Noise (outliers): 158 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 50 elementi
+  Cluster 4: 27 elementi
+  Cluster 5: 33 elementi
+  Cluster 6: 21 elementi
+  Cluster 7: 55 elementi
+  Totale elementi: 416
+
+OPTICS #38: 8 cluster, DBCV score: 0.1877
+
+[OPTICS #41] Parametri: {'min_samples': 35, 'xi': 0.015, 'min_cluster_size': 0.17}
+
+Distribuzione cluster per OPTICS #41:
+  Noise (outliers): 88 elementi
+  Cluster 0: 328 elementi
+  Totale elementi: 416
+
+OPTICS #41: 1 cluster, DBCV score: 0.7885
+
+[OPTICS #46] Parametri: {'min_samples': 50, 'xi': 0.005, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #46:
+  Noise (outliers): 266 elementi
+  Cluster 0: 150 elementi
+  Totale elementi: 416
+
+OPTICS #46: 1 cluster, DBCV score: 0.3606
+
+[OPTICS #49] Parametri: {'min_samples': 7, 'xi': 0.172, 'min_cluster_size': 0.033}
+
+Distribuzione cluster per OPTICS #49:
+  Noise (outliers): 356 elementi
+  Cluster 0: 16 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 17 elementi
+  Totale elementi: 416
+
+OPTICS #49: 4 cluster, DBCV score: 0.1324
+
+[OPTICS #53] Parametri: {'min_samples': 11, 'xi': 0.02, 'min_cluster_size': 0.037}
+
+Distribuzione cluster per OPTICS #53:
+  Noise (outliers): 179 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 18 elementi
+  Cluster 4: 17 elementi
+  Cluster 5: 31 elementi
+  Cluster 6: 21 elementi
+  Cluster 7: 21 elementi
+  Cluster 8: 57 elementi
+  Totale elementi: 416
+
+OPTICS #53: 9 cluster, DBCV score: 0.2113
+
+[OPTICS #54] Parametri: {'min_samples': 9, 'xi': 0.143, 'min_cluster_size': 0.062}
+
+Distribuzione cluster per OPTICS #54:
+  Noise (outliers): 391 elementi
+  Cluster 0: 25 elementi
+  Totale elementi: 416
+
+OPTICS #54: 1 cluster, DBCV score: 0.0601
+
+[OPTICS #62] Parametri: {'min_samples': 5, 'xi': 0.02, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #62:
+  Noise (outliers): 329 elementi
+  Cluster 0: 87 elementi
+  Totale elementi: 416
+
+OPTICS #62: 1 cluster, DBCV score: 0.2091
+
+[OPTICS #63] Parametri: {'min_samples': 5, 'xi': 0.15, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #63:
+  Noise (outliers): 344 elementi
+  Cluster 0: 26 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 24 elementi
+  Totale elementi: 416
+
+OPTICS #63: 3 cluster, DBCV score: 0.1367
+
+[OPTICS #64] Parametri: {'min_samples': 13, 'xi': 0.011, 'min_cluster_size': 0.027}
+
+Distribuzione cluster per OPTICS #64:
+  Noise (outliers): 212 elementi
+  Cluster 0: 35 elementi
+  Cluster 1: 26 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 18 elementi
+  Cluster 4: 13 elementi
+  Cluster 5: 15 elementi
+  Cluster 6: 15 elementi
+  Cluster 7: 21 elementi
+  Cluster 8: 19 elementi
+  Cluster 9: 21 elementi
+  Totale elementi: 416
+
+OPTICS #64: 10 cluster, DBCV score: 0.1599
+
+[OPTICS #68] Parametri: {'min_samples': 20, 'xi': 0.062, 'min_cluster_size': 0.029}
+
+Distribuzione cluster per OPTICS #68:
+  Noise (outliers): 395 elementi
+  Cluster 0: 21 elementi
+  Totale elementi: 416
+
+OPTICS #68: 1 cluster, DBCV score: 0.0505
+
+[OPTICS #70] Parametri: {'min_samples': 21, 'xi': 0.011, 'min_cluster_size': 0.098}
+
+Distribuzione cluster per OPTICS #70:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #70: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #71] Parametri: {'min_samples': 27, 'xi': 0.016, 'min_cluster_size': 0.175}
+
+Distribuzione cluster per OPTICS #71:
+  Noise (outliers): 64 elementi
+  Cluster 0: 352 elementi
+  Totale elementi: 416
+
+OPTICS #71: 1 cluster, DBCV score: 0.8462
+
+[OPTICS #73] Parametri: {'min_samples': 5, 'xi': 0.01, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #73:
+  Noise (outliers): 329 elementi
+  Cluster 0: 87 elementi
+  Totale elementi: 416
+
+OPTICS #73: 1 cluster, DBCV score: 0.2091
+
+[OPTICS #80] Parametri: {'min_samples': 19, 'xi': 0.026, 'min_cluster_size': 0.056}
+
+Distribuzione cluster per OPTICS #80:
+  Noise (outliers): 392 elementi
+  Cluster 0: 24 elementi
+  Totale elementi: 416
+
+OPTICS #80: 1 cluster, DBCV score: 0.0577
+
+[OPTICS #87] Parametri: {'min_samples': 5, 'xi': 0.062, 'min_cluster_size': 0.058}
+
+Distribuzione cluster per OPTICS #87:
+  Noise (outliers): 364 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 24 elementi
+  Totale elementi: 416
+
+OPTICS #87: 2 cluster, DBCV score: 0.0716
+
+[OPTICS #88] Parametri: {'min_samples': 20, 'xi': 0.002, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #88:
+  Noise (outliers): 327 elementi
+  Cluster 0: 48 elementi
+  Cluster 1: 41 elementi
+  Totale elementi: 416
+
+OPTICS #88: 2 cluster, DBCV score: 0.0489
+
+[OPTICS #89] Parametri: {'min_samples': 5, 'xi': 0.01, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #89:
+  Noise (outliers): 176 elementi
+  Cluster 0: 18 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 10 elementi
+  Cluster 6: 8 elementi
+  Cluster 7: 13 elementi
+  Cluster 8: 14 elementi
+  Cluster 9: 10 elementi
+  Cluster 10: 9 elementi
+  Cluster 11: 12 elementi
+  Cluster 12: 9 elementi
+  Cluster 13: 10 elementi
+  Cluster 14: 16 elementi
+  Cluster 15: 8 elementi
+  Cluster 16: 9 elementi
+  Cluster 17: 11 elementi
+  Cluster 18: 8 elementi
+  Cluster 19: 9 elementi
+  Cluster 20: 9 elementi
+  Totale elementi: 416
+
+OPTICS #89: 21 cluster, DBCV score: 0.3406
+
+[OPTICS #94] Parametri: {'min_samples': 10, 'xi': 0.02, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #94:
+  Noise (outliers): 331 elementi
+  Cluster 0: 85 elementi
+  Totale elementi: 416
+
+OPTICS #94: 1 cluster, DBCV score: 0.2043
+
+[OPTICS #101] Parametri: {'min_samples': 7, 'xi': 0.183, 'min_cluster_size': 0.052}
+
+Distribuzione cluster per OPTICS #101:
+  Noise (outliers): 394 elementi
+  Cluster 0: 22 elementi
+  Totale elementi: 416
+
+OPTICS #101: 1 cluster, DBCV score: 0.0529
+
+[OPTICS #109] Parametri: {'min_samples': 22, 'xi': 0.011, 'min_cluster_size': 0.03}
+
+Distribuzione cluster per OPTICS #109:
+  Noise (outliers): 312 elementi
+  Cluster 0: 21 elementi
+  Cluster 1: 20 elementi
+  Cluster 2: 25 elementi
+  Cluster 3: 19 elementi
+  Cluster 4: 19 elementi
+  Totale elementi: 416
+
+OPTICS #109: 5 cluster, DBCV score: 0.1018
+
+[OPTICS #129] Parametri: {'min_samples': 14, 'xi': 0.029, 'min_cluster_size': 0.072}
+
+Distribuzione cluster per OPTICS #129:
+  Noise (outliers): 301 elementi
+  Cluster 0: 84 elementi
+  Cluster 1: 31 elementi
+  Totale elementi: 416
+
+OPTICS #129: 2 cluster, DBCV score: 0.0616
+
+[OPTICS #132] Parametri: {'min_samples': 21, 'xi': 0.009, 'min_cluster_size': 0.136}
+
+Distribuzione cluster per OPTICS #132:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #132: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #140] Parametri: {'min_samples': 5, 'xi': 0.15, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #140:
+  Noise (outliers): 223 elementi
+  Cluster 0: 26 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 17 elementi
+  Cluster 5: 10 elementi
+  Cluster 6: 8 elementi
+  Cluster 7: 13 elementi
+  Cluster 8: 9 elementi
+  Cluster 9: 8 elementi
+  Cluster 10: 12 elementi
+  Cluster 11: 9 elementi
+  Cluster 12: 16 elementi
+  Cluster 13: 8 elementi
+  Cluster 14: 10 elementi
+  Cluster 15: 8 elementi
+  Totale elementi: 416
+
+OPTICS #140: 16 cluster, DBCV score: 0.3395
+
+[OPTICS #164] Parametri: {'min_samples': 9, 'xi': 0.004, 'min_cluster_size': 0.132}
+
+Distribuzione cluster per OPTICS #164:
+  Noise (outliers): 205 elementi
+  Cluster 0: 86 elementi
+  Cluster 1: 58 elementi
+  Cluster 2: 67 elementi
+  Totale elementi: 416
+
+OPTICS #164: 3 cluster, DBCV score: 0.0493
+
+[OPTICS #169] Parametri: {'min_samples': 5, 'xi': 0.002, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #169:
+  Noise (outliers): 164 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 25 elementi
+  Cluster 3: 28 elementi
+  Cluster 4: 22 elementi
+  Cluster 5: 21 elementi
+  Cluster 6: 35 elementi
+  Cluster 7: 28 elementi
+  Cluster 8: 21 elementi
+  Cluster 9: 22 elementi
+  Totale elementi: 416
+
+OPTICS #169: 10 cluster, DBCV score: 0.1434
+
+[OPTICS #173] Parametri: {'min_samples': 12, 'xi': 0.114, 'min_cluster_size': 0.059}
+
+Distribuzione cluster per OPTICS #173:
+  Noise (outliers): 389 elementi
+  Cluster 0: 27 elementi
+  Totale elementi: 416
+
+OPTICS #173: 1 cluster, DBCV score: 0.0649
+
+[OPTICS #176] Parametri: {'min_samples': 5, 'xi': 0.005, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #176:
+  Noise (outliers): 176 elementi
+  Cluster 0: 50 elementi
+  Cluster 1: 50 elementi
+  Cluster 2: 49 elementi
+  Cluster 3: 50 elementi
+  Cluster 4: 41 elementi
+  Totale elementi: 416
+
+OPTICS #176: 5 cluster, DBCV score: 0.0471
+
+[OPTICS #178] Parametri: {'min_samples': 30, 'xi': 0.005, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #178:
+  Noise (outliers): 389 elementi
+  Cluster 0: 27 elementi
+  Totale elementi: 416
+
+OPTICS #178: 1 cluster, DBCV score: 0.0649
+
+[OPTICS #180] Parametri: {'min_samples': 18, 'xi': 0.054, 'min_cluster_size': 0.035}
+
+Distribuzione cluster per OPTICS #180:
+  Noise (outliers): 354 elementi
+  Cluster 0: 21 elementi
+  Cluster 1: 17 elementi
+  Cluster 2: 24 elementi
+  Totale elementi: 416
+
+OPTICS #180: 3 cluster, DBCV score: 0.0900
+
+[OPTICS #184] Parametri: {'min_samples': 6, 'xi': 0.018, 'min_cluster_size': 0.191}
+
+Distribuzione cluster per OPTICS #184:
+  Noise (outliers): 329 elementi
+  Cluster 0: 87 elementi
+  Totale elementi: 416
+
+OPTICS #184: 1 cluster, DBCV score: 0.2091
+
+[OPTICS #189] Parametri: {'min_samples': 20, 'xi': 0.01, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #189:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #189: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #191] Parametri: {'min_samples': 10, 'xi': 0.088, 'min_cluster_size': 0.039}
+
+Distribuzione cluster per OPTICS #191:
+  Noise (outliers): 328 elementi
+  Cluster 0: 23 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 17 elementi
+  Totale elementi: 416
+
+OPTICS #191: 4 cluster, DBCV score: 0.1437
+
+[OPTICS #204] Parametri: {'min_samples': 5, 'xi': 0.01, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #204:
+  Noise (outliers): 164 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 25 elementi
+  Cluster 3: 28 elementi
+  Cluster 4: 22 elementi
+  Cluster 5: 21 elementi
+  Cluster 6: 35 elementi
+  Cluster 7: 28 elementi
+  Cluster 8: 21 elementi
+  Cluster 9: 22 elementi
+  Totale elementi: 416
+
+OPTICS #204: 10 cluster, DBCV score: 0.1434
+
+[OPTICS #205] Parametri: {'min_samples': 13, 'xi': 0.005, 'min_cluster_size': 0.162}
+
+Distribuzione cluster per OPTICS #205:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #205: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #207] Parametri: {'min_samples': 20, 'xi': 0.01, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #207:
+  Noise (outliers): 274 elementi
+  Cluster 0: 21 elementi
+  Cluster 1: 23 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 37 elementi
+  Cluster 4: 37 elementi
+  Totale elementi: 416
+
+OPTICS #207: 5 cluster, DBCV score: 0.0721
+
+[OPTICS #211] Parametri: {'min_samples': 30, 'xi': 0.005, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #211:
+  Noise (outliers): 357 elementi
+  Cluster 0: 59 elementi
+  Totale elementi: 416
+
+OPTICS #211: 1 cluster, DBCV score: 0.1418
+
+[OPTICS #220] Parametri: {'min_samples': 33, 'xi': 0.009, 'min_cluster_size': 0.032}
+
+Distribuzione cluster per OPTICS #220:
+  Noise (outliers): 384 elementi
+  Cluster 0: 32 elementi
+  Totale elementi: 416
+
+OPTICS #220: 1 cluster, DBCV score: 0.0769
+
+[OPTICS #222] Parametri: {'min_samples': 20, 'xi': 0.02, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #222:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #222: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #223] Parametri: {'min_samples': 10, 'xi': 0.002, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #223:
+  Noise (outliers): 156 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 27 elementi
+  Cluster 4: 40 elementi
+  Cluster 5: 52 elementi
+  Cluster 6: 23 elementi
+  Cluster 7: 21 elementi
+  Cluster 8: 25 elementi
+  Totale elementi: 416
+
+OPTICS #223: 9 cluster, DBCV score: 0.1271
+
+[OPTICS #229] Parametri: {'min_samples': 20, 'xi': 0.005, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #229:
+  Noise (outliers): 214 elementi
+  Cluster 0: 26 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 30 elementi
+  Cluster 3: 37 elementi
+  Cluster 4: 41 elementi
+  Cluster 5: 37 elementi
+  Totale elementi: 416
+
+OPTICS #229: 6 cluster, DBCV score: 0.0126
+
+[OPTICS #230] Parametri: {'min_samples': 5, 'xi': 0.1, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #230:
+  Noise (outliers): 342 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 24 elementi
+  Totale elementi: 416
+
+OPTICS #230: 3 cluster, DBCV score: 0.1110
+
+[OPTICS #233] Parametri: {'min_samples': 20, 'xi': 0.02, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #233:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #233: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #236] Parametri: {'min_samples': 5, 'xi': 0.054, 'min_cluster_size': 0.042}
+
+Distribuzione cluster per OPTICS #236:
+  Noise (outliers): 334 elementi
+  Cluster 0: 18 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 18 elementi
+  Totale elementi: 416
+
+OPTICS #236: 4 cluster, DBCV score: 0.1610
+
+[OPTICS #237] Parametri: {'min_samples': 50, 'xi': 0.01, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #237:
+  Noise (outliers): 85 elementi
+  Cluster 0: 331 elementi
+  Totale elementi: 416
+
+OPTICS #237: 1 cluster, DBCV score: 0.7957
+
+[OPTICS #247] Parametri: {'min_samples': 50, 'xi': 0.005, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #247:
+  Noise (outliers): 266 elementi
+  Cluster 0: 150 elementi
+  Totale elementi: 416
+
+OPTICS #247: 1 cluster, DBCV score: 0.3606
+
+[OPTICS #251] Parametri: {'min_samples': 12, 'xi': 0.007, 'min_cluster_size': 0.053}
+
+Distribuzione cluster per OPTICS #251:
+  Noise (outliers): 146 elementi
+  Cluster 0: 35 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 26 elementi
+  Cluster 4: 50 elementi
+  Cluster 5: 45 elementi
+  Cluster 6: 63 elementi
+  Totale elementi: 416
+
+OPTICS #251: 7 cluster, DBCV score: 0.0713
+
+[OPTICS #252] Parametri: {'min_samples': 30, 'xi': 0.012, 'min_cluster_size': 0.121}
+
+Distribuzione cluster per OPTICS #252:
+  Noise (outliers): 357 elementi
+  Cluster 0: 59 elementi
+  Totale elementi: 416
+
+OPTICS #252: 1 cluster, DBCV score: 0.1418
+
+[OPTICS #253] Parametri: {'min_samples': 10, 'xi': 0.15, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #253:
+  Noise (outliers): 393 elementi
+  Cluster 0: 23 elementi
+  Totale elementi: 416
+
+OPTICS #253: 1 cluster, DBCV score: 0.0553
+
+[OPTICS #254] Parametri: {'min_samples': 5, 'xi': 0.1, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #254:
+  Noise (outliers): 221 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 17 elementi
+  Cluster 5: 10 elementi
+  Cluster 6: 8 elementi
+  Cluster 7: 13 elementi
+  Cluster 8: 9 elementi
+  Cluster 9: 8 elementi
+  Cluster 10: 12 elementi
+  Cluster 11: 9 elementi
+  Cluster 12: 16 elementi
+  Cluster 13: 8 elementi
+  Cluster 14: 10 elementi
+  Cluster 15: 8 elementi
+  Totale elementi: 416
+
+OPTICS #254: 16 cluster, DBCV score: 0.3141
+
+[OPTICS #255] Parametri: {'min_samples': 5, 'xi': 0.005, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #255:
+  Noise (outliers): 167 elementi
+  Cluster 0: 18 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 10 elementi
+  Cluster 6: 8 elementi
+  Cluster 7: 13 elementi
+  Cluster 8: 14 elementi
+  Cluster 9: 10 elementi
+  Cluster 10: 9 elementi
+  Cluster 11: 12 elementi
+  Cluster 12: 9 elementi
+  Cluster 13: 10 elementi
+  Cluster 14: 16 elementi
+  Cluster 15: 8 elementi
+  Cluster 16: 9 elementi
+  Cluster 17: 9 elementi
+  Cluster 18: 11 elementi
+  Cluster 19: 8 elementi
+  Cluster 20: 9 elementi
+  Cluster 21: 9 elementi
+  Totale elementi: 416
+
+OPTICS #255: 22 cluster, DBCV score: 0.3409
+
+[OPTICS #257] Parametri: {'min_samples': 18, 'xi': 0.062, 'min_cluster_size': 0.058}
+
+Distribuzione cluster per OPTICS #257:
+  Noise (outliers): 392 elementi
+  Cluster 0: 24 elementi
+  Totale elementi: 416
+
+OPTICS #257: 1 cluster, DBCV score: 0.0577
+
+[OPTICS #264] Parametri: {'min_samples': 10, 'xi': 0.05, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #264:
+  Noise (outliers): 251 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 11 elementi
+  Cluster 2: 27 elementi
+  Cluster 3: 21 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 13 elementi
+  Cluster 6: 12 elementi
+  Cluster 7: 11 elementi
+  Cluster 8: 15 elementi
+  Cluster 9: 13 elementi
+  Totale elementi: 416
+
+OPTICS #264: 10 cluster, DBCV score: 0.2462
+
+[OPTICS #267] Parametri: {'min_samples': 5, 'xi': 0.02, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #267:
+  Noise (outliers): 262 elementi
+  Cluster 0: 87 elementi
+  Cluster 1: 67 elementi
+  Totale elementi: 416
+
+OPTICS #267: 2 cluster, DBCV score: 0.0637
+
+[OPTICS #275] Parametri: {'min_samples': 23, 'xi': 0.025, 'min_cluster_size': 0.024}
+
+Distribuzione cluster per OPTICS #275:
+  Noise (outliers): 397 elementi
+  Cluster 0: 19 elementi
+  Totale elementi: 416
+
+OPTICS #275: 1 cluster, DBCV score: 0.0457
+
+[OPTICS #276] Parametri: {'min_samples': 26, 'xi': 0.008, 'min_cluster_size': 0.173}
+
+Distribuzione cluster per OPTICS #276:
+  Noise (outliers): 335 elementi
+  Cluster 0: 81 elementi
+  Totale elementi: 416
+
+OPTICS #276: 1 cluster, DBCV score: 0.1947
+
+[OPTICS #280] Parametri: {'min_samples': 13, 'xi': 0.032, 'min_cluster_size': 0.089}
+
+Distribuzione cluster per OPTICS #280:
+  Noise (outliers): 282 elementi
+  Cluster 0: 84 elementi
+  Cluster 1: 50 elementi
+  Totale elementi: 416
+
+OPTICS #280: 2 cluster, DBCV score: 0.0299
+
+[OPTICS #283] Parametri: {'min_samples': 10, 'xi': 0.002, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #283:
+  Noise (outliers): 148 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 27 elementi
+  Cluster 3: 21 elementi
+  Cluster 4: 27 elementi
+  Cluster 5: 17 elementi
+  Cluster 6: 40 elementi
+  Cluster 7: 17 elementi
+  Cluster 8: 14 elementi
+  Cluster 9: 23 elementi
+  Cluster 10: 21 elementi
+  Cluster 11: 16 elementi
+  Cluster 12: 9 elementi
+  Totale elementi: 416
+
+OPTICS #283: 13 cluster, DBCV score: 0.1714
+
+[OPTICS #286] Parametri: {'min_samples': 30, 'xi': 0.002, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #286:
+  Noise (outliers): 357 elementi
+  Cluster 0: 59 elementi
+  Totale elementi: 416
+
+OPTICS #286: 1 cluster, DBCV score: 0.1418
+
+[OPTICS #288] Parametri: {'min_samples': 20, 'xi': 0.041, 'min_cluster_size': 0.024}
+
+Distribuzione cluster per OPTICS #288:
+  Noise (outliers): 395 elementi
+  Cluster 0: 21 elementi
+  Totale elementi: 416
+
+OPTICS #288: 1 cluster, DBCV score: 0.0505
+
+[OPTICS #306] Parametri: {'min_samples': 20, 'xi': 0.05, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #306:
+  Noise (outliers): 395 elementi
+  Cluster 0: 21 elementi
+  Totale elementi: 416
+
+OPTICS #306: 1 cluster, DBCV score: 0.0505
+
+[OPTICS #308] Parametri: {'min_samples': 12, 'xi': 0.004, 'min_cluster_size': 0.154}
+
+Distribuzione cluster per OPTICS #308:
+  Noise (outliers): 331 elementi
+  Cluster 0: 85 elementi
+  Totale elementi: 416
+
+OPTICS #308: 1 cluster, DBCV score: 0.2043
+
+[OPTICS #310] Parametri: {'min_samples': 6, 'xi': 0.025, 'min_cluster_size': 0.195}
+
+Distribuzione cluster per OPTICS #310:
+  Noise (outliers): 329 elementi
+  Cluster 0: 87 elementi
+  Totale elementi: 416
+
+OPTICS #310: 1 cluster, DBCV score: 0.2091
+
+[OPTICS #342] Parametri: {'min_samples': 20, 'xi': 0.02, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #342:
+  Noise (outliers): 372 elementi
+  Cluster 0: 21 elementi
+  Cluster 1: 23 elementi
+  Totale elementi: 416
+
+OPTICS #342: 2 cluster, DBCV score: 0.0784
+
+[OPTICS #344] Parametri: {'min_samples': 14, 'xi': 0.053, 'min_cluster_size': 0.051}
+
+Distribuzione cluster per OPTICS #344:
+  Noise (outliers): 344 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Totale elementi: 416
+
+OPTICS #344: 3 cluster, DBCV score: 0.1089
+
+[OPTICS #345] Parametri: {'min_samples': 20, 'xi': 0.035, 'min_cluster_size': 0.107}
+
+Distribuzione cluster per OPTICS #345:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #345: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #353] Parametri: {'min_samples': 20, 'xi': 0.02, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #353:
+  Noise (outliers): 372 elementi
+  Cluster 0: 21 elementi
+  Cluster 1: 23 elementi
+  Totale elementi: 416
+
+OPTICS #353: 2 cluster, DBCV score: 0.0784
+
+[OPTICS #367] Parametri: {'min_samples': 10, 'xi': 0.01, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #367:
+  Noise (outliers): 160 elementi
+  Cluster 0: 49 elementi
+  Cluster 1: 50 elementi
+  Cluster 2: 52 elementi
+  Cluster 3: 46 elementi
+  Cluster 4: 59 elementi
+  Totale elementi: 416
+
+OPTICS #367: 5 cluster, DBCV score: 0.0534
+
+[OPTICS #370] Parametri: {'min_samples': 41, 'xi': 0.004, 'min_cluster_size': 0.138}
+
+Distribuzione cluster per OPTICS #370:
+  Noise (outliers): 210 elementi
+  Cluster 0: 206 elementi
+  Totale elementi: 416
+
+OPTICS #370: 1 cluster, DBCV score: 0.4952
+
+[OPTICS #371] Parametri: {'min_samples': 5, 'xi': 0.01, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #371:
+  Noise (outliers): 194 elementi
+  Cluster 0: 87 elementi
+  Cluster 1: 67 elementi
+  Cluster 2: 68 elementi
+  Totale elementi: 416
+
+OPTICS #371: 3 cluster, DBCV score: 0.0722
+
+[OPTICS #374] Parametri: {'min_samples': 8, 'xi': 0.192, 'min_cluster_size': 0.034}
+
+Distribuzione cluster per OPTICS #374:
+  Noise (outliers): 377 elementi
+  Cluster 0: 22 elementi
+  Cluster 1: 17 elementi
+  Totale elementi: 416
+
+OPTICS #374: 2 cluster, DBCV score: 0.0904
+
+[OPTICS #376] Parametri: {'min_samples': 7, 'xi': 0.003, 'min_cluster_size': 0.159}
+
+Distribuzione cluster per OPTICS #376:
+  Noise (outliers): 188 elementi
+  Cluster 0: 86 elementi
+  Cluster 1: 68 elementi
+  Cluster 2: 74 elementi
+  Totale elementi: 416
+
+OPTICS #376: 3 cluster, DBCV score: 0.0480
+
+[OPTICS #378] Parametri: {'min_samples': 17, 'xi': 0.032, 'min_cluster_size': 0.157}
+
+Distribuzione cluster per OPTICS #378:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #378: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #379] Parametri: {'min_samples': 24, 'xi': 0.005, 'min_cluster_size': 0.116}
+
+Distribuzione cluster per OPTICS #379:
+  Noise (outliers): 334 elementi
+  Cluster 0: 82 elementi
+  Totale elementi: 416
+
+OPTICS #379: 1 cluster, DBCV score: 0.1971
+
+[OPTICS #380] Parametri: {'min_samples': 10, 'xi': 0.005, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #380:
+  Noise (outliers): 331 elementi
+  Cluster 0: 85 elementi
+  Totale elementi: 416
+
+OPTICS #380: 1 cluster, DBCV score: 0.2043
+
+[OPTICS #387] Parametri: {'min_samples': 5, 'xi': 0.002, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #387:
+  Noise (outliers): 176 elementi
+  Cluster 0: 50 elementi
+  Cluster 1: 50 elementi
+  Cluster 2: 49 elementi
+  Cluster 3: 50 elementi
+  Cluster 4: 41 elementi
+  Totale elementi: 416
+
+OPTICS #387: 5 cluster, DBCV score: 0.0471
+
+[OPTICS #389] Parametri: {'min_samples': 10, 'xi': 0.02, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #389:
+  Noise (outliers): 331 elementi
+  Cluster 0: 85 elementi
+  Totale elementi: 416
+
+OPTICS #389: 1 cluster, DBCV score: 0.2043
+
+[OPTICS #395] Parametri: {'min_samples': 43, 'xi': 0.003, 'min_cluster_size': 0.175}
+
+Distribuzione cluster per OPTICS #395:
+  Noise (outliers): 214 elementi
+  Cluster 0: 202 elementi
+  Totale elementi: 416
+
+OPTICS #395: 1 cluster, DBCV score: 0.4856
+
+[OPTICS #398] Parametri: {'min_samples': 20, 'xi': 0.005, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #398:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #398: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #400] Parametri: {'min_samples': 15, 'xi': 0.017, 'min_cluster_size': 0.19}
+
+Distribuzione cluster per OPTICS #400:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #400: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #404] Parametri: {'min_samples': 50, 'xi': 0.01, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #404:
+  Noise (outliers): 85 elementi
+  Cluster 0: 331 elementi
+  Totale elementi: 416
+
+OPTICS #404: 1 cluster, DBCV score: 0.7957
+
+[OPTICS #407] Parametri: {'min_samples': 10, 'xi': 0.005, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #407:
+  Noise (outliers): 265 elementi
+  Cluster 0: 85 elementi
+  Cluster 1: 66 elementi
+  Totale elementi: 416
+
+OPTICS #407: 2 cluster, DBCV score: 0.0512
+
+[OPTICS #417] Parametri: {'min_samples': 30, 'xi': 0.01, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #417:
+  Noise (outliers): 357 elementi
+  Cluster 0: 59 elementi
+  Totale elementi: 416
+
+OPTICS #417: 1 cluster, DBCV score: 0.1418
+
+[OPTICS #420] Parametri: {'min_samples': 15, 'xi': 0.037, 'min_cluster_size': 0.13}
+
+Distribuzione cluster per OPTICS #420:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #420: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #434] Parametri: {'min_samples': 30, 'xi': 0.01, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #434:
+  Noise (outliers): 269 elementi
+  Cluster 0: 147 elementi
+  Totale elementi: 416
+
+OPTICS #434: 1 cluster, DBCV score: 0.3534
+
+[OPTICS #435] Parametri: {'min_samples': 32, 'xi': 0.002, 'min_cluster_size': 0.084}
+
+Distribuzione cluster per OPTICS #435:
+  Noise (outliers): 189 elementi
+  Cluster 0: 227 elementi
+  Totale elementi: 416
+
+OPTICS #435: 1 cluster, DBCV score: 0.5457
+
+[OPTICS #436] Parametri: {'min_samples': 10, 'xi': 0.02, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #436:
+  Noise (outliers): 228 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 27 elementi
+  Cluster 3: 21 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 17 elementi
+  Cluster 6: 12 elementi
+  Cluster 7: 12 elementi
+  Cluster 8: 15 elementi
+  Cluster 9: 21 elementi
+  Cluster 10: 9 elementi
+  Totale elementi: 416
+
+OPTICS #436: 11 cluster, DBCV score: 0.2518
+
+[OPTICS #439] Parametri: {'min_samples': 20, 'xi': 0.022, 'min_cluster_size': 0.159}
+
+Distribuzione cluster per OPTICS #439:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #439: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #443] Parametri: {'min_samples': 15, 'xi': 0.038, 'min_cluster_size': 0.145}
+
+Distribuzione cluster per OPTICS #443:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #443: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #445] Parametri: {'min_samples': 20, 'xi': 0.002, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #445:
+  Noise (outliers): 214 elementi
+  Cluster 0: 26 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 30 elementi
+  Cluster 3: 37 elementi
+  Cluster 4: 41 elementi
+  Cluster 5: 37 elementi
+  Totale elementi: 416
+
+OPTICS #445: 6 cluster, DBCV score: 0.0126
+
+[OPTICS #447] Parametri: {'min_samples': 22, 'xi': 0.004, 'min_cluster_size': 0.176}
+
+Distribuzione cluster per OPTICS #447:
+  Noise (outliers): 333 elementi
+  Cluster 0: 83 elementi
+  Totale elementi: 416
+
+OPTICS #447: 1 cluster, DBCV score: 0.1995
+
+[OPTICS #453] Parametri: {'min_samples': 6, 'xi': 0.03, 'min_cluster_size': 0.129}
+
+Distribuzione cluster per OPTICS #453:
+  Noise (outliers): 270 elementi
+  Cluster 0: 87 elementi
+  Cluster 1: 59 elementi
+  Totale elementi: 416
+
+OPTICS #453: 2 cluster, DBCV score: 0.0945
+
+[OPTICS #460] Parametri: {'min_samples': 10, 'xi': 0.002, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #460:
+  Noise (outliers): 331 elementi
+  Cluster 0: 85 elementi
+  Totale elementi: 416
+
+OPTICS #460: 1 cluster, DBCV score: 0.2043
+
+[OPTICS #463] Parametri: {'min_samples': 16, 'xi': 0.012, 'min_cluster_size': 0.088}
+
+Distribuzione cluster per OPTICS #463:
+  Noise (outliers): 280 elementi
+  Cluster 0: 49 elementi
+  Cluster 1: 38 elementi
+  Cluster 2: 49 elementi
+  Totale elementi: 416
+
+OPTICS #463: 3 cluster, DBCV score: 0.0487
+
+[OPTICS #466] Parametri: {'min_samples': 20, 'xi': 0.002, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #466:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #466: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #468] Parametri: {'min_samples': 30, 'xi': 0.002, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #468:
+  Noise (outliers): 389 elementi
+  Cluster 0: 27 elementi
+  Totale elementi: 416
+
+OPTICS #468: 1 cluster, DBCV score: 0.0649
+
+[OPTICS #469] Parametri: {'min_samples': 5, 'xi': 0.005, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #469:
+  Noise (outliers): 188 elementi
+  Cluster 0: 87 elementi
+  Cluster 1: 68 elementi
+  Cluster 2: 73 elementi
+  Totale elementi: 416
+
+OPTICS #469: 3 cluster, DBCV score: 0.0491
+
+[OPTICS #472] Parametri: {'min_samples': 20, 'xi': 0.05, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #472:
+  Noise (outliers): 395 elementi
+  Cluster 0: 21 elementi
+  Totale elementi: 416
+
+OPTICS #472: 1 cluster, DBCV score: 0.0505
+
+[OPTICS #475] Parametri: {'min_samples': 5, 'xi': 0.024, 'min_cluster_size': 0.19}
+
+Distribuzione cluster per OPTICS #475:
+  Noise (outliers): 329 elementi
+  Cluster 0: 87 elementi
+  Totale elementi: 416
+
+OPTICS #475: 1 cluster, DBCV score: 0.2091
+
+[OPTICS #479] Parametri: {'min_samples': 23, 'xi': 0.01, 'min_cluster_size': 0.192}
+
+Distribuzione cluster per OPTICS #479:
+  Noise (outliers): 333 elementi
+  Cluster 0: 83 elementi
+  Totale elementi: 416
+
+OPTICS #479: 1 cluster, DBCV score: 0.1995
+
+[OPTICS #480] Parametri: {'min_samples': 14, 'xi': 0.142, 'min_cluster_size': 0.032}
+
+Distribuzione cluster per OPTICS #480:
+  Noise (outliers): 377 elementi
+  Cluster 0: 23 elementi
+  Cluster 1: 16 elementi
+  Totale elementi: 416
+
+OPTICS #480: 2 cluster, DBCV score: 0.0841
+
+[OPTICS #481] Parametri: {'min_samples': 10, 'xi': 0.002, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #481:
+  Noise (outliers): 265 elementi
+  Cluster 0: 85 elementi
+  Cluster 1: 66 elementi
+  Totale elementi: 416
+
+OPTICS #481: 2 cluster, DBCV score: 0.0512
+
+[OPTICS #491] Parametri: {'min_samples': 30, 'xi': 0.002, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #491:
+  Noise (outliers): 181 elementi
+  Cluster 0: 235 elementi
+  Totale elementi: 416
+
+OPTICS #491: 1 cluster, DBCV score: 0.5649
+
+[OPTICS #492] Parametri: {'min_samples': 30, 'xi': 0.01, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #492:
+  Noise (outliers): 357 elementi
+  Cluster 0: 59 elementi
+  Totale elementi: 416
+
+OPTICS #492: 1 cluster, DBCV score: 0.1418
+
+[OPTICS #493] Parametri: {'min_samples': 5, 'xi': 0.05, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #493:
+  Noise (outliers): 252 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 31 elementi
+  Cluster 4: 59 elementi
+  Totale elementi: 416
+
+OPTICS #493: 5 cluster, DBCV score: 0.1490
+
+[OPTICS #502] Parametri: {'min_samples': 17, 'xi': 0.031, 'min_cluster_size': 0.028}
+
+Distribuzione cluster per OPTICS #502:
+  Noise (outliers): 331 elementi
+  Cluster 0: 21 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 16 elementi
+  Totale elementi: 416
+
+OPTICS #502: 4 cluster, DBCV score: 0.1327
+
+[OPTICS #503] Parametri: {'min_samples': 19, 'xi': 0.068, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #503:
+  Noise (outliers): 395 elementi
+  Cluster 0: 21 elementi
+  Totale elementi: 416
+
+OPTICS #503: 1 cluster, DBCV score: 0.0505
+
+[OPTICS #507] Parametri: {'min_samples': 20, 'xi': 0.02, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #507:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #507: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #509] Parametri: {'min_samples': 5, 'xi': 0.002, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #509:
+  Noise (outliers): 329 elementi
+  Cluster 0: 87 elementi
+  Totale elementi: 416
+
+OPTICS #509: 1 cluster, DBCV score: 0.2091
+
+[OPTICS #515] Parametri: {'min_samples': 17, 'xi': 0.028, 'min_cluster_size': 0.117}
+
+Distribuzione cluster per OPTICS #515:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #515: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #516] Parametri: {'min_samples': 20, 'xi': 0.1, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #516:
+  Noise (outliers): 396 elementi
+  Cluster 0: 20 elementi
+  Totale elementi: 416
+
+OPTICS #516: 1 cluster, DBCV score: 0.0481
+
+[OPTICS #526] Parametri: {'min_samples': 16, 'xi': 0.028, 'min_cluster_size': 0.116}
+
+Distribuzione cluster per OPTICS #526:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #526: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #527] Parametri: {'min_samples': 18, 'xi': 0.102, 'min_cluster_size': 0.044}
+
+Distribuzione cluster per OPTICS #527:
+  Noise (outliers): 396 elementi
+  Cluster 0: 20 elementi
+  Totale elementi: 416
+
+OPTICS #527: 1 cluster, DBCV score: 0.0481
+
+[OPTICS #534] Parametri: {'min_samples': 30, 'xi': 0.002, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #534:
+  Noise (outliers): 181 elementi
+  Cluster 0: 235 elementi
+  Totale elementi: 416
+
+OPTICS #534: 1 cluster, DBCV score: 0.5649
+
+[OPTICS #540] Parametri: {'min_samples': 21, 'xi': 0.012, 'min_cluster_size': 0.107}
+
+Distribuzione cluster per OPTICS #540:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #540: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #541] Parametri: {'min_samples': 5, 'xi': 0.02, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #541:
+  Noise (outliers): 157 elementi
+  Cluster 0: 50 elementi
+  Cluster 1: 50 elementi
+  Cluster 2: 48 elementi
+  Cluster 3: 50 elementi
+  Cluster 4: 61 elementi
+  Totale elementi: 416
+
+OPTICS #541: 5 cluster, DBCV score: 0.0923
+
+[OPTICS #542] Parametri: {'min_samples': 5, 'xi': 0.01, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #542:
+  Noise (outliers): 156 elementi
+  Cluster 0: 50 elementi
+  Cluster 1: 50 elementi
+  Cluster 2: 49 elementi
+  Cluster 3: 50 elementi
+  Cluster 4: 61 elementi
+  Totale elementi: 416
+
+OPTICS #542: 5 cluster, DBCV score: 0.0558
+
+[OPTICS #553] Parametri: {'min_samples': 5, 'xi': 0.005, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #553:
+  Noise (outliers): 329 elementi
+  Cluster 0: 87 elementi
+  Totale elementi: 416
+
+OPTICS #553: 1 cluster, DBCV score: 0.2091
+
+[OPTICS #554] Parametri: {'min_samples': 50, 'xi': 0.01, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #554:
+  Noise (outliers): 85 elementi
+  Cluster 0: 331 elementi
+  Totale elementi: 416
+
+OPTICS #554: 1 cluster, DBCV score: 0.7957
+
+[OPTICS #559] Parametri: {'min_samples': 5, 'xi': 0.005, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #559:
+  Noise (outliers): 164 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 25 elementi
+  Cluster 3: 28 elementi
+  Cluster 4: 22 elementi
+  Cluster 5: 21 elementi
+  Cluster 6: 35 elementi
+  Cluster 7: 28 elementi
+  Cluster 8: 21 elementi
+  Cluster 9: 22 elementi
+  Totale elementi: 416
+
+OPTICS #559: 10 cluster, DBCV score: 0.1434
+
+[OPTICS #561] Parametri: {'min_samples': 20, 'xi': 0.005, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #561:
+  Noise (outliers): 214 elementi
+  Cluster 0: 26 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 30 elementi
+  Cluster 3: 37 elementi
+  Cluster 4: 41 elementi
+  Cluster 5: 37 elementi
+  Totale elementi: 416
+
+OPTICS #561: 6 cluster, DBCV score: 0.0126
+
+[OPTICS #564] Parametri: {'min_samples': 10, 'xi': 0.1, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #564:
+  Noise (outliers): 265 elementi
+  Cluster 0: 23 elementi
+  Cluster 1: 11 elementi
+  Cluster 2: 27 elementi
+  Cluster 3: 21 elementi
+  Cluster 4: 17 elementi
+  Cluster 5: 13 elementi
+  Cluster 6: 11 elementi
+  Cluster 7: 15 elementi
+  Cluster 8: 13 elementi
+  Totale elementi: 416
+
+OPTICS #564: 9 cluster, DBCV score: 0.2295
+
+[OPTICS #576] Parametri: {'min_samples': 16, 'xi': 0.016, 'min_cluster_size': 0.032}
+
+Distribuzione cluster per OPTICS #576:
+  Noise (outliers): 245 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 29 elementi
+  Cluster 4: 21 elementi
+  Cluster 5: 49 elementi
+  Totale elementi: 416
+
+OPTICS #576: 6 cluster, DBCV score: 0.1270
+
+[OPTICS #578] Parametri: {'min_samples': 21, 'xi': 0.012, 'min_cluster_size': 0.154}
+
+Distribuzione cluster per OPTICS #578:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #578: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #584] Parametri: {'min_samples': 8, 'xi': 0.047, 'min_cluster_size': 0.026}
+
+Distribuzione cluster per OPTICS #584:
+  Noise (outliers): 228 elementi
+  Cluster 0: 27 elementi
+  Cluster 1: 21 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 16 elementi
+  Cluster 6: 13 elementi
+  Cluster 7: 12 elementi
+  Cluster 8: 15 elementi
+  Cluster 9: 20 elementi
+  Cluster 10: 10 elementi
+  Totale elementi: 416
+
+OPTICS #584: 11 cluster, DBCV score: 0.2486
+
+[OPTICS #585] Parametri: {'min_samples': 11, 'xi': 0.137, 'min_cluster_size': 0.045}
+
+Distribuzione cluster per OPTICS #585:
+  Noise (outliers): 373 elementi
+  Cluster 0: 23 elementi
+  Cluster 1: 20 elementi
+  Totale elementi: 416
+
+OPTICS #585: 2 cluster, DBCV score: 0.0827
+
+[OPTICS #588] Parametri: {'min_samples': 11, 'xi': 0.091, 'min_cluster_size': 0.06}
+
+Distribuzione cluster per OPTICS #588:
+  Noise (outliers): 389 elementi
+  Cluster 0: 27 elementi
+  Totale elementi: 416
+
+OPTICS #588: 1 cluster, DBCV score: 0.0649
+
+[OPTICS #591] Parametri: {'min_samples': 50, 'xi': 0.005, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #591:
+  Noise (outliers): 266 elementi
+  Cluster 0: 150 elementi
+  Totale elementi: 416
+
+OPTICS #591: 1 cluster, DBCV score: 0.3606
+
+[OPTICS #605] Parametri: {'min_samples': 6, 'xi': 0.15, 'min_cluster_size': 0.029}
+
+Distribuzione cluster per OPTICS #605:
+  Noise (outliers): 272 elementi
+  Cluster 0: 25 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 17 elementi
+  Cluster 5: 13 elementi
+  Cluster 6: 12 elementi
+  Cluster 7: 16 elementi
+  Cluster 8: 13 elementi
+  Totale elementi: 416
+
+OPTICS #605: 9 cluster, DBCV score: 0.2487
+
+[OPTICS #609] Parametri: {'min_samples': 22, 'xi': 0.008, 'min_cluster_size': 0.087}
+
+Distribuzione cluster per OPTICS #609:
+  Noise (outliers): 333 elementi
+  Cluster 0: 83 elementi
+  Totale elementi: 416
+
+OPTICS #609: 1 cluster, DBCV score: 0.1995
+
+[OPTICS #617] Parametri: {'min_samples': 12, 'xi': 0.032, 'min_cluster_size': 0.049}
+
+Distribuzione cluster per OPTICS #617:
+  Noise (outliers): 249 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 50 elementi
+  Cluster 4: 45 elementi
+  Totale elementi: 416
+
+OPTICS #617: 5 cluster, DBCV score: 0.1348
+
+[OPTICS #622] Parametri: {'min_samples': 34, 'xi': 0.003, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #622:
+  Noise (outliers): 334 elementi
+  Cluster 0: 82 elementi
+  Totale elementi: 416
+
+OPTICS #622: 1 cluster, DBCV score: 0.1971
+
+[OPTICS #623] Parametri: {'min_samples': 5, 'xi': 0.02, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #623:
+  Noise (outliers): 185 elementi
+  Cluster 0: 18 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 14 elementi
+  Cluster 3: 12 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 10 elementi
+  Cluster 6: 8 elementi
+  Cluster 7: 13 elementi
+  Cluster 8: 14 elementi
+  Cluster 9: 10 elementi
+  Cluster 10: 9 elementi
+  Cluster 11: 12 elementi
+  Cluster 12: 9 elementi
+  Cluster 13: 10 elementi
+  Cluster 14: 16 elementi
+  Cluster 15: 8 elementi
+  Cluster 16: 9 elementi
+  Cluster 17: 11 elementi
+  Cluster 18: 8 elementi
+  Cluster 19: 9 elementi
+  Totale elementi: 416
+
+OPTICS #623: 20 cluster, DBCV score: 0.3392
+
+[OPTICS #624] Parametri: {'min_samples': 7, 'xi': 0.023, 'min_cluster_size': 0.098}
+
+Distribuzione cluster per OPTICS #624:
+  Noise (outliers): 162 elementi
+  Cluster 0: 49 elementi
+  Cluster 1: 50 elementi
+  Cluster 2: 47 elementi
+  Cluster 3: 49 elementi
+  Cluster 4: 59 elementi
+  Totale elementi: 416
+
+OPTICS #624: 5 cluster, DBCV score: 0.0903
+
+[OPTICS #626] Parametri: {'min_samples': 5, 'xi': 0.137, 'min_cluster_size': 0.041}
+
+Distribuzione cluster per OPTICS #626:
+  Noise (outliers): 325 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 17 elementi
+  Totale elementi: 416
+
+OPTICS #626: 4 cluster, DBCV score: 0.1478
+
+[OPTICS #633] Parametri: {'min_samples': 10, 'xi': 0.005, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #633:
+  Noise (outliers): 178 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 27 elementi
+  Cluster 3: 21 elementi
+  Cluster 4: 26 elementi
+  Cluster 5: 17 elementi
+  Cluster 6: 28 elementi
+  Cluster 7: 16 elementi
+  Cluster 8: 14 elementi
+  Cluster 9: 23 elementi
+  Cluster 10: 21 elementi
+  Cluster 11: 9 elementi
+  Totale elementi: 416
+
+OPTICS #633: 12 cluster, DBCV score: 0.1826
+
+[OPTICS #638] Parametri: {'min_samples': 10, 'xi': 0.02, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #638:
+  Noise (outliers): 262 elementi
+  Cluster 0: 49 elementi
+  Cluster 1: 50 elementi
+  Cluster 2: 55 elementi
+  Totale elementi: 416
+
+OPTICS #638: 3 cluster, DBCV score: 0.0561
+
+[OPTICS #644] Parametri: {'min_samples': 20, 'xi': 0.01, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #644:
+  Noise (outliers): 274 elementi
+  Cluster 0: 21 elementi
+  Cluster 1: 23 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 37 elementi
+  Cluster 4: 37 elementi
+  Totale elementi: 416
+
+OPTICS #644: 5 cluster, DBCV score: 0.0721
+
+[OPTICS #656] Parametri: {'min_samples': 36, 'xi': 0.007, 'min_cluster_size': 0.19}
+
+Distribuzione cluster per OPTICS #656:
+  Noise (outliers): 283 elementi
+  Cluster 0: 133 elementi
+  Totale elementi: 416
+
+OPTICS #656: 1 cluster, DBCV score: 0.3197
+
+[OPTICS #657] Parametri: {'min_samples': 20, 'xi': 0.03, 'min_cluster_size': 0.029}
+
+Distribuzione cluster per OPTICS #657:
+  Noise (outliers): 372 elementi
+  Cluster 0: 21 elementi
+  Cluster 1: 23 elementi
+  Totale elementi: 416
+
+OPTICS #657: 2 cluster, DBCV score: 0.0784
+
+[OPTICS #658] Parametri: {'min_samples': 50, 'xi': 0.005, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #658:
+  Noise (outliers): 266 elementi
+  Cluster 0: 150 elementi
+  Totale elementi: 416
+
+OPTICS #658: 1 cluster, DBCV score: 0.3606
+
+[OPTICS #667] Parametri: {'min_samples': 50, 'xi': 0.01, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #667:
+  Noise (outliers): 85 elementi
+  Cluster 0: 331 elementi
+  Totale elementi: 416
+
+OPTICS #667: 1 cluster, DBCV score: 0.7957
+
+[OPTICS #670] Parametri: {'min_samples': 10, 'xi': 0.006, 'min_cluster_size': 0.059}
+
+Distribuzione cluster per OPTICS #670:
+  Noise (outliers): 188 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 26 elementi
+  Cluster 3: 28 elementi
+  Cluster 4: 52 elementi
+  Cluster 5: 46 elementi
+  Cluster 6: 25 elementi
+  Totale elementi: 416
+
+OPTICS #670: 7 cluster, DBCV score: 0.0948
+
+[OPTICS #675] Parametri: {'min_samples': 10, 'xi': 0.01, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #675:
+  Noise (outliers): 331 elementi
+  Cluster 0: 85 elementi
+  Totale elementi: 416
+
+OPTICS #675: 1 cluster, DBCV score: 0.2043
+
+[OPTICS #677] Parametri: {'min_samples': 6, 'xi': 0.014, 'min_cluster_size': 0.106}
+
+Distribuzione cluster per OPTICS #677:
+  Noise (outliers): 151 elementi
+  Cluster 0: 50 elementi
+  Cluster 1: 50 elementi
+  Cluster 2: 54 elementi
+  Cluster 3: 50 elementi
+  Cluster 4: 61 elementi
+  Totale elementi: 416
+
+OPTICS #677: 5 cluster, DBCV score: 0.0627
+
+[OPTICS #678] Parametri: {'min_samples': 14, 'xi': 0.016, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #678:
+  Noise (outliers): 219 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 50 elementi
+  Cluster 4: 31 elementi
+  Cluster 5: 44 elementi
+  Totale elementi: 416
+
+OPTICS #678: 6 cluster, DBCV score: 0.1511
+
+[OPTICS #681] Parametri: {'min_samples': 10, 'xi': 0.177, 'min_cluster_size': 0.048}
+
+Distribuzione cluster per OPTICS #681:
+  Noise (outliers): 394 elementi
+  Cluster 0: 22 elementi
+  Totale elementi: 416
+
+OPTICS #681: 1 cluster, DBCV score: 0.0529
+
+[OPTICS #690] Parametri: {'min_samples': 50, 'xi': 0.005, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #690:
+  Noise (outliers): 266 elementi
+  Cluster 0: 150 elementi
+  Totale elementi: 416
+
+OPTICS #690: 1 cluster, DBCV score: 0.3606
+
+[OPTICS #709] Parametri: {'min_samples': 10, 'xi': 0.01, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #709:
+  Noise (outliers): 202 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 12 elementi
+  Cluster 2: 27 elementi
+  Cluster 3: 21 elementi
+  Cluster 4: 18 elementi
+  Cluster 5: 17 elementi
+  Cluster 6: 12 elementi
+  Cluster 7: 16 elementi
+  Cluster 8: 14 elementi
+  Cluster 9: 23 elementi
+  Cluster 10: 21 elementi
+  Cluster 11: 9 elementi
+  Totale elementi: 416
+
+OPTICS #709: 12 cluster, DBCV score: 0.2239
+
+[OPTICS #710] Parametri: {'min_samples': 11, 'xi': 0.012, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #710:
+  Noise (outliers): 331 elementi
+  Cluster 0: 85 elementi
+  Totale elementi: 416
+
+OPTICS #710: 1 cluster, DBCV score: 0.2043
+
+[OPTICS #711] Parametri: {'min_samples': 10, 'xi': 0.01, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #711:
+  Noise (outliers): 331 elementi
+  Cluster 0: 85 elementi
+  Totale elementi: 416
+
+OPTICS #711: 1 cluster, DBCV score: 0.2043
+
+[OPTICS #720] Parametri: {'min_samples': 11, 'xi': 0.051, 'min_cluster_size': 0.054}
+
+Distribuzione cluster per OPTICS #720:
+  Noise (outliers): 365 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Totale elementi: 416
+
+OPTICS #720: 2 cluster, DBCV score: 0.0707
+
+[OPTICS #721] Parametri: {'min_samples': 5, 'xi': 0.02, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #721:
+  Noise (outliers): 165 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 25 elementi
+  Cluster 3: 28 elementi
+  Cluster 4: 22 elementi
+  Cluster 5: 21 elementi
+  Cluster 6: 35 elementi
+  Cluster 7: 27 elementi
+  Cluster 8: 21 elementi
+  Cluster 9: 22 elementi
+  Totale elementi: 416
+
+OPTICS #721: 10 cluster, DBCV score: 0.1433
+
+[OPTICS #722] Parametri: {'min_samples': 10, 'xi': 0.131, 'min_cluster_size': 0.062}
+
+Distribuzione cluster per OPTICS #722:
+  Noise (outliers): 389 elementi
+  Cluster 0: 27 elementi
+  Totale elementi: 416
+
+OPTICS #722: 1 cluster, DBCV score: 0.0649
+
+[OPTICS #723] Parametri: {'min_samples': 20, 'xi': 0.036, 'min_cluster_size': 0.034}
+
+Distribuzione cluster per OPTICS #723:
+  Noise (outliers): 395 elementi
+  Cluster 0: 21 elementi
+  Totale elementi: 416
+
+OPTICS #723: 1 cluster, DBCV score: 0.0505
+
+[OPTICS #726] Parametri: {'min_samples': 30, 'xi': 0.01, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #726:
+  Noise (outliers): 357 elementi
+  Cluster 0: 59 elementi
+  Totale elementi: 416
+
+OPTICS #726: 1 cluster, DBCV score: 0.1418
+
+[OPTICS #733] Parametri: {'min_samples': 19, 'xi': 0.119, 'min_cluster_size': 0.021}
+
+Distribuzione cluster per OPTICS #733:
+  Noise (outliers): 396 elementi
+  Cluster 0: 20 elementi
+  Totale elementi: 416
+
+OPTICS #733: 1 cluster, DBCV score: 0.0481
+
+[OPTICS #737] Parametri: {'min_samples': 19, 'xi': 0.067, 'min_cluster_size': 0.047}
+
+Distribuzione cluster per OPTICS #737:
+  Noise (outliers): 395 elementi
+  Cluster 0: 21 elementi
+  Totale elementi: 416
+
+OPTICS #737: 1 cluster, DBCV score: 0.0505
+
+[OPTICS #757] Parametri: {'min_samples': 20, 'xi': 0.01, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #757:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #757: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #772] Parametri: {'min_samples': 7, 'xi': 0.027, 'min_cluster_size': 0.194}
+
+Distribuzione cluster per OPTICS #772:
+  Noise (outliers): 330 elementi
+  Cluster 0: 86 elementi
+  Totale elementi: 416
+
+OPTICS #772: 1 cluster, DBCV score: 0.2067
+
+[OPTICS #773] Parametri: {'min_samples': 20, 'xi': 0.002, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #773:
+  Noise (outliers): 214 elementi
+  Cluster 0: 26 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 30 elementi
+  Cluster 3: 37 elementi
+  Cluster 4: 41 elementi
+  Cluster 5: 37 elementi
+  Totale elementi: 416
+
+OPTICS #773: 6 cluster, DBCV score: 0.0126
+
+[OPTICS #774] Parametri: {'min_samples': 10, 'xi': 0.1, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #774:
+  Noise (outliers): 345 elementi
+  Cluster 0: 23 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Totale elementi: 416
+
+OPTICS #774: 3 cluster, DBCV score: 0.1069
+
+[OPTICS #776] Parametri: {'min_samples': 10, 'xi': 0.15, 'min_cluster_size': 0.02}
+
+Distribuzione cluster per OPTICS #776:
+  Noise (outliers): 338 elementi
+  Cluster 0: 23 elementi
+  Cluster 1: 16 elementi
+  Cluster 2: 17 elementi
+  Cluster 3: 9 elementi
+  Cluster 4: 13 elementi
+  Totale elementi: 416
+
+OPTICS #776: 5 cluster, DBCV score: 0.1573
+
+[OPTICS #778] Parametri: {'min_samples': 8, 'xi': 0.043, 'min_cluster_size': 0.096}
+
+Distribuzione cluster per OPTICS #778:
+  Noise (outliers): 366 elementi
+  Cluster 0: 50 elementi
+  Totale elementi: 416
+
+OPTICS #778: 1 cluster, DBCV score: 0.1202
+
+[OPTICS #780] Parametri: {'min_samples': 10, 'xi': 0.01, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #780:
+  Noise (outliers): 111 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 50 elementi
+  Cluster 4: 28 elementi
+  Cluster 5: 52 elementi
+  Cluster 6: 23 elementi
+  Cluster 7: 21 elementi
+  Cluster 8: 59 elementi
+  Totale elementi: 416
+
+OPTICS #780: 9 cluster, DBCV score: 0.1535
+
+[OPTICS #781] Parametri: {'min_samples': 20, 'xi': 0.002, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #781:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #781: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #785] Parametri: {'min_samples': 5, 'xi': 0.002, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #785:
+  Noise (outliers): 186 elementi
+  Cluster 0: 87 elementi
+  Cluster 1: 69 elementi
+  Cluster 2: 74 elementi
+  Totale elementi: 416
+
+OPTICS #785: 3 cluster, DBCV score: 0.0185
+
+[OPTICS #788] Parametri: {'min_samples': 5, 'xi': 0.05, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #788:
+  Noise (outliers): 357 elementi
+  Cluster 0: 59 elementi
+  Totale elementi: 416
+
+OPTICS #788: 1 cluster, DBCV score: 0.1418
+
+[OPTICS #791] Parametri: {'min_samples': 14, 'xi': 0.167, 'min_cluster_size': 0.037}
+
+Distribuzione cluster per OPTICS #791:
+  Noise (outliers): 377 elementi
+  Cluster 0: 23 elementi
+  Cluster 1: 16 elementi
+  Totale elementi: 416
+
+OPTICS #791: 2 cluster, DBCV score: 0.0841
+
+[OPTICS #793] Parametri: {'min_samples': 10, 'xi': 0.066, 'min_cluster_size': 0.047}
+
+Distribuzione cluster per OPTICS #793:
+  Noise (outliers): 344 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Totale elementi: 416
+
+OPTICS #793: 3 cluster, DBCV score: 0.1089
+
+[OPTICS #800] Parametri: {'min_samples': 5, 'xi': 0.111, 'min_cluster_size': 0.037}
+
+Distribuzione cluster per OPTICS #800:
+  Noise (outliers): 309 elementi
+  Cluster 0: 28 elementi
+  Cluster 1: 22 elementi
+  Cluster 2: 24 elementi
+  Cluster 3: 17 elementi
+  Cluster 4: 16 elementi
+  Totale elementi: 416
+
+OPTICS #800: 5 cluster, DBCV score: 0.1662
+
+[OPTICS #801] Parametri: {'min_samples': 10, 'xi': 0.05, 'min_cluster_size': 0.05}
+
+Distribuzione cluster per OPTICS #801:
+  Noise (outliers): 344 elementi
+  Cluster 0: 24 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Totale elementi: 416
+
+OPTICS #801: 3 cluster, DBCV score: 0.1089
+
+[OPTICS #810] Parametri: {'min_samples': 30, 'xi': 0.01, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #810:
+  Noise (outliers): 269 elementi
+  Cluster 0: 147 elementi
+  Totale elementi: 416
+
+OPTICS #810: 1 cluster, DBCV score: 0.3534
+
+[OPTICS #815] Parametri: {'min_samples': 50, 'xi': 0.01, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #815:
+  Noise (outliers): 85 elementi
+  Cluster 0: 331 elementi
+  Totale elementi: 416
+
+OPTICS #815: 1 cluster, DBCV score: 0.7957
+
+[OPTICS #820] Parametri: {'min_samples': 16, 'xi': 0.024, 'min_cluster_size': 0.176}
+
+Distribuzione cluster per OPTICS #820:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #820: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #822] Parametri: {'min_samples': 30, 'xi': 0.005, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #822:
+  Noise (outliers): 258 elementi
+  Cluster 0: 158 elementi
+  Totale elementi: 416
+
+OPTICS #822: 1 cluster, DBCV score: 0.3798
+
+[OPTICS #824] Parametri: {'min_samples': 20, 'xi': 0.005, 'min_cluster_size': 0.2}
+
+Distribuzione cluster per OPTICS #824:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #824: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #830] Parametri: {'min_samples': 20, 'xi': 0.01, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #830:
+  Noise (outliers): 332 elementi
+  Cluster 0: 84 elementi
+  Totale elementi: 416
+
+OPTICS #830: 1 cluster, DBCV score: 0.2019
+
+[OPTICS #840] Parametri: {'min_samples': 8, 'xi': 0.081, 'min_cluster_size': 0.054}
+
+Distribuzione cluster per OPTICS #840:
+  Noise (outliers): 366 elementi
+  Cluster 0: 27 elementi
+  Cluster 1: 23 elementi
+  Totale elementi: 416
+
+OPTICS #840: 2 cluster, DBCV score: 0.0687
+
+[OPTICS #843] Parametri: {'min_samples': 20, 'xi': 0.119, 'min_cluster_size': 0.023}
+
+Distribuzione cluster per OPTICS #843:
+  Noise (outliers): 396 elementi
+  Cluster 0: 20 elementi
+  Totale elementi: 416
+
+OPTICS #843: 1 cluster, DBCV score: 0.0481
+
+[OPTICS #849] Parametri: {'min_samples': 12, 'xi': 0.093, 'min_cluster_size': 0.041}
+
+Distribuzione cluster per OPTICS #849:
+  Noise (outliers): 328 elementi
+  Cluster 0: 23 elementi
+  Cluster 1: 27 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 17 elementi
+  Totale elementi: 416
+
+OPTICS #849: 4 cluster, DBCV score: 0.1437
+
+[OPTICS #856] Parametri: {'min_samples': 12, 'xi': 0.156, 'min_cluster_size': 0.049}
+
+Distribuzione cluster per OPTICS #856:
+  Noise (outliers): 393 elementi
+  Cluster 0: 23 elementi
+  Totale elementi: 416
+
+OPTICS #856: 1 cluster, DBCV score: 0.0553
+
+[OPTICS #865] Parametri: {'min_samples': 9, 'xi': 0.024, 'min_cluster_size': 0.183}
+
+Distribuzione cluster per OPTICS #865:
+  Noise (outliers): 331 elementi
+  Cluster 0: 85 elementi
+  Totale elementi: 416
+
+OPTICS #865: 1 cluster, DBCV score: 0.2043
+
+[OPTICS #871] Parametri: {'min_samples': 17, 'xi': 0.161, 'min_cluster_size': 0.045}
+
+Distribuzione cluster per OPTICS #871:
+  Noise (outliers): 396 elementi
+  Cluster 0: 20 elementi
+  Totale elementi: 416
+
+OPTICS #871: 1 cluster, DBCV score: 0.0481
+
+### Risultati per MeanShift ###
+
+[MeanShift #14] Parametri: {'bandwidth': 1}
+
+Distribuzione cluster per MeanShift #14:
+  Cluster 0: 13 elementi
+  Cluster 1: 13 elementi
+  Cluster 2: 10 elementi
+  Cluster 3: 11 elementi
+  Cluster 4: 7 elementi
+  Cluster 5: 9 elementi
+  Cluster 6: 7 elementi
+  Cluster 7: 7 elementi
+  Cluster 8: 8 elementi
+  Cluster 9: 5 elementi
+  Cluster 10: 6 elementi
+  Cluster 11: 7 elementi
+  Cluster 12: 6 elementi
+  Cluster 13: 7 elementi
+  Cluster 14: 5 elementi
+  Cluster 15: 7 elementi
+  Cluster 16: 5 elementi
+  Cluster 17: 5 elementi
+  Cluster 18: 4 elementi
+  Cluster 19: 6 elementi
+  Cluster 20: 5 elementi
+  Cluster 21: 5 elementi
+  Cluster 22: 5 elementi
+  Cluster 23: 3 elementi
+  Cluster 24: 4 elementi
+  Cluster 25: 3 elementi
+  Cluster 26: 4 elementi
+  Cluster 27: 3 elementi
+  Cluster 28: 3 elementi
+  Cluster 29: 3 elementi
+  Cluster 30: 2 elementi
+  Cluster 31: 3 elementi
+  Cluster 32: 2 elementi
+  Cluster 33: 3 elementi
+  Cluster 34: 3 elementi
+  Cluster 35: 3 elementi
+  Cluster 36: 3 elementi
+  Cluster 37: 3 elementi
+  Cluster 38: 3 elementi
+  Cluster 39: 3 elementi
+  Cluster 40: 3 elementi
+  Cluster 41: 3 elementi
+  Cluster 42: 3 elementi
+  Cluster 43: 2 elementi
+  Cluster 44: 2 elementi
+  Cluster 45: 2 elementi
+  Cluster 46: 2 elementi
+  Cluster 47: 2 elementi
+  Cluster 48: 2 elementi
+  Cluster 49: 2 elementi
+  Cluster 50: 2 elementi
+  Cluster 51: 2 elementi
+  Cluster 52: 2 elementi
+  Cluster 53: 2 elementi
+  Cluster 54: 2 elementi
+  Cluster 55: 2 elementi
+  Cluster 56: 2 elementi
+  Cluster 57: 2 elementi
+  Cluster 58: 2 elementi
+  Cluster 59: 2 elementi
+  Cluster 60: 2 elementi
+  Cluster 61: 2 elementi
+  Cluster 62: 2 elementi
+  Cluster 63: 2 elementi
+  Cluster 64: 2 elementi
+  Cluster 65: 2 elementi
+  Cluster 66: 2 elementi
+  Cluster 67: 2 elementi
+  Cluster 68: 2 elementi
+  Cluster 69: 2 elementi
+  Cluster 70: 2 elementi
+  Cluster 71: 2 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 1 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 1 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 1 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 1 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 1 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Cluster 109: 1 elementi
+  Cluster 110: 1 elementi
+  Cluster 111: 1 elementi
+  Cluster 112: 1 elementi
+  Cluster 113: 1 elementi
+  Cluster 114: 1 elementi
+  Cluster 115: 1 elementi
+  Cluster 116: 1 elementi
+  Cluster 117: 1 elementi
+  Cluster 118: 1 elementi
+  Cluster 119: 1 elementi
+  Cluster 120: 1 elementi
+  Cluster 121: 1 elementi
+  Cluster 122: 1 elementi
+  Cluster 123: 1 elementi
+  Cluster 124: 1 elementi
+  Cluster 125: 1 elementi
+  Cluster 126: 1 elementi
+  Cluster 127: 1 elementi
+  Cluster 128: 1 elementi
+  Cluster 129: 1 elementi
+  Cluster 130: 1 elementi
+  Cluster 131: 1 elementi
+  Cluster 132: 1 elementi
+  Cluster 133: 1 elementi
+  Cluster 134: 1 elementi
+  Cluster 135: 1 elementi
+  Cluster 136: 1 elementi
+  Cluster 137: 1 elementi
+  Cluster 138: 1 elementi
+  Cluster 139: 1 elementi
+  Cluster 140: 1 elementi
+  Cluster 141: 1 elementi
+  Cluster 142: 1 elementi
+  Cluster 143: 1 elementi
+  Cluster 144: 1 elementi
+  Cluster 145: 1 elementi
+  Cluster 146: 1 elementi
+  Cluster 147: 1 elementi
+  Cluster 148: 1 elementi
+  Cluster 149: 1 elementi
+  Cluster 150: 1 elementi
+  Cluster 151: 1 elementi
+  Cluster 152: 1 elementi
+  Cluster 153: 1 elementi
+  Cluster 154: 1 elementi
+  Cluster 155: 1 elementi
+  Cluster 156: 2 elementi
+  Cluster 157: 1 elementi
+  Cluster 158: 1 elementi
+  Cluster 159: 1 elementi
+  Cluster 160: 1 elementi
+  Cluster 161: 1 elementi
+  Cluster 162: 1 elementi
+  Cluster 163: 1 elementi
+  Cluster 164: 1 elementi
+  Cluster 165: 1 elementi
+  Cluster 166: 1 elementi
+  Cluster 167: 1 elementi
+  Cluster 168: 1 elementi
+  Cluster 169: 1 elementi
+  Cluster 170: 1 elementi
+  Cluster 171: 1 elementi
+  Cluster 172: 1 elementi
+  Cluster 173: 1 elementi
+  Cluster 174: 1 elementi
+  Cluster 175: 1 elementi
+  Cluster 176: 1 elementi
+  Cluster 177: 1 elementi
+  Cluster 178: 1 elementi
+  Cluster 179: 1 elementi
+  Cluster 180: 1 elementi
+  Cluster 181: 1 elementi
+  Cluster 182: 1 elementi
+  Cluster 183: 1 elementi
+  Cluster 184: 1 elementi
+  Cluster 185: 1 elementi
+  Cluster 186: 1 elementi
+  Cluster 187: 1 elementi
+  Cluster 188: 1 elementi
+  Cluster 189: 1 elementi
+  Cluster 190: 1 elementi
+  Cluster 191: 1 elementi
+  Cluster 192: 1 elementi
+  Cluster 193: 1 elementi
+  Cluster 194: 1 elementi
+  Cluster 195: 1 elementi
+  Cluster 196: 1 elementi
+  Cluster 197: 1 elementi
+  Cluster 198: 1 elementi
+  Cluster 199: 1 elementi
+  Cluster 200: 1 elementi
+  Cluster 201: 1 elementi
+  Cluster 202: 1 elementi
+  Cluster 203: 1 elementi
+  Cluster 204: 1 elementi
+  Cluster 205: 1 elementi
+  Totale elementi: 416
+
+MeanShift #14: 206 cluster, DBCV score: 0.5034
+
+[MeanShift #80] Parametri: {'bandwidth': 2}
+
+Distribuzione cluster per MeanShift #80:
+  Cluster 0: 24 elementi
+  Cluster 1: 28 elementi
+  Cluster 2: 21 elementi
+  Cluster 3: 18 elementi
+  Cluster 4: 13 elementi
+  Cluster 5: 13 elementi
+  Cluster 6: 11 elementi
+  Cluster 7: 12 elementi
+  Cluster 8: 11 elementi
+  Cluster 9: 10 elementi
+  Cluster 10: 12 elementi
+  Cluster 11: 9 elementi
+  Cluster 12: 10 elementi
+  Cluster 13: 8 elementi
+  Cluster 14: 8 elementi
+  Cluster 15: 7 elementi
+  Cluster 16: 7 elementi
+  Cluster 17: 8 elementi
+  Cluster 18: 7 elementi
+  Cluster 19: 6 elementi
+  Cluster 20: 6 elementi
+  Cluster 21: 6 elementi
+  Cluster 22: 6 elementi
+  Cluster 23: 6 elementi
+  Cluster 24: 5 elementi
+  Cluster 25: 5 elementi
+  Cluster 26: 4 elementi
+  Cluster 27: 4 elementi
+  Cluster 28: 5 elementi
+  Cluster 29: 4 elementi
+  Cluster 30: 3 elementi
+  Cluster 31: 3 elementi
+  Cluster 32: 3 elementi
+  Cluster 33: 3 elementi
+  Cluster 34: 3 elementi
+  Cluster 35: 3 elementi
+  Cluster 36: 3 elementi
+  Cluster 37: 3 elementi
+  Cluster 38: 3 elementi
+  Cluster 39: 3 elementi
+  Cluster 40: 3 elementi
+  Cluster 41: 3 elementi
+  Cluster 42: 3 elementi
+  Cluster 43: 3 elementi
+  Cluster 44: 3 elementi
+  Cluster 45: 2 elementi
+  Cluster 46: 2 elementi
+  Cluster 47: 2 elementi
+  Cluster 48: 2 elementi
+  Cluster 49: 2 elementi
+  Cluster 50: 2 elementi
+  Cluster 51: 1 elementi
+  Cluster 52: 1 elementi
+  Cluster 53: 1 elementi
+  Cluster 54: 1 elementi
+  Cluster 55: 1 elementi
+  Cluster 56: 1 elementi
+  Cluster 57: 1 elementi
+  Cluster 58: 3 elementi
+  Cluster 59: 1 elementi
+  Cluster 60: 1 elementi
+  Cluster 61: 1 elementi
+  Cluster 62: 1 elementi
+  Cluster 63: 1 elementi
+  Cluster 64: 1 elementi
+  Cluster 65: 1 elementi
+  Cluster 66: 1 elementi
+  Cluster 67: 1 elementi
+  Cluster 68: 1 elementi
+  Cluster 69: 1 elementi
+  Cluster 70: 1 elementi
+  Cluster 71: 1 elementi
+  Cluster 72: 1 elementi
+  Cluster 73: 1 elementi
+  Cluster 74: 1 elementi
+  Cluster 75: 2 elementi
+  Cluster 76: 1 elementi
+  Cluster 77: 1 elementi
+  Cluster 78: 3 elementi
+  Cluster 79: 1 elementi
+  Cluster 80: 1 elementi
+  Cluster 81: 1 elementi
+  Cluster 82: 1 elementi
+  Cluster 83: 1 elementi
+  Cluster 84: 1 elementi
+  Cluster 85: 1 elementi
+  Cluster 86: 1 elementi
+  Cluster 87: 1 elementi
+  Cluster 88: 2 elementi
+  Cluster 89: 1 elementi
+  Cluster 90: 1 elementi
+  Cluster 91: 1 elementi
+  Cluster 92: 1 elementi
+  Cluster 93: 1 elementi
+  Cluster 94: 1 elementi
+  Cluster 95: 1 elementi
+  Cluster 96: 1 elementi
+  Cluster 97: 1 elementi
+  Cluster 98: 1 elementi
+  Cluster 99: 1 elementi
+  Cluster 100: 1 elementi
+  Cluster 101: 2 elementi
+  Cluster 102: 1 elementi
+  Cluster 103: 1 elementi
+  Cluster 104: 1 elementi
+  Cluster 105: 1 elementi
+  Cluster 106: 1 elementi
+  Cluster 107: 1 elementi
+  Cluster 108: 1 elementi
+  Totale elementi: 416
+
+MeanShift #80: 109 cluster, DBCV score: 0.5069
+
+### Risultati per BIRCH ###
+
+--- Output salvato in: ../../results/csv10\risultati_cluster_csv10_2025-09-15_21-07-15.txt ---

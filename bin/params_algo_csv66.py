@@ -1,41 +1,31 @@
-import random
 
-optics_params = []
-
-min_samples_grid = [5, 10, 20, 30, 50]
-xi_grid = [0.002, 0.005, 0.01, 0.02, 0.05, 0.1, 0.15]
-min_cluster_size_grid = [0.02, 0.05, 0.1, 0.15, 0.2]
-
-# combinazioni con triplo for
-for ms in min_samples_grid:
-    for xi in xi_grid:
-        for mcs in min_cluster_size_grid:
-            optics_params.append({
-                "min_samples": ms,
-                "xi": xi,
-                "min_cluster_size": mcs
-            })
-
-# sampling casuale
-random.seed(42)
-n_random = 700
-
-for _ in range(n_random):
-    optics_params.append({
-        "min_samples": random.choice(range(5, 51)),
-        "xi": round(random.uniform(0.002, 0.2), 3),
-        "min_cluster_size": round(random.uniform(0.02, 0.2), 3)
-    })
-
-random.shuffle(optics_params)
-
-optics_params = optics_params[:1000]
-
-
-meanshift_params = [
-    {'bandwidth': 5.25}
+# OPTICS
+optics_params = [
+    {"min_samples": 9, "xi": 0.01, "min_cluster_size": 0.15},
+    {"min_samples": 10, "xi": 0.01, "min_cluster_size": 0.1},
+    {"min_samples": 10, "xi": 0.02, "min_cluster_size": 0.05},
+    {"min_samples": 34, "xi": 0.019, "min_cluster_size": 0.065},
+    {"min_samples": 12, "xi": 0.007, "min_cluster_size": 0.05},
+    {"min_samples": 5, "xi": 0.002, "min_cluster_size": 0.1},
+    {"min_samples": 5, "xi": 0.01, "min_cluster_size": 0.15},
+    {"min_samples": 6, "xi": 0.02, "min_cluster_size": 0.1},
+    {"min_samples": 17, "xi": 0.03, "min_cluster_size": 0.15},
+    {"min_samples": 4, "xi": 0.02, "min_cluster_size": 0.01},
+    {"min_samples": 5, "xi": 0.007, "min_cluster_size": 0.02},
+    {"min_samples": 14, "xi": 0.015, "min_cluster_size": 0.05},
+    {"min_samples": 15, "xi": 0.019, "min_cluster_size": 0.04},
+    {"min_samples": 10, "xi": 0.002, "min_cluster_size": 0.15},
+    {"min_samples": 14, "xi": 0.029, "min_cluster_size": 0.072}
 ]
 
+# MeanShift
+meanshift_params = [
+    {"bandwidth": 14.59}
+]
+
+# BIRCH
 birch_params = [
-    {'threshold': 3.25, 'branching_factor': 310, 'n_clusters': None}
+    {"n_clusters": 2, "threshold": 2.0, "branching_factor": 50},
+    {"n_clusters": 2, "threshold": 3.0, "branching_factor": 75},
+    {"threshold": 1.5, "branching_factor": 300, "n_clusters": 3}
 ]

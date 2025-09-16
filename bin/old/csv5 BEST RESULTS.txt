@@ -1,0 +1,150 @@
+[OPTICS #42] Parametri: {'min_samples': 11, 'xi': 0.05, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #42:
+  Noise (outliers): 29 elementi
+  Cluster 0: 118 elementi
+  Cluster 1: 22 elementi
+  Totale elementi: 169
+
+OPTICS #42: 2 cluster, DBCV score: 0.3088
+
+[OPTICS #93] Parametri: {'min_samples': 10, 'xi': 0.03, 'min_cluster_size': 0.15}
+
+Distribuzione cluster per OPTICS #93:
+  Noise (outliers): 68 elementi
+  Cluster 0: 74 elementi
+  Cluster 1: 27 elementi
+  Totale elementi: 169
+
+OPTICS #93: 2 cluster, DBCV score: 0.3196
+
+[OPTICS #0] Parametri: {'min_samples': 5, 'xi': 0.035, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #0:
+  Noise (outliers): 51 elementi
+  Cluster 0: 97 elementi
+  Cluster 1: 21 elementi
+  Totale elementi: 169
+
+OPTICS #0: 2 cluster, DBCV score: 0.4507
+
+[OPTICS #1] Parametri: {'min_samples': 5, 'xi': 0.036, 'min_cluster_size': 0.1}
+
+Distribuzione cluster per OPTICS #1:
+  Noise (outliers): 32 elementi
+  Cluster 0: 116 elementi
+  Cluster 1: 21 elementi
+  Totale elementi: 169
+
+OPTICS #1: 2 cluster, DBCV score: 0.4141
+
+[OPTICS #617] Parametri: {'min_samples': 12, 'xi': 0.032, 'min_cluster_size': 0.049}
+
+Distribuzione cluster per OPTICS #617:
+  Noise (outliers): 41 elementi
+  Cluster 0: 118 elementi
+  Cluster 1: 10 elementi
+  Totale elementi: 169
+
+OPTICS #617: 2 cluster, DBCV score: 0.3201
+
+[OPTICS #16] Parametri: {'min_samples': 13, 'xi': 0.01, 'min_cluster_size': 0.086}
+
+Distribuzione cluster per OPTICS #16:
+  Noise (outliers): 84 elementi
+  Cluster 0: 61 elementi
+  Cluster 1: 24 elementi
+  Totale elementi: 169
+
+OPTICS #16: 2 cluster, DBCV score: 0.2902
+
+[MeanShift #47] Parametri: {'bandwidth': 3.35}
+
+Distribuzione cluster per MeanShift #47:
+  Cluster 0: 115 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 12 elementi
+  Cluster 3: 2 elementi
+  Cluster 4: 2 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 3 elementi
+  Cluster 8: 2 elementi
+  Totale elementi: 169
+
+MeanShift #47: 9 cluster, DBCV score: 0.2281
+
+[MeanShift #88] Parametri: {'bandwidth': 3.39}
+
+Distribuzione cluster per MeanShift #88:
+  Cluster 0: 114 elementi
+  Cluster 1: 32 elementi
+  Cluster 2: 12 elementi
+  Cluster 3: 2 elementi
+  Cluster 4: 2 elementi
+  Cluster 5: 1 elementi
+  Cluster 6: 1 elementi
+  Cluster 7: 3 elementi
+  Cluster 8: 2 elementi
+  Totale elementi: 169
+
+MeanShift #88: 9 cluster, DBCV score: 0.0501
+
+[BIRCH #5] Parametri: {'n_clusters': 4, 'threshold': 2.0, 'branching_factor': 100}
+
+Distribuzione cluster per BIRCH #5:
+  Cluster 0: 120 elementi
+  Cluster 1: 31 elementi
+  Cluster 2: 13 elementi
+  Cluster 3: 5 elementi
+  Totale elementi: 169
+
+BIRCH #5: 4 cluster, DBCV score: 0.0299
+
+[BIRCH #10] Parametri: {'threshold': 2.3, 'branching_factor': 120, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #10:
+  Cluster 0: 155 elementi
+  Cluster 1: 14 elementi
+  Totale elementi: 169
+
+BIRCH #10: 2 cluster, DBCV score: 0.0352
+
+[BIRCH #17] Parametri: {'threshold': 2.65, 'branching_factor': 190, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #17:
+  Cluster 0: 139 elementi
+  Cluster 1: 30 elementi
+  Totale elementi: 169
+
+BIRCH #17: 2 cluster, DBCV score: 0.1282
+
+[BIRCH #26] Parametri: {'threshold': 3.1, 'branching_factor': 280, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #26:
+  Cluster 0: 140 elementi
+  Cluster 1: 29 elementi
+  Totale elementi: 169
+
+BIRCH #26: 2 cluster, DBCV score: 0.1322
+
+[BIRCH #155] Parametri: {'threshold': 2.47, 'branching_factor': 72, 'n_clusters': 5}
+
+Distribuzione cluster per BIRCH #155:
+  Cluster 0: 120 elementi
+  Cluster 1: 3 elementi
+  Cluster 2: 31 elementi
+  Cluster 3: 13 elementi
+  Cluster 4: 2 elementi
+  Totale elementi: 169
+
+BIRCH #155: 5 cluster, DBCV score: 0.0339
+
+[BIRCH #196] Parametri: {'threshold': 2.31, 'branching_factor': 291, 'n_clusters': 2}
+
+Distribuzione cluster per BIRCH #196:
+  Cluster 0: 155 elementi
+  Cluster 1: 14 elementi
+  Totale elementi: 169
+
+BIRCH #196: 2 cluster, DBCV score: 0.0352
